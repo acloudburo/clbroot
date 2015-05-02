@@ -5,10 +5,159 @@
   <id>https://doc.cloudburo.net/</id>
   <link href="https://doc.cloudburo.net/"/>
   <link href="https://doc.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-02T09:25:59Z</updated>
+  <updated>2015-05-02T09:59:35Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Curation Platform How To: Picture Handling in Evernote Notes</title>
+    <link rel="alternate" href="https://doc.cloudburo.net/2015/05/02/curation-platform-how-to-picture-handling-in-evernote-notes.html"/>
+    <id>https://doc.cloudburo.net/2015/05/02/curation-platform-how-to-picture-handling-in-evernote-notes.html</id>
+    <published>2015-05-02T09:59:35Z</published>
+    <updated>2015-05-02T09:59:40+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Blog Platform is capable of handling Evernote notes with pictures in various ways. There is a default handling of Images for Images contained in Evernote notes, as well as the possibility to control picture&amp;nbsp;positioning&amp;nbsp;via dedicated Evernote tags. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;Default Image Handling&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        By default the first picture within a&amp;nbsp; note will be placed at the top of the generated blog entry. The text will be floatable to the right of the picture. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        For example refer to the following Evernote note which includes a Japanese art picture at the end of the note. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt; &lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/4eb278430f70bb23d9d11349d6af90cd.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        It will be moved to&amp;nbsp;&amp;nbsp;the beginning of the&amp;nbsp;Blog entry and showed in the Blog Overview page as well. As an example see below the screenshot on a Samsung Mobile when scrolling through the Overview page. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/40f8ea487036482d1d134fd2509511c3.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As mentioned above the default behavior is to have the text floated to the right of the picture. You can see that in the following screenshot in a Chrome Browser on a Mac iMac. Due to the fact that the browser window is enough large the text will float to the left. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/a89e794226cc095a8e4c13043af37f5f.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &amp;nbsp; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;Image Handling controlled via Evernote Tags&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        With the below Evernote tags you can control the positioning of the images&amp;nbsp;within the note. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        To be clear: There is no possibility to control the flow of a single image, the 
+       &lt;u&gt;rules will be applied for each image&lt;/u&gt; in the note! 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The following&amp;nbsp;Image Tags are available and created by default in your Evernote account when you join the Blog platform. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;&lt;span style=""&gt;clb-image-fixedpos&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;: With this tag the pictures will be kept at the original position in the blog&amp;nbsp;as in the corresponding Evernote note. Should be used in case the text in the note is direct correspondence to the note text.&lt;/li&gt; 
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;&lt;span style=""&gt;clb-image-nopull&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;: Will position the image on its own, without floating the text right to the picture. Combined with the &lt;i&gt;clb_image_fixedpos&lt;/i&gt; it will allow to even more control the float of the text in context of pictures.&lt;/li&gt; 
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;&lt;span style=""&gt;clb-image-pull-right&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;: Will position the image on the right with floating text on the left&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As an example this blog entry was using the following tags in order to control the correct flow 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt; &lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ab8ba6b94a7a6b638f8eff23f1bb7c20.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;Additional Information&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;For an introduction to Evernote tags refer to the following Evernote Blog entry: „&lt;a href="https://blog.evernote.com/blog/2014/12/10/use-tags-organize-evernote/" rel="nofollow"&gt;How to Use Tags to Organize Evernote&lt;/a&gt;&amp;ldquo;.&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Curation Platform Feature: Syntax Highlighting Themes</title>
     <link rel="alternate" href="https://doc.cloudburo.net/2015/05/02/curation-platform-feature-syntax-highlighting-themes.html"/>
