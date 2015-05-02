@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://cloudburo.net//sitemap.xml
+Sitemap: https://doc.cloudburo.net//sitemap.xml

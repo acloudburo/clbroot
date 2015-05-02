@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>doc@cloudburo</title>
   <subtitle>Cloudburo Product Documentation</subtitle>
-  <id>https://cloudburo.net/</id>
-  <link href="https://cloudburo.net/"/>
-  <link href="https://cloudburo.net/feed.xml" rel="self"/>
+  <id>https://doc.cloudburo.net/</id>
+  <link href="https://doc.cloudburo.net/"/>
+  <link href="https://doc.cloudburo.net/feed.xml" rel="self"/>
   <updated>2015-05-02T09:25:59Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
   <entry>
     <title>Curation Platform Feature: Syntax Highlighting Themes</title>
-    <link rel="alternate" href="https://cloudburo.net/2015/05/02/curation-platform-feature-syntax-highlighting-themes.html"/>
-    <id>https://cloudburo.net/2015/05/02/curation-platform-feature-syntax-highlighting-themes.html</id>
+    <link rel="alternate" href="https://doc.cloudburo.net/2015/05/02/curation-platform-feature-syntax-highlighting-themes.html"/>
+    <id>https://doc.cloudburo.net/2015/05/02/curation-platform-feature-syntax-highlighting-themes.html</id>
     <published>2015-05-02T09:25:59Z</published>
     <updated>2015-05-02T09:26:01+00:00</updated>
     <author>
@@ -112,8 +112,8 @@
   </entry>
   <entry>
     <title>Curation Platform Feature: Webpage Themes</title>
-    <link rel="alternate" href="https://cloudburo.net/2015/05/02/curation-platform-feature-webpage-themes.html"/>
-    <id>https://cloudburo.net/2015/05/02/curation-platform-feature-webpage-themes.html</id>
+    <link rel="alternate" href="https://doc.cloudburo.net/2015/05/02/curation-platform-feature-webpage-themes.html"/>
+    <id>https://doc.cloudburo.net/2015/05/02/curation-platform-feature-webpage-themes.html</id>
     <published>2015-05-02T09:13:55Z</published>
     <updated>2015-05-02T09:26:16+00:00</updated>
     <author>
