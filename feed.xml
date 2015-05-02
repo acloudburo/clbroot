@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>doc@cloudburo</title>
+  <subtitle>Cloudburo Product Documentation</subtitle>
+  <id>https://cloudburo.net/</id>
+  <link href="https://cloudburo.net/"/>
+  <link href="https://cloudburo.net/feed.xml" rel="self"/>
+  <author>
+    <name>Felix Kuestahler</name>
+  </author>
+</feed>
