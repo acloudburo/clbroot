@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://doc.cloudburo.net/2015/05/02/curation-platform-how-to-picture-handling-in-evernote-notes.html"/>
     <id>https://doc.cloudburo.net/2015/05/02/curation-platform-how-to-picture-handling-in-evernote-notes.html</id>
     <published>2015-05-02T09:59:35Z</published>
-    <updated>2015-05-02T09:59:40+00:00</updated>
+    <updated>2015-05-03T19:13:57+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,7 +23,13 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt;
-        The Blog Platform is capable of handling Evernote notes with pictures in various ways. There is a default handling of Images for Images contained in Evernote notes, as well as the possibility to control picture&amp;nbsp;positioning&amp;nbsp;via dedicated Evernote tags. 
+        The Cloudburo Curation Platform is capable of handling Evernote notes with pictures in various ways. This will allow you to adjust image postioning to your need. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        There is a default handling of images contained in Evernote notes, as well as the possibility to control picture&amp;nbsp;positioning&amp;nbsp;via dedicated Evernote tags. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -35,7 +41,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        By default the first picture within a&amp;nbsp; note will be placed at the top of the generated blog entry. The text will be floatable to the right of the picture. 
+        By default the first picture within a note will be placed at the top of the generated blog entry. The text will be floatable to the right of the picture. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -54,8 +60,11 @@
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; &lt;/span&gt; 
       &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
       &lt;div&gt;
-        It will be moved to&amp;nbsp;&amp;nbsp;the beginning of the&amp;nbsp;Blog entry and showed in the Blog Overview page as well. As an example see below the screenshot on a Samsung Mobile when scrolling through the Overview page. 
+        By default it will be moved to&amp;nbsp;&amp;nbsp;the beginning of the&amp;nbsp;Blog entry and showed in the Blog Overview page as well. As an example see the below the screenshot on a Samsung Mobile when scrolling through the Overview page. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -71,7 +80,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        As mentioned above the default behavior is to have the text floated to the right of the picture. You can see that in the following screenshot in a Chrome Browser on a Mac iMac. Due to the fact that the browser window is enough large the text will float to the left. 
+        As mentioned above the default behavior is to have the text floated to the right of the picture. You can see that in the following screenshot in a Chrome Browser on a Mac. Due to the fact that the browser window is enough large the text will float to the right. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -106,14 +115,14 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The following&amp;nbsp;Image Tags are available and created by default in your Evernote account when you join the Blog platform. 
+        The following&amp;nbsp;Image Tags are available and created by default in your Evernote account when you join the Evernote Curation platform. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;ul&gt; 
        &lt;li&gt;&lt;i&gt;&lt;b&gt;&lt;span style=""&gt;clb-image-fixedpos&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;: With this tag the pictures will be kept at the original position in the blog&amp;nbsp;as in the corresponding Evernote note. Should be used in case the text in the note is direct correspondence to the note text.&lt;/li&gt; 
-       &lt;li&gt;&lt;i&gt;&lt;b&gt;&lt;span style=""&gt;clb-image-nopull&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;: Will position the image on its own, without floating the text right to the picture. Combined with the &lt;i&gt;clb_image_fixedpos&lt;/i&gt; it will allow to even more control the float of the text in context of pictures.&lt;/li&gt; 
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;&lt;span style=""&gt;clb-image-nopull&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;: Will position the image on its own, without floating the text left to the picture. Combined with the &lt;i&gt;clb_image_fixedpos&lt;/i&gt; it will allow to even more control the float of the text in context of pictures.&lt;/li&gt; 
        &lt;li&gt;&lt;i&gt;&lt;b&gt;&lt;span style=""&gt;clb-image-pull-right&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;: Will position the image on the right with floating text on the left&lt;/li&gt; 
       &lt;/ul&gt; 
       &lt;div&gt; 
