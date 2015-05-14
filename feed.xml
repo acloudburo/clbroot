@@ -5,7 +5,523 @@
   <id>https://curation.docs.cloudburo.net/</id>
   <link href="https://curation.docs.cloudburo.net/"/>
   <link href="https://curation.docs.cloudburo.net/feed.xml" rel="self"/>
+  <updated>2015-05-14T03:04:38Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Tutorial: Picture Handling in Evernote Notes</title>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/tutorial-picture-handling-in-evernote-notes.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/14/tutorial-picture-handling-in-evernote-notes.html</id>
+    <published>2015-05-14T03:04:38Z</published>
+    <updated>2015-05-14T15:04:43+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Curation Platform is capable of handling Evernote notes with pictures in various ways. This will allow you to adjust image postioning to your need. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        There is a default handling of images contained in Evernote notes, as well as the possibility to control picture&amp;nbsp;positioning&amp;nbsp;via dedicated Evernote tags. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;Default Image Handling&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        By default the first picture within a note will be placed at the top of the generated blog entry. The text will be floatable to the right of the picture. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        For example refer to the following Evernote note which includes a Japanese art picture at the end of the note. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt; &lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/4eb278430f70bb23d9d11349d6af90cd.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        By default it will be moved to&amp;nbsp;&amp;nbsp;the beginning of the&amp;nbsp;Blog entry and showed in the Blog Overview page as well. As an example see the below the screenshot on a Samsung Mobile when scrolling through the Overview page. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/40f8ea487036482d1d134fd2509511c3.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As mentioned above the default behavior is to have the text floated to the right of the picture. You can see that in the following screenshot in a Chrome Browser on a Mac. Due to the fact that the browser window is enough large the text will float to the right. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/a89e794226cc095a8e4c13043af37f5f.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &amp;nbsp; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;Image Handling controlled via Evernote Tags&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        With the below Evernote tags you can control the positioning of the images&amp;nbsp;within the note. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        To be clear: There is no possibility to control the flow of a single image, the 
+       &lt;u&gt;rules will be applied for each image&lt;/u&gt; in the note! 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The following&amp;nbsp;Image Tags are available and created by default in your Evernote account when you join the Evernote Curation platform. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;&lt;span style=""&gt;clb-image-fixedpos&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;: With this tag the pictures will be kept at the original position in the blog&amp;nbsp;as in the corresponding Evernote note. Should be used in case the text in the note is direct correspondence to the note text.&lt;/li&gt; 
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;&lt;span style=""&gt;clb-image-nopull&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;: Will position the image on its own, without floating the text left to the picture. Combined with the &lt;i&gt;clb_image_fixedpos&lt;/i&gt; it will allow to even more control the float of the text in context of pictures.&lt;/li&gt; 
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;&lt;span style=""&gt;clb-image-pull-right&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;: Will position the image on the right with floating text on the left&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As an example this blog entry was using the following tags in order to control the correct flow 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt; &lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ab8ba6b94a7a6b638f8eff23f1bb7c20.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;Additional Information&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;For an introduction to Evernote tags refer to the following Evernote Blog entry: „&lt;a href="https://blog.evernote.com/blog/2014/12/10/use-tags-organize-evernote/" rel="nofollow"&gt;How to Use Tags to Organize Evernote&lt;/a&gt;&amp;ldquo;.&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Feature: Syntax Highlighting Themes</title>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/feature-syntax-highlighting-themes.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/14/feature-syntax-highlighting-themes.html</id>
+    <published>2015-05-14T03:04:35Z</published>
+    <updated>2015-05-14T15:04:37+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Curation Platform supports Code&amp;nbsp;Syntax&amp;nbsp;Highlighting of various code blocks.&amp;nbsp; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The following code syntax highlighting themes are supported 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Base 16&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/a9b9ab91ba71e39039ae36a8cf18375b.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;ThankfulEyes&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt; &lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/fae14847a0170e4e5eabc96fc52fcd5d.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Github&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt; &lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c4c52134e6a3dd05de6aab95bae0c6b0.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Molokai&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt; &lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/dc9fea3cda4db3d7402c93b2d3ecf2c9.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Monokai&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt; &lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/6a5a2142831c05467edd923695ac4366.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;br&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Feature: Webpage Themes</title>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/feature-webpage-themes.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/14/feature-webpage-themes.html</id>
+    <published>2015-05-14T03:04:17Z</published>
+    <updated>2015-05-14T15:04:34+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Curation Platform is based on 
+       &lt;a href="http://getbootstrap.com/" rel="nofollow"&gt;Bootstrap&lt;/a&gt; the most popular Web framework for &amp;nbsp;responsive, mobile first Web pages and supports various themes. The themes itselfs are provided by 
+       &lt;a href="http://bootswatch.com/" rel="nofollow"&gt;bootswatch.com&lt;/a&gt;&amp;nbsp;and&amp;nbsp;are free for usage. 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        You can choose one of the following themes for your blog. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;Theme: Flatly&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/08801f7c03a5140e5c0229d1d761c099.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;Theme: Cerulean&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/5fb5a3a3d782bc249a2975916638967d.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Cosmo&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e0b81831d7342423d3aba76e0a7f50b5.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Custom&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/5e8867e990941fd1df6dd17c331efd4b.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Journal&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d86dab7f7e20f7c4fdc7f67dd7f00441.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Readable&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/5cda2228ed625d3e36aed8b96e1bdba8.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Simplex&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/6f5fdf9339a5011cf63fb72d5f17d6f8.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Spacelab&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/f4549955badf2af193453c9e4818908f.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: United&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/7696c50c0f7b0f4d42b9a308e51018e7.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Yeti&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ce1d4d8ab1a4baa0412da313f3ed062c.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Slate&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/8e4af2744c0b7844cf7142efac2f47ae.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Cyborg&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e8630bd63ecfd42295eb63f85613e153.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Darkly&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/7f8f523eff8d8c4808305a9d3f76a996.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Superhero&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/a4edd4ce2eb3951e83f4b6c2aa7befae.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Theme: Amelia&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/49d2213cbe4857304027d0a574d15aad.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
 </feed>
