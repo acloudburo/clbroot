@@ -67,6 +67,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.docs.cloudburo.net//2015/05/14/feature-responsive-mobile-optimized-curation-website.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.docs.cloudburo.net//2015/05/14/feature-syntax-highlighting-themes.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
@@ -94,6 +100,12 @@
     <loc>https://curation.docs.cloudburo.net//footer4.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.docs.cloudburo.net//tags/movie.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>

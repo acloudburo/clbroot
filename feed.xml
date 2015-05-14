@@ -5,10 +5,72 @@
   <id>https://curation.docs.cloudburo.net/</id>
   <link href="https://curation.docs.cloudburo.net/"/>
   <link href="https://curation.docs.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-14T03:04:38Z</updated>
+  <updated>2015-05-14T04:02:34Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Feature: Responsive, Mobile Optimized Curation Website</title>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/feature-responsive-mobile-optimized-curation-website.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/14/feature-responsive-mobile-optimized-curation-website.html</id>
+    <published>2015-05-14T04:02:34Z</published>
+    <updated>2015-05-14T16:02:35+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Curation Platform will take your curated Evernote notes and generates a corresponding blog entry in your Cloudburo managed curation website. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The generated&amp;nbsp;blog&amp;nbsp;sites&amp;nbsp;are&amp;nbsp;using&amp;nbsp;a&amp;nbsp;design&amp;nbsp;layout&amp;nbsp;which&amp;nbsp;is&amp;nbsp;following&amp;nbsp;the&amp;nbsp;&amp;lsquo;mobile&amp;nbsp;first&amp;rsquo;&amp;nbsp;approach.&amp;nbsp; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The&amp;nbsp;Mobile&amp;nbsp;First&amp;nbsp;approach&amp;nbsp;is&amp;nbsp;putting&amp;nbsp;a&amp;nbsp;mobile&amp;nbsp;device&amp;nbsp;screen-size&amp;nbsp;into&amp;nbsp;the&amp;nbsp;center,&amp;nbsp;a&amp;nbsp;screen&amp;nbsp;size&amp;nbsp;which&amp;nbsp;got rapidly&amp;nbsp;the&amp;nbsp;default&amp;nbsp;screen&amp;nbsp;size&amp;nbsp;for&amp;nbsp;a&amp;nbsp;high&amp;nbsp;percentage&amp;nbsp;of&amp;nbsp;your&amp;nbsp;users&amp;nbsp;and&amp;nbsp;customers.&amp;nbsp; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Mobile-First&amp;nbsp;forces&amp;nbsp;you&amp;nbsp;to&amp;nbsp;focus&amp;nbsp;on&amp;nbsp;the&amp;nbsp;core&amp;nbsp;content&amp;nbsp;and&amp;nbsp;functionality.&amp;nbsp;You&amp;nbsp;have&amp;nbsp;to&amp;nbsp;rethink&amp;nbsp;your&amp;nbsp;design&amp;nbsp;layout.&amp;nbsp;You&amp;nbsp;only&amp;nbsp;have&amp;nbsp;enough&amp;nbsp;space&amp;nbsp;on&amp;nbsp;the&amp;nbsp;screen&amp;nbsp;for&amp;nbsp;the&amp;nbsp;most&amp;nbsp;important&amp;nbsp;and&amp;nbsp;key&amp;nbsp;parts&amp;nbsp;of&amp;nbsp;your&amp;nbsp;website.&amp;nbsp;So&amp;nbsp;if&amp;nbsp;something&amp;nbsp;isn’t&amp;nbsp;absolutely&amp;nbsp;necessary&amp;nbsp;for&amp;nbsp;your&amp;nbsp;clients,&amp;nbsp;then&amp;nbsp;ditch&amp;nbsp;it&amp;nbsp;for&amp;nbsp;your&amp;nbsp;mobile-first&amp;nbsp;design! 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Your curation website will apply the above principles and ensures with a responsive design, that your prepared content will be optimally delivered to any device of your reader. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        So concentrate on the content and leave the rest to the Cloudburo Curation Platform. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/pq2ngydAJ3Q?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Tutorial: Picture Handling in Evernote Notes</title>
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/tutorial-picture-handling-in-evernote-notes.html"/>
