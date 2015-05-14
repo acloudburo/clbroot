@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>doc@cloudburo</title>
-  <subtitle>Cloudburo Product Documentation</subtitle>
-  <id>https://doc.cloudburo.net/</id>
-  <link href="https://doc.cloudburo.net/"/>
-  <link href="https://doc.cloudburo.net/feed.xml" rel="self"/>
+  <title>doc@curation</title>
+  <subtitle>Cloudburo Curation Product Documentation</subtitle>
+  <id>https://curation.docs.cloudburo.net/</id>
+  <link href="https://curation.docs.cloudburo.net/"/>
+  <link href="https://curation.docs.cloudburo.net/feed.xml" rel="self"/>
   <updated>2015-05-02T09:59:35Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
   <entry>
     <title>Curation Platform How To: Picture Handling in Evernote Notes</title>
-    <link rel="alternate" href="https://doc.cloudburo.net/2015/05/02/curation-platform-how-to-picture-handling-in-evernote-notes.html"/>
-    <id>https://doc.cloudburo.net/2015/05/02/curation-platform-how-to-picture-handling-in-evernote-notes.html</id>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/02/curation-platform-how-to-picture-handling-in-evernote-notes.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/02/curation-platform-how-to-picture-handling-in-evernote-notes.html</id>
     <published>2015-05-02T09:59:35Z</published>
     <updated>2015-05-14T08:55:48+00:00</updated>
     <author>
@@ -169,8 +169,8 @@
   </entry>
   <entry>
     <title>Curation Platform Feature: Syntax Highlighting Themes</title>
-    <link rel="alternate" href="https://doc.cloudburo.net/2015/05/02/curation-platform-feature-syntax-highlighting-themes.html"/>
-    <id>https://doc.cloudburo.net/2015/05/02/curation-platform-feature-syntax-highlighting-themes.html</id>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/02/curation-platform-feature-syntax-highlighting-themes.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/02/curation-platform-feature-syntax-highlighting-themes.html</id>
     <published>2015-05-02T09:25:59Z</published>
     <updated>2015-05-14T08:55:48+00:00</updated>
     <author>
@@ -270,8 +270,8 @@
   </entry>
   <entry>
     <title>Curation Platform Feature: Webpage Themes</title>
-    <link rel="alternate" href="https://doc.cloudburo.net/2015/05/02/curation-platform-feature-webpage-themes.html"/>
-    <id>https://doc.cloudburo.net/2015/05/02/curation-platform-feature-webpage-themes.html</id>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/02/curation-platform-feature-webpage-themes.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/02/curation-platform-feature-webpage-themes.html</id>
     <published>2015-05-02T09:13:55Z</published>
     <updated>2015-05-14T08:55:48+00:00</updated>
     <author>
