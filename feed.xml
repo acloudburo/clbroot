@@ -5,16 +5,68 @@
   <id>https://curation.docs.cloudburo.net/</id>
   <link href="https://curation.docs.cloudburo.net/"/>
   <link href="https://curation.docs.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-14T04:02:34Z</updated>
+  <updated>2015-05-14T10:49:44Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Quick Tip: Use Evernote Spellchecker</title>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/quick-tip-use-evernote-spellchecker.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/14/quick-tip-use-evernote-spellchecker.html</id>
+    <published>2015-05-14T10:49:44Z</published>
+    <updated>2015-05-14T22:49:48+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Use the Evernote Spellchecker when working on an article. The following feature is available in the Evernote Webclient, as well as the Evernote Mac Application (not sure if it exists in other Evernote clients as well). 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        In the example below the Spellchecker will show all problematic words with a „red line“ underlined. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/749d2582f44d23109beaea94ed9dcdbd.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        In order to resolve it, right-mouse click on the word, which will open the menu with possibility to correct it. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/567a2c4a3accca9630d118d2af093d4b.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Feature: Responsive, Mobile Optimized Curation Website</title>
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/feature-responsive-mobile-optimized-curation-website.html"/>
     <id>https://curation.docs.cloudburo.net/2015/05/14/feature-responsive-mobile-optimized-curation-website.html</id>
     <published>2015-05-14T04:02:34Z</published>
-    <updated>2015-05-14T16:02:35+00:00</updated>
+    <updated>2015-05-14T22:49:50+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -29,19 +81,19 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The generated&amp;nbsp;blog&amp;nbsp;sites&amp;nbsp;are&amp;nbsp;using&amp;nbsp;a&amp;nbsp;design&amp;nbsp;layout&amp;nbsp;which&amp;nbsp;is&amp;nbsp;following&amp;nbsp;the&amp;nbsp;&amp;lsquo;mobile&amp;nbsp;first&amp;rsquo;&amp;nbsp;approach.&amp;nbsp; 
+        The generated blog sites are using a design layout which is following the &amp;lsquo;mobile first&amp;rsquo; approach.&lt;br&gt;
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The&amp;nbsp;Mobile&amp;nbsp;First&amp;nbsp;approach&amp;nbsp;is&amp;nbsp;putting&amp;nbsp;a&amp;nbsp;mobile&amp;nbsp;device&amp;nbsp;screen-size&amp;nbsp;into&amp;nbsp;the&amp;nbsp;center,&amp;nbsp;a&amp;nbsp;screen&amp;nbsp;size&amp;nbsp;which&amp;nbsp;got rapidly&amp;nbsp;the&amp;nbsp;default&amp;nbsp;screen&amp;nbsp;size&amp;nbsp;for&amp;nbsp;a&amp;nbsp;high&amp;nbsp;percentage&amp;nbsp;of&amp;nbsp;your&amp;nbsp;users&amp;nbsp;and&amp;nbsp;customers.&amp;nbsp; 
+        The Mobile First approach is putting a mobile device screen-size into the center, a screen size which got rapidly the default screen size for a high percentage of your users and customers.&lt;br&gt;
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        Mobile-First&amp;nbsp;forces&amp;nbsp;you&amp;nbsp;to&amp;nbsp;focus&amp;nbsp;on&amp;nbsp;the&amp;nbsp;core&amp;nbsp;content&amp;nbsp;and&amp;nbsp;functionality.&amp;nbsp;You&amp;nbsp;have&amp;nbsp;to&amp;nbsp;rethink&amp;nbsp;your&amp;nbsp;design&amp;nbsp;layout.&amp;nbsp;You&amp;nbsp;only&amp;nbsp;have&amp;nbsp;enough&amp;nbsp;space&amp;nbsp;on&amp;nbsp;the&amp;nbsp;screen&amp;nbsp;for&amp;nbsp;the&amp;nbsp;most&amp;nbsp;important&amp;nbsp;and&amp;nbsp;key&amp;nbsp;parts&amp;nbsp;of&amp;nbsp;your&amp;nbsp;website.&amp;nbsp;So&amp;nbsp;if&amp;nbsp;something&amp;nbsp;isn’t&amp;nbsp;absolutely&amp;nbsp;necessary&amp;nbsp;for&amp;nbsp;your&amp;nbsp;clients,&amp;nbsp;then&amp;nbsp;ditch&amp;nbsp;it&amp;nbsp;for&amp;nbsp;your&amp;nbsp;mobile-first&amp;nbsp;design! 
+        Mobile-First forces you to focus on the core content and functionality. You have to rethink your design layout. You only have enough space on the screen for the most important and key parts of your website. So if something isn’t absolutely necessary for your clients, then ditch it for your mobile-first design! 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -76,7 +128,7 @@
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/tutorial-picture-handling-in-evernote-notes.html"/>
     <id>https://curation.docs.cloudburo.net/2015/05/14/tutorial-picture-handling-in-evernote-notes.html</id>
     <published>2015-05-14T03:04:38Z</published>
-    <updated>2015-05-14T15:04:43+00:00</updated>
+    <updated>2015-05-14T22:24:38+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -234,7 +286,7 @@
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/feature-syntax-highlighting-themes.html"/>
     <id>https://curation.docs.cloudburo.net/2015/05/14/feature-syntax-highlighting-themes.html</id>
     <published>2015-05-14T03:04:35Z</published>
-    <updated>2015-05-14T15:04:37+00:00</updated>
+    <updated>2015-05-14T22:24:38+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -335,7 +387,7 @@
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/feature-webpage-themes.html"/>
     <id>https://curation.docs.cloudburo.net/2015/05/14/feature-webpage-themes.html</id>
     <published>2015-05-14T03:04:17Z</published>
-    <updated>2015-05-14T15:04:34+00:00</updated>
+    <updated>2015-05-14T22:24:38+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>

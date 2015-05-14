@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://curation.docs.cloudburo.net//footer2.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.docs.cloudburo.net//menu4.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.docs.cloudburo.net//menu1.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.docs.cloudburo.net//footer3.html</loc>
+    <loc>https://curation.docs.cloudburo.net//about.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
@@ -31,19 +13,13 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//footer1.html</loc>
+    <loc>https://curation.docs.cloudburo.net//menu3.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.docs.cloudburo.net//blog.html</loc>
+    <loc>https://curation.docs.cloudburo.net//footer2.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
@@ -55,27 +31,51 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.docs.cloudburo.net//footer4.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.docs.cloudburo.net//</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.docs.cloudburo.net//menu4.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.docs.cloudburo.net//blog.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.docs.cloudburo.net//contact.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//about.html</loc>
+    <loc>https://curation.docs.cloudburo.net//menu1.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//2015/05/14/feature-responsive-mobile-optimized-curation-website.html</loc>
+    <loc>https://curation.docs.cloudburo.net//footer1.html</loc>
     <lastmod>2015-05-14</lastmod>
-    <priority>0.7</priority>
+    <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//2015/05/14/feature-syntax-highlighting-themes.html</loc>
+    <loc>https://curation.docs.cloudburo.net//footer3.html</loc>
     <lastmod>2015-05-14</lastmod>
-    <priority>0.7</priority>
+    <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -91,19 +91,25 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//menu3.html</loc>
+    <loc>https://curation.docs.cloudburo.net//2015/05/14/feature-responsive-mobile-optimized-curation-website.html</loc>
     <lastmod>2015-05-14</lastmod>
-    <priority>1.0</priority>
+    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//footer4.html</loc>
+    <loc>https://curation.docs.cloudburo.net//2015/05/14/feature-syntax-highlighting-themes.html</loc>
     <lastmod>2015-05-14</lastmod>
-    <priority>1.0</priority>
+    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//tags/movie.html</loc>
+    <loc>https://curation.docs.cloudburo.net//2015/05/14/quick-tip-use-evernote-spellchecker.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.docs.cloudburo.net//tags/tutorial.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -115,7 +121,13 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//tags/tutorial.html</loc>
+    <loc>https://curation.docs.cloudburo.net//tags/movie.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.docs.cloudburo.net//tags/quicktip.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
