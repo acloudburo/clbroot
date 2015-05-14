@@ -67,18 +67,6 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//2015/05/02/curation-platform-feature-webpage-themes.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.docs.cloudburo.net//2015/05/02/curation-platform-feature-syntax-highlighting-themes.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://curation.docs.cloudburo.net//menu3.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>1.0</priority>
@@ -88,36 +76,6 @@
     <loc>https://curation.docs.cloudburo.net//footer4.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.docs.cloudburo.net//tags/curationplatform.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.docs.cloudburo.net//tags/feature.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.docs.cloudburo.net//2015.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.docs.cloudburo.net//2015/05.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.docs.cloudburo.net//2015/05/02.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
