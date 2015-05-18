@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/18/tutorial-video-handling-in-evernote-notes-youtube.html"/>
     <id>https://curation.docs.cloudburo.net/2015/05/18/tutorial-video-handling-in-evernote-notes-youtube.html</id>
     <published>2015-05-18T08:21:17Z</published>
-    <updated>2015-05-18T20:21:22+00:00</updated>
+    <updated>2015-05-18T20:37:11+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -57,25 +57,30 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
-       &lt;span style="font-size: 18px;"&gt;Add the Identifier to the Evernote note&lt;/span&gt; 
+       &lt;span style="font-size: 18px;"&gt;Add the Identifier to the Evernote note surrounded by keywords&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        Within the Evernote add the Identifier surrounded by the keywords: 
+        Within the Evernote add the Identifier surrounded by the keyword 
+       &lt;span style=""&gt;video-youtube &lt;/span&gt;in square  brackets 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;&lt;span style=""&gt;&lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/&lt;i&gt;yourIdentifier&lt;/i&gt;?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/span&gt;&lt;/li&gt; 
-      &lt;/ul&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/53a3f3018c8b124e0f0a1fb914314436.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        As an example refer to the screenshot below 
+         As an example refer to the screenshot below 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
