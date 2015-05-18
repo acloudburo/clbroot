@@ -5,10 +5,108 @@
   <id>https://curation.docs.cloudburo.net/</id>
   <link href="https://curation.docs.cloudburo.net/"/>
   <link href="https://curation.docs.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-14T10:49:44Z</updated>
+  <updated>2015-05-18T08:21:17Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Tutorial - Video Handling in Evernote Notes (YouTube)</title>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/18/tutorial-video-handling-in-evernote-notes-youtube.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/18/tutorial-video-handling-in-evernote-notes-youtube.html</id>
+    <published>2015-05-18T08:21:17Z</published>
+    <updated>2015-05-18T20:21:22+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt; 
+       &lt;span style="font-size: 18px;"&gt;Get the Youtube Video Identifier&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The Cloudburo Curation Platform is capable of embedding YouTube videos into your blog article. This is achieved by adding some special key words into your Evernote note at the position where you want to embed the corresponding video. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Suppose you have the following video which demonstrates „Responsive Design“ which you want to embed into your blog entry. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/0cef9f28efbce43990c6a4a3a26cd620.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        What you have have to provide in your Evernote note is the Youtube identifier, which you will find on various places on the video page. In our example the identifier is „pq2ngydAJ3Q&amp;quot; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 18px;"&gt;Add the Identifier to the Evernote note&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Within the Evernote add the Identifier surrounded by the keywords: 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;&lt;span style=""&gt;&lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/&lt;i&gt;yourIdentifier&lt;/i&gt;?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/span&gt;&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As an example refer to the screenshot below 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/77b445a48e20f2bb77006d59a0083c3a.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        This will be rendered in the blog page in the following way. Be aware that the video will be adjusted correctly to the corresponding screen size. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e3d6c8b350aca00c683d1e46c7545893.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Quick Tip: Use Evernote Spellchecker</title>
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/quick-tip-use-evernote-spellchecker.html"/>
