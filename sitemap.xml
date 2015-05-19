@@ -109,6 +109,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.docs.cloudburo.net//2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html</loc>
+    <lastmod>2015-05-19</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.docs.cloudburo.net//2015/05/14/feature-syntax-highlighting-themes.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
