@@ -91,6 +91,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.docs.cloudburo.net//2015/05/19/tutorial-publishing-a-curation-blog-1-min-23-sec.html</loc>
+    <lastmod>2015-05-19</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.docs.cloudburo.net//2015/05/14/feature-webpage-themes.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
@@ -121,13 +127,13 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//tags/feature.html</loc>
+    <loc>https://curation.docs.cloudburo.net//tags/movie.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.docs.cloudburo.net//tags/movie.html</loc>
+    <loc>https://curation.docs.cloudburo.net//tags/feature.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -148,6 +154,12 @@
     <loc>https://curation.docs.cloudburo.net//2015/05.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.docs.cloudburo.net//2015/05/19.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
