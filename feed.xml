@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/20/feature-seo-friendly-article-urls.html"/>
     <id>https://curation.docs.cloudburo.net/2015/05/20/feature-seo-friendly-article-urls.html</id>
     <published>2015-05-20T07:16:11Z</published>
-    <updated>2015-05-20T19:16:14+00:00</updated>
+    <updated>2015-05-20T19:32:51+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -41,6 +41,13 @@
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
+      &lt;div&gt;
+        Be aware that these two attributes are identifying uniquely the article on the content site, so you may not change in case you only want to update the site. Refer to the following 
+       &lt;a href="http://curation.docs.cloudburo.net/2015/05/19/quick-tip-changing-an-evernote-title-of-an-already-processed-note.html" rel="nofollow"&gt;Quick Tip&lt;/a&gt; for the steps necessary to change the title of an already generated article. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
@@ -63,13 +70,16 @@
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;This is a well-written URL’s with the benefit that the link is serving as his own anchor text, when copied and pasted as links in forums or blogs, or other online venues.&lt;/li&gt; 
-       &lt;li&gt;A search engine may interpret the terms and give ranking credit to the page for the terms.&lt;/li&gt; 
-       &lt;li&gt;By having title terms used, the URL makes semantically sense and a search engine may interpret and rank the keywords used. &lt;/li&gt; 
-       &lt;li&gt;So make sure that the title is a good summary (keywords) of the overall content.&lt;/li&gt; 
-       &lt;li&gt;For additional information about the URL in the SEO domain, refer to the following &lt;a href="https://moz.com/learn/seo/url" rel="nofollow"&gt;moz.com article&lt;/a&gt;.&lt;/li&gt; 
-      &lt;/ul&gt; 
+      &lt;div&gt;
+        This is a well-written URL’s with the benefit that the link is serving as his own anchor text, when copied and pasted as links in forums or blogs, or other online venues. 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        A search engine may interpret the terms and give ranking credit to the page for the terms. By having title terms used, the URL makes semantically sense and a search engine may interpret and rank the keywords used. So make sure that the title is a good summary (keywords) of the overall content. 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        For additional information about the URL in the SEO domain, refer to the following 
+       &lt;a href="https://moz.com/learn/seo/url" rel="nofollow"&gt;moz.com article&lt;/a&gt;. 
+      &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
