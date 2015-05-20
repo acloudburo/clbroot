@@ -58,7 +58,7 @@
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/19/quick-tip-changing-an-evernote-title-of-an-already-processed-note.html"/>
     <id>https://curation.docs.cloudburo.net/2015/05/19/quick-tip-changing-an-evernote-title-of-an-already-processed-note.html</id>
     <published>2015-05-19T10:03:37Z</published>
-    <updated>2015-05-19T22:03:38+00:00</updated>
+    <updated>2015-05-20T04:28:59+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -68,7 +68,7 @@
     
     &lt;p&gt;&lt;div&gt;
         You have to be aware that for any processed note - which has the 
-       &lt;b&gt;clb-processed&lt;/b&gt; tag - the title is not changeable anymore. Changing of the title would result in a new article and not update. 
+       &lt;b&gt;clb-processed&lt;/b&gt; tag - the title is not changeable anymore. Changing of the title would result in a new article and not an update of the note. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
