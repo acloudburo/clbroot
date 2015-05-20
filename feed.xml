@@ -325,7 +325,7 @@
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html"/>
     <id>https://curation.docs.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html</id>
     <published>2015-05-20T07:49:11Z</published>
-    <updated>2015-05-20T20:49:11+00:00</updated>
+    <updated>2015-05-20T22:27:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -345,6 +345,15 @@
   &lt;img class="img-responsive img-thumbnail article" src="/images/c5ae9020bd2d592f40c011de52d28d18.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As you can see on the screenshot above, the article is followed by the „Start Discussion“ screen of Disqus, which would manage the discussion sessions. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
