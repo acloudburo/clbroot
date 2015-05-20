@@ -5,10 +5,40 @@
   <id>https://curation.docs.cloudburo.net/</id>
   <link href="https://curation.docs.cloudburo.net/"/>
   <link href="https://curation.docs.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-20T07:16:11Z</updated>
+  <updated>2015-05-20T07:49:11Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Feature: Disqus Article Comment Platform Integration</title>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html</id>
+    <published>2015-05-20T07:49:11Z</published>
+    <updated>2015-05-20T20:49:11+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt; 
+       &lt;a href="https://disqus.com/websites/?utm_source=dev1cloudburo&amp;amp;utm_medium=Disqus-Footer" rel="nofollow"&gt;Disqus.com&lt;/a&gt; is a no cost platform to build up a community by allowing people to comment your content site articles. You have to enable the Disqus comment feature in the Cloudburo Content Curation platform by providing your Disqus shortname. Each article will then be followed by the Disqus comment GUI component. You have to register with Disqus to benefit from this feature. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c5ae9020bd2d592f40c011de52d28d18.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Feature: SEO Friendly article URLs</title>
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/20/feature-seo-friendly-article-urls.html"/>
@@ -372,58 +402,6 @@
     
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/e3d6c8b350aca00c683d1e46c7545893.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Quick Tip: Use Evernote Spellchecker</title>
-    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/14/quick-tip-use-evernote-spellchecker.html"/>
-    <id>https://curation.docs.cloudburo.net/2015/05/14/quick-tip-use-evernote-spellchecker.html</id>
-    <published>2015-05-14T10:49:44Z</published>
-    <updated>2015-05-14T22:49:48+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Use the Evernote Spellchecker when working on an article. The following feature is available in the Evernote Webclient, as well as the Evernote Mac Application (not sure if it exists in other Evernote clients as well). 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        In the example below the Spellchecker will show all problematic words with a „red line“ underlined. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/749d2582f44d23109beaea94ed9dcdbd.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        In order to resolve it, right-mouse click on the word, which will open the menu with possibility to correct it. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/567a2c4a3accca9630d118d2af093d4b.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt;&lt;/p&gt;
