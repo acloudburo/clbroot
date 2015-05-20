@@ -5,10 +5,291 @@
   <id>https://curation.docs.cloudburo.net/</id>
   <link href="https://curation.docs.cloudburo.net/"/>
   <link href="https://curation.docs.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-20T07:49:11Z</updated>
+  <updated>2015-05-20T09:47:10Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Getting Started: The Content Site in a nutshell</title>
+    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html"/>
+    <id>https://curation.docs.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html</id>
+    <published>2015-05-20T09:47:10Z</published>
+    <updated>2015-05-20T21:47:16+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Content Curation Site has a blog structure setup which is concentrated around you published articles. It’’s based on a 
+       &lt;a href="http://curation.docs.cloudburo.net/" rel="nofollow"&gt;responsive design&lt;/a&gt; and will rearrange the content in order to provide a optimal reading experience for an device size. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The four main pages steering your content are: 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;The Article List Page&lt;/li&gt; 
+       &lt;li&gt;The Single Article Page&lt;/li&gt; 
+       &lt;li&gt;The Category List Page&lt;/li&gt; 
+       &lt;li&gt;The ByYear List Page&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Beside these four main pages, you are free to define additional  simple pages (including an optional index page) which can be linked into the header or footer. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;The Article List Page&lt;/span&gt;&lt;/b&gt;&lt;/u&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The article list page is by default the index (entry) page of your content site. It will list all articles in chronological order and provides a short excerpt of the article with a „Read More“ button, which will open the Single Article Page. 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The different page content parts will be described as part of the Sing Article Page section. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/43f1655913c38cc8285556b30e71a51b.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As a side-information: You may chose to define a dedicated index page by your own. In this case the Article List Page will be available via the HEADER menu. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;The  Single Article Page&lt;/span&gt;&lt;/b&gt;&lt;/u&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The Single Article Page is the main page and will visualize your Evernote note content.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ca7af949b2d0d648a9da4d17f174032b.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;div&gt;
+         The page consists of the following structural elements. 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;HEADER AREA&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Consists of the Home Link-, Menu- and Social Media Icons sections. All elements are user configurable during setup. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/12ed211db4c0f1f9c519cd026683a282.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;By clicking on the „Home Link“ you will go back to the index page.&lt;/li&gt; 
+       &lt;li&gt;By default there is a „Categories“ and „ByYear“ menu which groups your published content.&lt;/li&gt; 
+       &lt;li&gt;Additional user defined menus will be added (up to 4), e.g link to an About page.&lt;/li&gt; 
+       &lt;li&gt;Social Media Icons, allow you to link to your Social media accounts, clicking on it will open for example your Twitter home page. (Twitter, Facebook, Linkedin, Google Plus and GitHub are supported)&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Below a Header Example with the „zurich4u&amp;quot; Home Link, two user defined menu entries to an „About“ and „Contact“ page, two default menu entries for grouping your content by categories or year, as well as a Facebook Social Media Icon. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/4c3cfe8777f80c13bffccd63cab6cce0.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The menu is responsive and will collapse to the „Hamburger“ style in case the device screen is too small to display the full menu. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/01a0e4a0e28eea15113d0a7276b7ca41.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        By clicking on the „Hamburger“ icon, the menu will be opened vertically, 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/0d992996f04d8a8f28f18da8dae54eca.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;CONTENT AREA (LEFT TOP SIDE)&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The Content Area consists 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;of the Article Title followed by&lt;/li&gt; 
+       &lt;li&gt;the list of Article Categories, followed by&lt;/li&gt; 
+       &lt;li&gt;the Article Content itself.&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        In case your Evernote note has the URL attribute set 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/66131b9d339153362873f1772d3e5411.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The article content will have a the end „Link“ element attached. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;SUPPORT AREA (LEFT BOTTOM SIDE)&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The Support Area below the Content Area, may have the following „article“ supporting elements 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;&lt;a href="https://disqus.com/websites/" rel="nofollow"&gt;Disqus&lt;/a&gt; Collaboration Platform integration (optional), allows your community and you to discuss the content of the article. (&lt;a href="http://curation.docs.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html" rel="nofollow"&gt;Feature Description&lt;/a&gt;)&lt;/li&gt; 
+       &lt;li&gt;Recent Article list, as a teaser for the reader to stay on your site and read on&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;GROUPING AREA (RIGHT SIDE)&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Will contain all list of all your defined Categories (with the amount of articles grouped by the category name), as well as a list of articles per year. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;FOOTER AREA &lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Will contain copyright section, as well as user definable links to simple pages (e.g. in case you want to define a disclaimer page or similar). 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;Category List Page / By Year List Page&lt;/span&gt;&lt;/b&gt;&lt;/u&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        By clicking on a category link the Category List Page will be displayed. The same mechanism applies when clicking a year, which results in the opening of the Year List Page. 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/48460c1abaf51bdcc768fcac97f89322.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;Simple Pages&lt;/span&gt;&lt;/b&gt;&lt;/u&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        A user is free to add additional pages which be linked either in the Header or Footer Menu.These are simple pages (only content no left side bar). As an example the „About“ page of the zurich4u.ch page. Obviously you will handle also this content in Evernote. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/b07fd4d86bfcc526a4f403f4ca74b124.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Feature: Disqus Article Comment Platform Integration</title>
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html"/>
@@ -301,109 +582,6 @@
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Tutorial - Video Handling in Evernote Notes (YouTube)</title>
-    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/18/tutorial-video-handling-in-evernote-notes-youtube.html"/>
-    <id>https://curation.docs.cloudburo.net/2015/05/18/tutorial-video-handling-in-evernote-notes-youtube.html</id>
-    <published>2015-05-18T08:21:17Z</published>
-    <updated>2015-05-18T20:37:11+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt; 
-       &lt;span style="font-size: 18px;"&gt;Get the Youtube Video Identifier&lt;/span&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The Cloudburo Curation Platform is capable of embedding YouTube videos into your blog article. This is achieved by adding some special key words into your Evernote note at the position where you want to embed the corresponding video. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Suppose you have the following video which demonstrates „Responsive Design“ which you want to embed into your blog entry. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/0cef9f28efbce43990c6a4a3a26cd620.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        What you have have to provide in your Evernote note is the Youtube identifier, which you will find on various places on the video page. In our example the identifier is „pq2ngydAJ3Q&amp;quot; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;span style="font-size: 18px;"&gt;Add the Identifier to the Evernote note surrounded by keywords&lt;/span&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Within the Evernote add the Identifier surrounded by the keyword 
-       &lt;span style=""&gt;video-youtube &lt;/span&gt;in square  brackets 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/53a3f3018c8b124e0f0a1fb914314436.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-         As an example refer to the screenshot below 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/77b445a48e20f2bb77006d59a0083c3a.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        This will be rendered in the blog page in the following way. Be aware that the video will be adjusted correctly to the corresponding screen size. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/e3d6c8b350aca00c683d1e46c7545893.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
