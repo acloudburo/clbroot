@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>doc@curation</title>
   <subtitle>Cloudburo Curation Product Documentation</subtitle>
-  <id>https://curation.docs.cloudburo.net/</id>
-  <link href="https://curation.docs.cloudburo.net/"/>
-  <link href="https://curation.docs.cloudburo.net/feed.xml" rel="self"/>
+  <id>https://curation.cloudburo.net/</id>
+  <link href="https://curation.cloudburo.net/"/>
+  <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
   <updated>2015-05-20T09:47:10Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
   <entry>
     <title>Getting Started: The Content Site in a nutshell</title>
-    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html"/>
-    <id>https://curation.docs.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html"/>
+    <id>https://curation.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html</id>
     <published>2015-05-20T09:47:10Z</published>
     <updated>2015-05-21T05:30:09+00:00</updated>
     <author>
@@ -314,8 +314,8 @@
   </entry>
   <entry>
     <title>Feature: Disqus Article Comment Platform Integration</title>
-    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html"/>
-    <id>https://curation.docs.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html"/>
+    <id>https://curation.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html</id>
     <published>2015-05-20T07:49:11Z</published>
     <updated>2015-05-20T22:27:47+00:00</updated>
     <author>
@@ -353,8 +353,8 @@
   </entry>
   <entry>
     <title>Feature: SEO Friendly article URLs</title>
-    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/20/feature-seo-friendly-article-urls.html"/>
-    <id>https://curation.docs.cloudburo.net/2015/05/20/feature-seo-friendly-article-urls.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/20/feature-seo-friendly-article-urls.html"/>
+    <id>https://curation.cloudburo.net/2015/05/20/feature-seo-friendly-article-urls.html</id>
     <published>2015-05-20T07:16:11Z</published>
     <updated>2015-05-20T19:32:51+00:00</updated>
     <author>
@@ -447,8 +447,8 @@
   </entry>
   <entry>
     <title>Feature: W3C Atom 1.0 valid RSS Feed</title>
-    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html"/>
-    <id>https://curation.docs.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html"/>
+    <id>https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html</id>
     <published>2015-05-19T10:20:18Z</published>
     <updated>2015-05-19T22:20:20+00:00</updated>
     <author>
@@ -491,8 +491,8 @@
   </entry>
   <entry>
     <title>Quick Tip - Changing an Evernote title of an already processed note</title>
-    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/19/quick-tip-changing-an-evernote-title-of-an-already-processed-note.html"/>
-    <id>https://curation.docs.cloudburo.net/2015/05/19/quick-tip-changing-an-evernote-title-of-an-already-processed-note.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/19/quick-tip-changing-an-evernote-title-of-an-already-processed-note.html"/>
+    <id>https://curation.cloudburo.net/2015/05/19/quick-tip-changing-an-evernote-title-of-an-already-processed-note.html</id>
     <published>2015-05-19T10:03:37Z</published>
     <updated>2015-05-20T04:28:59+00:00</updated>
     <author>
@@ -530,8 +530,8 @@
   </entry>
   <entry>
     <title>Tutorial - Publishing a 'Curation' Blog</title>
-    <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/19/tutorial-publishing-a-curation-blog.html"/>
-    <id>https://curation.docs.cloudburo.net/2015/05/19/tutorial-publishing-a-curation-blog.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/19/tutorial-publishing-a-curation-blog.html"/>
+    <id>https://curation.cloudburo.net/2015/05/19/tutorial-publishing-a-curation-blog.html</id>
     <published>2015-05-19T09:06:32Z</published>
     <updated>2015-05-19T21:22:27+00:00</updated>
     <author>
