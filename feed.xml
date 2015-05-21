@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.docs.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html"/>
     <id>https://curation.docs.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html</id>
     <published>2015-05-20T09:47:10Z</published>
-    <updated>2015-05-20T22:04:18+00:00</updated>
+    <updated>2015-05-21T05:20:38+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,8 +23,8 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt;
-        The Content Curation Site has a blog structure setup which is concentrated around you published articles. It’’s based on a 
-       &lt;a href="http://curation.docs.cloudburo.net/" rel="nofollow"&gt;responsive design&lt;/a&gt; and will rearrange the content in order to provide a optimal reading experience for an device size. 
+        The Content Site has a blog structure setup which is concentrated around your published articles. It’’s based on a 
+       &lt;a href="http://curation.docs.cloudburo.net/" rel="nofollow"&gt;responsive design&lt;/a&gt; and will rearrange the content  for different device screen sizes, in order to provide a optimal reading experience. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -45,7 +45,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        Beside these four main pages, you are free to define additional  simple pages (including an optional index page) which can be linked into the header or footer. 
+        Beside these four main pages, you are free to define additional  simple pages which can be linked into the Header- or Footer area. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -57,10 +57,10 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The article list page is by default the index (entry) page of your content site. It will list all articles in chronological order and provides a short excerpt of the article with a „Read More“ button, which will open the Single Article Page. 
+        The article list page is by default the index (entry) page of your content site. It will list all articles in chronological order and provides a short excerpt of the article with a „Read More“ button, which will open the Single Article Page when pressed. 
       &lt;/div&gt; 
       &lt;div&gt;
-        The different page content parts will be described as part of the Sing Article Page section. 
+        The different page content parts will be described as part of the Single Article Page section. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -106,13 +106,8 @@
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;div&gt;
-         The page consists of the following structural elements. 
-       &lt;/div&gt; 
-       &lt;div&gt; 
-        &lt;br&gt; 
-       &lt;/div&gt; 
+      &lt;div&gt;
+        The page consists of the following structural areas. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
@@ -121,7 +116,7 @@
        &lt;b&gt;&lt;span style="font-size: 18px;"&gt;HEADER AREA&lt;/span&gt;&lt;/b&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        Consists of the Home Link-, Menu- and Social Media Icons sections. All elements are user configurable during setup. 
+        Consists of the Home Link-, Menu- and Social Media Icons sections. All elements are user configurable during your site setup. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -139,8 +134,8 @@
       &lt;ul&gt; 
        &lt;li&gt;By clicking on the „Home Link“ you will go back to the index page.&lt;/li&gt; 
        &lt;li&gt;By default there is a „Categories“ and „ByYear“ menu which groups your published content.&lt;/li&gt; 
-       &lt;li&gt;Additional user defined menus will be added (up to 4), e.g link to an About page.&lt;/li&gt; 
-       &lt;li&gt;Social Media Icons, allow you to link to your Social media accounts, clicking on it will open for example your Twitter home page. (Twitter, Facebook, Linkedin, Google Plus and GitHub are supported)&lt;/li&gt; 
+       &lt;li&gt;Additional user defined menus will be added (up to 4), e.g link to an About or Contact page.&lt;/li&gt; 
+       &lt;li&gt;Social Media Icons, allows you to link to your Social media accounts. Clicking on an icon will open for example your Twitter home page. (Twitter, Facebook, Linkedin, Google Plus and GitHub are supported)&lt;/li&gt; 
       &lt;/ul&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -178,7 +173,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        By clicking on the „Hamburger“ icon, the menu will be opened vertically, 
+        By clicking on the „Hamburger“ icon, the menu will be opened vertically, providing optimal user guidance on mobile devices. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -200,11 +195,11 @@
        &lt;b&gt;&lt;span style="font-size: 18px;"&gt;CONTENT AREA (LEFT TOP SIDE)&lt;/span&gt;&lt;/b&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The Content Area consists 
+        The Content Area consists from top to bottom 
       &lt;/div&gt; 
       &lt;ul&gt; 
-       &lt;li&gt;of the Article Title followed by&lt;/li&gt; 
-       &lt;li&gt;the list of Article Categories, followed by&lt;/li&gt; 
+       &lt;li&gt;of the Article Title&lt;/li&gt; 
+       &lt;li&gt;a list of Category names allocated to the Article&lt;/li&gt; 
        &lt;li&gt;the Article Content itself.&lt;/li&gt; 
       &lt;/ul&gt; 
       &lt;div&gt; 
@@ -227,7 +222,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The article content will have a the end „Link“ element attached. 
+        The article content will have at the end an „Link“ element defined, which allows you to transfer to the external site. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
@@ -242,7 +237,7 @@
         The Support Area below the Content Area, may have the following „article“ supporting elements 
       &lt;/div&gt; 
       &lt;ul&gt; 
-       &lt;li&gt;&lt;a href="https://disqus.com/websites/" rel="nofollow"&gt;Disqus&lt;/a&gt; Collaboration Platform integration (optional), allows your community and you to discuss the content of the article. (&lt;a href="http://curation.docs.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html" rel="nofollow"&gt;Feature Description&lt;/a&gt;)&lt;/li&gt; 
+       &lt;li&gt;&lt;a href="https://disqus.com/websites/" rel="nofollow"&gt;Disqus&lt;/a&gt; Collaboration Platform integration (optional), allows your reader community  to discuss the content of the article. (&lt;a href="http://curation.docs.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html" rel="nofollow"&gt;Feature Description&lt;/a&gt;)&lt;/li&gt; 
        &lt;li&gt;Recent Article list, as a teaser for the reader to stay on your site and read on&lt;/li&gt; 
       &lt;/ul&gt; 
       &lt;div&gt; 
@@ -255,7 +250,7 @@
        &lt;b&gt;&lt;span style="font-size: 18px;"&gt;GROUPING AREA (RIGHT SIDE)&lt;/span&gt;&lt;/b&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        Will contain all list of all your defined Categories (with the amount of articles grouped by the category name), as well as a list of articles per year. 
+        Will contain all list of all your defined Categories, as well as a list of articles grouped by year. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
