@@ -91,6 +91,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//2015/05/22/feature-customizable-content-site-index-page.html</loc>
+    <lastmod>2015-05-22</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//2015/05/20/getting-started-the-content-site-in-a-nutshell.html</loc>
     <lastmod>2015-05-21</lastmod>
     <priority>0.7</priority>
@@ -163,13 +169,13 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.cloudburo.net//tags/gettingstarted.html</loc>
+    <loc>https://curation.cloudburo.net//tags/feature.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.cloudburo.net//tags/feature.html</loc>
+    <loc>https://curation.cloudburo.net//tags/gettingstarted.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
