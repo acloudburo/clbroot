@@ -127,7 +127,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/05/22/feature-customizable-content-site-index-page.html"/>
     <id>https://curation.cloudburo.net/2015/05/22/feature-customizable-content-site-index-page.html</id>
     <published>2015-05-22T02:23:13Z</published>
-    <updated>2015-05-22T14:31:43+00:00</updated>
+    <updated>2015-05-22T14:56:54+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -137,11 +137,14 @@
     
     &lt;p&gt;&lt;div&gt;
         By default the 
-       &lt;a href="https://curation.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html" rel="nofollow"&gt;Article List&lt;/a&gt; page is shown as your index page of your content site. 
+       &lt;a href="https://curation.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html" rel="nofollow"&gt;Article List&lt;/a&gt; page is shown as your index page of your content site. You can see a screenshot below how that looks like. 
       &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
+      &lt;div&gt;
+        But you have the possibility to define a own created simple index page. This can be managed as any other site directly in Evernote. 
       &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt; 
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
@@ -153,7 +156,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        But you have the possibility to define a own created simple index page. When choosing this option, the Cloudburo Curation Platform will generate the a note with the tag „clb-index“. 
+        When choosing this option, the Cloudburo Curation Platform will generate  a note with the tag „clb-index“. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
