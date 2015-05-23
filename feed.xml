@@ -5,10 +5,68 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-22T06:24:33Z</updated>
+  <updated>2015-05-23T02:59:38Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Feature: Automatic sitemap.xml generation for Search Engines (SEO)</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/23/feature-automatic-sitemap-xml-generation-for-search-engines-seo.html"/>
+    <id>https://curation.cloudburo.net/2015/05/23/feature-automatic-sitemap-xml-generation-for-search-engines-seo.html</id>
+    <published>2015-05-23T02:59:38Z</published>
+    <updated>2015-05-23T14:59:41+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        There are many SEO tips and tricks that help in optimizing a site but one of those, the importance of which is sometimes underestimated is sitemaps. Sitemaps, as the name implies, are just a map of your site - i.e. on one single page you show the structure of your site, its sections, the links between them, etc.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Cloudburo Curation Platform will generate for you the sitemap and places it under the name sitemap.xml in your site root directory. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;You can find it via: „https://&amp;lt;siteId&amp;gt;.curation.space/sitemap.xml&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Using sitemaps has many benefits, not only easier navigation and better visibility by search engines. Sitemaps offer the opportunity to inform search engines immediately about any changes on your site. Of course, you cannot expect that search engines will rush right away to index your changed pages but certainly the changes will be indexed faster, compared to when you don&amp;rsquo;t have a sitemap. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        For example in order to improve your search presence you should register you page with the Google Search console ( 
+       &lt;a href="http://g.co/SearchConsole" rel="nofollow"&gt;&lt;a href="http://g.co/SearchConsole"&gt;http://g.co/SearchConsole&lt;/a&gt;&lt;/a&gt;). When doing that you will have the possibility to provide a sitemap.xml which google will allow to detect faster changes. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/84cfb12dfbae815d08590e0fa204cf81.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Integrate: Free Feedburner and automatic Twitter publishing of your articles</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/05/22/integrate-free-feedburner-and-automatic-twitter-publishing-of-your-articles.html"/>
@@ -606,50 +664,6 @@
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Feature: W3C Atom 1.0 valid RSS Feed</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html"/>
-    <id>https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html</id>
-    <published>2015-05-19T10:20:18Z</published>
-    <updated>2015-05-19T22:20:20+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The Cloudburo Curation Platform managed content sites are providing a Atom 1.0 valid RSS feed of your content. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        This allows you to embed your content in any kind of RSS feed based third party applications, some examples 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;Feedly one of the most advanced RSS News Reader&lt;/li&gt; 
-       &lt;li&gt;Mailchimp to produce RSS based newsletter for your audience&lt;/li&gt; 
-       &lt;li&gt;Hootsuite to automatically push newly created articles on various social channels, like Facebook, Twitter, Google Plus etc.&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/c60bf2ce654a83703b03ad623134731f.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
