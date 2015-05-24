@@ -5,10 +5,109 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-24T04:35:11Z</updated>
+  <updated>2015-05-24T10:37:33Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Feature: Syntax Highlighting</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/24/feature-syntax-highlighting.html"/>
+    <id>https://curation.cloudburo.net/2015/05/24/feature-syntax-highlighting.html</id>
+    <published>2015-05-24T10:37:33Z</published>
+    <updated>2015-05-24T22:37:35+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Syntax Highlighting is straightforward with Cloudburo Curation Platform. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Just embrace your code parts with the following marker elements. 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/5887a98108d84c079bf2d401eb0a7cfe.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Our solution is based on 
+       &lt;a href="https://github.com/jneen/rouge" rel="nofollow"&gt;rogue&lt;/a&gt; which detects over 60 programming languages ! Use the following page&lt;br&gt;
+       &lt;a href="http://rouge.jneen.net/" rel="nofollow"&gt;&lt;a href="http://rouge.jneen.net/"&gt;http://rouge.jneen.net/&lt;/a&gt;&lt;/a&gt; to find out which languages are supported. Our supported syntax themes are described 
+       &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-syntax-highlighting-themes.html" rel="nofollow"&gt;here&lt;/a&gt;. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        In case you want to highlight a specific programming language, e.g. jave use 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/08735a48ca2f522410c86ddc59e937f1.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Just one final note: Evernote is handling copy/pasted text sometimes in weird manner and introduces (behind the scenes, formatting information). In order that Cloudburo Curation Platform identifies the marker correctly, they must not be any kind of such control information stored in the marker. 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Therefore enter the two markers on their own line (without any special formatting), make sure to have a carriage return after the first marker and then paste in your code part. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;Sample:&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;i&gt;&lt;b&gt;&lt;u&gt;The Evernote page&lt;/u&gt;:&lt;/b&gt;&lt;/i&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/6b396718602cfebb49fd9567077a01d3.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;i&gt;&lt;u&gt;The  generated HTML page&lt;/u&gt;:&lt;/i&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/4cf54e48f2078a1d041e71537f924fd0.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Feature: Deleting published article</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/05/24/feature-deleting-published-article.html"/>
@@ -425,296 +524,6 @@
     
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/ce2c011116af412433a30acbd3132a35.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Getting Started: The Content Site in a nutshell</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html"/>
-    <id>https://curation.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html</id>
-    <published>2015-05-20T09:47:10Z</published>
-    <updated>2015-05-21T23:01:55+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The Content Site has a blog structure setup which is concentrated around your published articles. the site is based on a 
-       &lt;a href="https://curation.cloudburo.net/" rel="nofollow"&gt;responsive design&lt;/a&gt; in order to provide a optimal reading experience on different devices. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The four main pages steering your content are: 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;The Article List Page&lt;/li&gt; 
-       &lt;li&gt;The Single Article Page&lt;/li&gt; 
-       &lt;li&gt;The Category List Page&lt;/li&gt; 
-       &lt;li&gt;The ByYear List Page&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Beside these four main pages, you are free to define additional  simple pages which can be linked into the Header- or Footer area. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;The Article List Page&lt;/span&gt;&lt;/b&gt;&lt;/u&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The article list page is by default the index (entry) page of your content site. It will list all articles in chronological together with a short excerpt of the article. The „Read More“ button will open the Single Article Page when pressed. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/43f1655913c38cc8285556b30e71a51b.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        As a side-information: You may chose to define a dedicated index page by your own. In this case the Article List Page will be available via the HEADER menu. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;The  Single Article Page&lt;/span&gt;&lt;/b&gt;&lt;/u&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The Single Article Page is the main page and will visualize your Evernote note content.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/ca7af949b2d0d648a9da4d17f174032b.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The page consists of the following structural areas. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;HEADER AREA&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Consists of the Home Link-, Menu- and Social Media Icons sections. All elements are user configurable during your site setup. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/12ed211db4c0f1f9c519cd026683a282.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;By clicking on the „Home Link“ you will go back to the index page.&lt;/li&gt; 
-       &lt;li&gt;By default there is a „Categories“ and „ByYear“ menu which groups your published content.&lt;/li&gt; 
-       &lt;li&gt;Additional user defined menus will be added (up to 4), e.g link to an About or Contact page.&lt;/li&gt; 
-       &lt;li&gt;&amp;ldquo;Social Media Icons&amp;rdquo;, allows you to link to your Social media accounts. Clicking on on an icon will open your social media home page. (Twitter, Facebook, Linkedin, Google Plus and GitHub are supported)&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Below another Header Example with the „zurich4u&amp;quot; Home Link, two user defined menu entries to an „About“ and „Contact“ page, two default menu entries for grouping your content by categories or year, as well as a Facebook Social Media Icon. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/4c3cfe8777f80c13bffccd63cab6cce0.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The menu is responsive and will collapse to the „Hamburger“ style in case the device screen is too small to display the full menu. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/01a0e4a0e28eea15113d0a7276b7ca41.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        By clicking on the „Hamburger“ icon, the menu will be opened vertically, providing optimal user guidance on mobile devices. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;CONTENT AREA (LEFT TOP SIDE)&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The Content Area consists from top to bottom 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;of the Article Title&lt;/li&gt; 
-       &lt;li&gt;a list of Categories  allocated to the Article&lt;/li&gt; 
-       &lt;li&gt;the Article Content itself.&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        In case your Evernote note has the URL attribute set, 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/66131b9d339153362873f1772d3e5411.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        the  article content will have at the end an „Link“ element defined, which allows you to transfer to the external site. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;SUPPORT AREA (LEFT BOTTOM SIDE)&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The Support Area below the Content Area, may have the following „article“ supporting elements 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;&lt;a href="https://disqus.com/websites/" rel="nofollow"&gt;Disqus&lt;/a&gt; Collaboration Platform integration (optional), allows your reader community  to discuss the content of the article. (&lt;a href="https://curation.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html" rel="nofollow"&gt;Feature Description&lt;/a&gt;)&lt;/li&gt; 
-       &lt;li&gt;Recent Article list, as a teaser for the reader to stay on your site and read on&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;GROUPING AREA (RIGHT SIDE)&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Will contain all list of all your defined Categories, as well as a list of articles grouped by year. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;FOOTER AREA &lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Will contain copyright section, as well as user definable links to simple pages (e.g. in case you want to define a disclaimer page or similar). 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;Category List Page / By Year List Page&lt;/span&gt;&lt;/b&gt;&lt;/u&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        By clicking on a category link the Category List Page will be displayed. The same mechanism applies when clicking a year, which results in the opening of the Year List Page. 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/48460c1abaf51bdcc768fcac97f89322.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;Simple Pages&lt;/span&gt;&lt;/b&gt;&lt;/u&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        A user is free to add additional pages which be linked either in the Header or Footer Menu.These are simple pages (only content no left side bar). As an example the „About“ page of the zurich4u.ch page. Obviously you will handle also this content in Evernote. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/b07fd4d86bfcc526a4f403f4ca74b124.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt;&lt;/p&gt;
