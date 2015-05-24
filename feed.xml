@@ -5,10 +5,38 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-24T03:21:54Z</updated>
+  <updated>2015-05-24T04:35:11Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Feature: Deleting published article</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/24/feature-deleting-published-article.html"/>
+    <id>https://curation.cloudburo.net/2015/05/24/feature-deleting-published-article.html</id>
+    <published>2015-05-24T04:35:11Z</published>
+    <updated>2015-05-24T16:35:12+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        In order to delete an already published entry, follow these simple steps. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;In Evernote go to the note which you want to delete (such a note has the tag „&lt;b&gt;clb-processed&lt;/b&gt;“ attached).&lt;/li&gt; 
+       &lt;li&gt;Attach the tag „&lt;b&gt;clb-delete&lt;/b&gt;“ to the note and move the note to &amp;ldquo;&lt;b&gt;blog-&amp;lt;siteID&amp;gt;-D-NewsGen&amp;rdquo;&lt;/b&gt; or &amp;ldquo;&lt;b&gt;blog-&amp;lt;siteID&amp;gt;-E-CurateGen&amp;rdquo;&lt;/b&gt;.&lt;/li&gt; 
+       &lt;li&gt;The note will be removed from the content site with the next Cloudburo Curation Platform process step&lt;/li&gt; 
+      &lt;/ul&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Feature: Evernote News Excerpt Expander</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/05/24/feature-evernote-news-excerpt-expander.html"/>
@@ -689,45 +717,6 @@
   &lt;img class="img-responsive img-thumbnail article" src="/images/b07fd4d86bfcc526a4f403f4ca74b124.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Feature: Disqus Article Comment Platform Integration</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html"/>
-    <id>https://curation.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html</id>
-    <published>2015-05-20T07:49:11Z</published>
-    <updated>2015-05-20T22:27:47+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt; 
-       &lt;a href="https://disqus.com/websites/?utm_source=dev1cloudburo&amp;amp;utm_medium=Disqus-Footer" rel="nofollow"&gt;Disqus.com&lt;/a&gt; is a no cost platform to build up a community by allowing people to comment your content site articles. You have to enable the Disqus comment feature in the Cloudburo Content Curation platform by providing your Disqus shortname. Each article will then be followed by the Disqus comment GUI component. You have to register with Disqus to benefit from this feature. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/c5ae9020bd2d592f40c011de52d28d18.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        As you can see on the screenshot above, the article is followed by the „Start Discussion“ screen of Disqus, which would manage the discussion sessions. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
