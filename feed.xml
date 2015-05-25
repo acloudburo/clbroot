@@ -5,10 +5,170 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-24T10:37:33Z</updated>
+  <updated>2015-05-25T08:31:32Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Showcase: Dog News Site for the German market</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html"/>
+    <id>https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html</id>
+    <published>2015-05-25T08:31:32Z</published>
+    <updated>2015-05-25T08:31:38+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Web page 
+       &lt;a href="https://dognews.curation.space" rel="nofollow"&gt;dognews.curation.space&lt;/a&gt; is a news aggregation site around topic „dogs“ for the german speaking market. Beside the content site - which publishes daily around 3 news - the content additionally is&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;published to a twitter stream, as well as a &lt;/li&gt; 
+       &lt;li&gt;offered as a weekly newsletter (managed by Mailchimp) &lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The site is used by the Cloudburo owner to establish a community (mainly connected via the dognews twitter account) in the pet business segment, which will be an interested community (lead generation) for upcoming services of the company. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        It’s fully managed by the 
+       &lt;a href="https://cloudburo.net/docs/products.html" rel="nofollow"&gt;Cloudburo Curation Platform&lt;/a&gt; and makes extensive use of 
+       &lt;a href="https://curation.cloudburo.net/2015/05/24/feature-evernote-news-excerpt-expander.html" rel="nofollow"&gt;News Excerpt Handler&lt;/a&gt; of the platform. So it’s a pure news aggregation/distribution site, which minimal own created or actively curated content. It’s ideally suited for the Cloudburo Curation Platform „News“ use case, which is highly optimized and reducing the task effort of this repetitive task to a minimum. With a daily effort by the site owner of around 15-30 minutes the community is feeded with important news. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/8752d10afb6b4332c0cfc26df6954692.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Potential relevant dog news articles are collected automatically via 
+       &lt;a href="https://www.google.com/alerts" rel="nofollow"&gt;Google Alerts&lt;/a&gt; and consumed by the News Aggregation Application 
+       &lt;a href="http://feedly.com" rel="nofollow"&gt;feedly.com&lt;/a&gt;.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Via feedly the site owner can check easily the daily available news and decide which one are relevant. This repetitive task can be done at any time on any device during day. Normally when commuting to work around 15 minutes are enough to browse through the new content and decide if it should be published (within the feedly app on the mobile device) to Evernote for further processing.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Any Evernote published article will be automatically expanded and made ready for the site preparation step. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        In the evening the site owner has to invest another 15-20 minutes to select three articles for the next day publishing. By marking  article excerpts in bold, he will decide which content will be published on the site together with the „Read more“ button. Transferring theses notes in „ 
+       &lt;i&gt;NewsGen“&lt;/i&gt; notebook will make them ready for site publishing, and it’s daily routine work is finished. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Over time a potential news archive is built up in Evernote. This allows you optimize to even  more the daily routine work.  Furthermore the Cloudburo Curation Platform schedule feature is used, to build up a queue of news articles of the next days. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Refer to the screenshot below. 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;The dognews preparation queue „Prepare“ consists of 208 relevant articles to be published. Based on this collection three articles will be chosen for a day.&lt;/li&gt; 
+       &lt;li&gt;The dognews publish queue „NewsGen“ consists of 15 articles which will be published within the next 5 days (3 articles per day, site user configurable) &lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;i&gt;&lt;br&gt;&lt;/i&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/540411fda7660349c9609d1d4ed40e0a.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The Community is mainly reached via Twitter. Each published site article will automatically pushed onto dognews twitter feed. This feature can also be easily achieved with no additional costs. 
+       &lt;a href="https://curation.cloudburo.net/2015/05/22/integrate-free-feedburner-and-automatic-twitter-publishing-of-your-articles.html" rel="nofollow"&gt;Refer to the following article about integration&lt;/a&gt;. This is achieved by using the 
+       &lt;a href="https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html" rel="nofollow"&gt;Cloudburo Atom Feed Feature&lt;/a&gt;. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/201da06c6a3065de64433e51d894a106.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Finally a weekly Newsletter is offered, which is integrated by using the free mail marketing service by 
+       &lt;a href="http://mailchimp.com" rel="nofollow"&gt;Mailchimp&lt;/a&gt;. Also here the 
+       &lt;a href="https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html" rel="nofollow"&gt;Cloudburo Atom Feed Feature&lt;/a&gt; is used. Additional pages as for example „Disclaimer&amp;quot; and „About Us“ are integrated into the menu or footer. All managed by the user in Evernote and user configurable.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e1f0ba4f1e7ba42fc43966b8fb82d0cb.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The newsletter sent out by Mailchimp on behalf of dognews using the weekly produced articles. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/746b0f0718a536f541b3e6b42639db63.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Feature: Syntax Highlighting</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/05/24/feature-syntax-highlighting.html"/>
@@ -460,72 +620,6 @@
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Feature: Customizable Content Site Index Page</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/22/feature-customizable-content-site-index-page.html"/>
-    <id>https://curation.cloudburo.net/2015/05/22/feature-customizable-content-site-index-page.html</id>
-    <published>2015-05-22T02:23:13Z</published>
-    <updated>2015-05-22T14:56:54+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        By default the 
-       &lt;a href="https://curation.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html" rel="nofollow"&gt;Article List&lt;/a&gt; page is shown as your index page of your content site. You can see a screenshot below how that looks like. 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        But you have the possibility to define a own created simple index page. This can be managed as any other site directly in Evernote. 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/4ad30ea3093c937544958fcac55c2c91.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        When choosing this option, the Cloudburo Curation Platform will generate  a note with the tag „clb-index“. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/cf6c0c9d841d04faf1322d2d4b119db4.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        You can define the content completely freely. For example this documentation site uses this feature. The Article List Page will be available via a dedicated menu entry „Articles&amp;quot; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/ce2c011116af412433a30acbd3132a35.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
