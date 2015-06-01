@@ -5,10 +5,108 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-05-25T08:31:32Z</updated>
+  <updated>2015-06-01T09:56:36Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Feature: Customziable Article Categorization</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/01/feature-customziable-article-categorization.html"/>
+    <id>https://curation.cloudburo.net/2015/06/01/feature-customziable-article-categorization.html</id>
+    <published>2015-06-01T09:56:36Z</published>
+    <updated>2015-06-01T21:56:40+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Article categorization is straightforward, by using Evernote Tags. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The following conventions applies for a category tag in Evernote: 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;i&gt;&amp;lt;siteId&amp;gt;-&amp;lt;categoryName&amp;gt;&lt;/i&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As for example for the siteId 
+       &lt;i&gt;clbdev&lt;/i&gt; there are two categories 
+       &lt;i&gt;docker&lt;/i&gt; and 
+       &lt;i&gt;smallhints&lt;/i&gt; attached. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/69855f39d3ac0741455e245f199443c8.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The processed note will look like the following: 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/886f69e46e8b4f9a196d5ebaa660ebc7.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As one can see the article is tagged appropriately, as well as there are Categories entries in the right hand menu. 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Additionally the Categories menu will have corresponding entries. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        There is no limit concerning the amount of categories to be defined. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/333a06c9c504e57a6e72e5ab5e017818.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Showcase: Dog News Site for the German market</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html"/>
@@ -540,119 +638,6 @@
   &lt;img class="img-responsive img-thumbnail article" src="/images/84cfb12dfbae815d08590e0fa204cf81.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Integrate: Free Feedburner and automatic Twitter publishing of your articles</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/22/integrate-free-feedburner-and-automatic-twitter-publishing-of-your-articles.html"/>
-    <id>https://curation.cloudburo.net/2015/05/22/integrate-free-feedburner-and-automatic-twitter-publishing-of-your-articles.html</id>
-    <published>2015-05-22T06:24:33Z</published>
-    <updated>2015-05-22T06:24:35+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        In this article we explain how you can expand your Internet presence of your Cloudburo content site, by 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;Integrating your site into google Feedburner&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Create an account on 
-       &lt;a href="https://feedburner.google.com" rel="nofollow"&gt;feedburner.google.com&lt;/a&gt; and register your site, the wizard will guide you through the various step. This service is free. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/c8a1b9d5ccc7c3e4f666dbb738e51b66.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Your site is now registered with feedburner and registered in the&lt;br&gt;
-       &lt;span style=" font-size: 14px;"&gt;&lt;a href="http://feeds.feedburner.com/" rel="nofollow"&gt;&lt;a href="http://feeds.feedburner.com/"&gt;http://feeds.feedburner.com/&lt;/a&gt;&lt;/a&gt; directory. &lt;/span&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Go now to the Feedburner dashboard and click on the Publicize tab. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/32fb230b7a079ff22b356f6cd887bb08.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Click on the right side on the Socialize service menu and add you Twitter account and press „Activate&amp;quot; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/638d9acd639c91a85d7532f1378701b4.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Done ! Any article will now be published  automatically on your Twitter account. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/f5d615d7b8684f40d1ce7577391f8e3d.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
