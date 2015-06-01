@@ -305,7 +305,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/05/24/feature-syntax-highlighting.html"/>
     <id>https://curation.cloudburo.net/2015/05/24/feature-syntax-highlighting.html</id>
     <published>2015-05-24T10:37:33Z</published>
-    <updated>2015-05-24T22:37:35+00:00</updated>
+    <updated>2015-06-01T22:17:01+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -378,7 +378,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/6b396718602cfebb49fd9567077a01d3.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/6fa1edbfee6fdd48dc74c7cdd72c97b3.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt; 
@@ -388,10 +388,13 @@
       &lt;div&gt; 
        &lt;b&gt;&lt;i&gt;&lt;u&gt;The  generated HTML page&lt;/u&gt;:&lt;/i&gt;&lt;/b&gt; 
       &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/4cf54e48f2078a1d041e71537f924fd0.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/eb965ac83726a697331ee35e13c68ba4.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt;&lt;/p&gt;
