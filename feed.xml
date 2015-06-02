@@ -5,10 +5,85 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-06-01T10:35:55Z</updated>
+  <updated>2015-06-02T06:12:53Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Feature: Embed direct HTML code fragments</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html"/>
+    <id>https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html</id>
+    <published>2015-06-02T06:12:53Z</published>
+    <updated>2015-06-02T06:12:55+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        For certain third party tools integration, e.g. adding a signup form for your periodic 
+       &lt;a href="http://kb.mailchimp.com/lists/signup-forms/add-a-signup-form-to-your-website" rel="nofollow"&gt;MailChimp&lt;/a&gt; managed newsletter to the content site, it’s necessary to embed some HTML.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        This can easily achieved by using the following marker elements 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/9cb41349c3a1f3beaac25ce13486b962.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        In the example below the HTML code for a MailChimp Newsletter was added 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/743854810428b037252de5deb929e769.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The generated site renders your embedded code and you are ready to serve your community with a newsletter. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d772d0c7f5651eed94e0007f572d980e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Analytics: Mobile friendly site matters</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/01/analytics-mobile-friendly-site-matters.html"/>
@@ -493,164 +568,6 @@
        &lt;li&gt;Attach the tag „&lt;b&gt;clb-delete&lt;/b&gt;“ to the note and move the note to &amp;ldquo;&lt;b&gt;blog-&amp;lt;siteID&amp;gt;-D-NewsGen&amp;rdquo;&lt;/b&gt; or &amp;ldquo;&lt;b&gt;blog-&amp;lt;siteID&amp;gt;-E-CurateGen&amp;rdquo;&lt;/b&gt;.&lt;/li&gt; 
        &lt;li&gt;The note will be removed from the content site with the next Cloudburo Curation Platform process step&lt;/li&gt; 
       &lt;/ul&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Feature: Evernote News Excerpt Expander</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/24/feature-evernote-news-excerpt-expander.html"/>
-    <id>https://curation.cloudburo.net/2015/05/24/feature-evernote-news-excerpt-expander.html</id>
-    <published>2015-05-24T03:21:54Z</published>
-    <updated>2015-05-24T16:24:54+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The Cloudburo Curation Platform supports so-called News Excerpt Expander. So what does it mean ? 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        This feature is especially useful when you are curating content in a news style manner. So your assembling topic news in a periodic manner (e.g. daily) and publish them on your content site to your audience. Such a published news will have some content lines from the news with an associated link to the full story. An example of such a site managed by Cloudburo Curation Platform can be found on 
-       &lt;a href="https://dognews.curation.space" rel="nofollow"&gt;dognews.curation.space&lt;/a&gt;. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        For the collection job you are using a news aggregator app (as for example 
-       &lt;a href="https://feedly.com" rel="nofollow"&gt;feedly&lt;/a&gt;) to browse and quickly check  large amount of news articles which are potential relevant for your site. In case you found a relevant article you publish the article from the news app directly to Evernote into a dedicated Evernote Notebook. The screenshot shows an example from feedly: 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/5b8b20c6e5152285232503ff47b12bad.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;/div&gt; 
-      &lt;div&gt;
-        Normally the published article from the news aggregator app is just a excerpt from the full story, as you can see below. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/968d99c0b0665f6061cc4666778c79b0.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        To go on working with the text would require a manual refetch by a user, which is time consuming especially if you collect a large amount during your day.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Therefore Cloudburo Curation Platform will automate this step in case you place the note in a dedicated Notebook, which is created during your site setup and is called &amp;ldquo; 
-       &lt;b&gt;&lt;i&gt;blog-&amp;lt;siteId&amp;gt;-A-Fetch&lt;/i&gt;&lt;/b&gt;&amp;rdquo;. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Cloudburo Curation Platform will fetch the associated link of the news excerpt and will download the full article in a plain text format and replace the current one, by moving it into the „ 
-       &lt;b&gt;&lt;i&gt;blog-&amp;lt;sitedID&amp;gt;-B-Prepare&lt;/i&gt;&lt;/b&gt;“ notebook. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/e25d7d73cb0f11ea3a2935ab29b4e1e2.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        After you have completed your news browsing and collection step, you then can finalize your news article for publishing with minimal effort by simply highlighting relevant text on the page, which should be used for the news publishing on your site. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/b2730cfef552cff4b008004e9342f9f7.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Having done that, you move the note over to  „ 
-       &lt;b&gt;&lt;i&gt;blog-&amp;lt;sitedID&amp;gt;-D-NewsGen&lt;/i&gt;&lt;/b&gt;“ notebook which will process and publish your note. By taking the bold text as your news excerpt and introducing a „Read More“ button to the external site. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        That’s it, highly optimized to get a News article published for your reader audience. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
