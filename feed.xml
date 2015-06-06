@@ -5,10 +5,262 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-06-06T04:12:29Z</updated>
+  <updated>2015-06-06T10:16:20Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>News Publishing Workflow in 3 simple steps</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html"/>
+    <id>https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html</id>
+    <published>2015-06-06T10:16:20Z</published>
+    <updated>2015-06-06T22:16:22+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt; 
+       &lt;span style="font-size: 18px;"&gt;&lt;b&gt;Step 1: Working through the aggregated News in Feedly&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        This workflow starts in a news aggregation application, which allows to transfer important news articles to Evernote. My preferred application for this job is 
+       &lt;a href="https://feedly.com/" rel="nofollow"&gt;feedly&lt;/a&gt; which provides One-click integration into Evernote. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The news aggregation application can be configured to listen various news channels (more on that in an own article later). For example for the site 
+       &lt;a href="https://dognews.curation.space/" rel="nofollow"&gt;dognews.curation.space&lt;/a&gt; (a german news site) various news channels under the topics „DOGS“ are monitored by feedly.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/7de1be8716d3d2f74f867b0e7350859a.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The news aggregation application will present the new published articles in easy browse-able format. In case of feedly you may have the possibility to use optimized native application versions for  your mobile devices (as for example for an iPhone or Android device). That’s important because it allows you to browse and check for news any time any where, even if you have just some minute spare time when waiting for the next connection.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;The task is a quick browsing task, reading the headline and decide if the article may of importance for your news site or not&lt;/li&gt; 
+       &lt;li&gt;If not, move one and scroll down to the next article&lt;/li&gt; 
+       &lt;li&gt;If yes, open the article and transfer it to the Evernote &lt;i&gt;&amp;lt;siteId&amp;gt;-A-Fetch&lt;/i&gt; notebook. The notebook was created by the Cloudburo Curation Platform and will be monitored periodically for new notes. &lt;/li&gt; 
+       &lt;li&gt;New notes will fetched by the Cloudburo Curation Platform, the source article will be fully extracted and your note updated. &lt;/li&gt; 
+       &lt;li&gt;Having done that the note will be transferred to your &lt;i&gt;&amp;lt;sitedId&amp;gt;-B-Prepare&lt;/i&gt; notebook, ready for the next step of the workflow&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        My experience using this workflow shows that you can easily browse through 30 news within 1-3 minutes, storing around 10% for later checking to Evernote. I do that normally in the morning when commuting to the office. Speed reading and transferring is essential because quite easily you have to check some hundred news per day depending on the monitored news channels. With feedly you can do the task on your mobile with one hand and one thumb even in a crowded public transport. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The video shows you the task (we are using the Browser base Desktop version of feedly in this example) 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/lJmQ0cYjZd0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;span style="font-size: 18px;"&gt;Step 2: Sifting through the preselected news and make them publishing ready in Evernote&lt;/span&gt; &lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The second step for getting your news ready for publishing is, to sit down, sift through the news  which you have collected during the day(s) in Evernote and which may be important for your content site.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As explained in step 1, you will find the stories fully extracted in plain text in your 
+       &lt;i&gt;&amp;lt;siteId&amp;gt;-B-Prepare&lt;/i&gt; notebook. By having the Cloudburo Curation Platform taken over the job of fetching the full content and storing it in plain text you will save considerable time in this task. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;Just read the article and select the text excerpt in bold which you want take over as excerpt in your content site article. If necessary complement the text with some additional comments from your side. &lt;/li&gt; 
+       &lt;li&gt;Add additional Evernote tags which will be used as content site categories&lt;/li&gt; 
+       &lt;li&gt;Finally move the note to the &lt;i&gt;&amp;lt;sitedId&amp;gt;-D-NewsGen&lt;/i&gt; notebook, where the note will taken over by the Cloudburo Curation Platform and an article will be generated on your online content site.&lt;/li&gt; 
+       &lt;li&gt;Again a very streamlined and optimized workflow, which will take the minimum of your time and allows you to deliver fresh news to your content site in no time.&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/EGiuJyxvaLI?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 18px;"&gt;&lt;b&gt;Step 3: Check the published article onyour content site &lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Finally do a quick online check on your content site, if the generated site is ok. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/bea9f50b2dc02639c5ed2ffa0fa659d6.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Content Publishing Guidelines and Community Rules</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/content-publishing-guidelines-and-community-rules.html"/>
+    <id>https://curation.cloudburo.net/2015/06/06/content-publishing-guidelines-and-community-rules.html</id>
+    <published>2015-06-06T10:16:18Z</published>
+    <updated>2015-06-06T22:16:20+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Here are some common-sense rules that&amp;rsquo;ll help you steer clear of trouble. Please take these rules seriously and take them to heart. Don&amp;rsquo;t try to look for loopholes or try to lawyer your way around the guidelines—just understand them and try to respect the spirit in which they were created. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;Nudity or sexual content&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Cloudburo Curation Platform is not for pornography or sexually explicit content. If this describes your content (text, image,video), even if it&amp;rsquo;s a video of yourself, don&amp;rsquo;t post it as content. Also, be advised that we work closely with law enforcement and we report child exploitation. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;Violent or graphic content&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        It&amp;rsquo;s not okay to post violent or gory content that&amp;rsquo;s primarily intended to be shocking, sensational, or disrespectful. If posting graphic content in a news or documentary context, please be mindful to provide enough information to help people understand what&amp;rsquo;s going on. Don&amp;rsquo;t encourage others to commit specific acts of violence.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;Hateful content&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Cloudburo Curation Platform is a platform for free expression. But we don&amp;rsquo;t support content that promotes or condones violence against individuals or groups based on race or ethnic origin, religion, disability, gender, age, nationality, veteran status, or sexual orientation/gender identity, or whose primary purpose is inciting hatred on the basis of these core characteristics. This can be a delicate balancing act, but if the primary purpose is to attack a protected group, the content crosses the line. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;Spam, misleading metadata, and scams&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Everyone hates spam. Don&amp;rsquo;t create misleading descriptions, tags, titles, or thumbnails in order to increase views. It&amp;rsquo;s not okay to post large amounts of untargeted, unwanted or repetitive content, including comments and private messages. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;Harmful or dangerous content&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Don&amp;rsquo;t post content  that encourage others to do things that might cause them to get badly hurt, especially kids. Content showing such harmful or dangerous acts may get removed depending on their severity. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;Copyright&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Respect copyright. Only upload content that you made or that you&amp;rsquo;re authorized to use. This means don&amp;rsquo;t upload videos, images, text you didn&amp;rsquo;t make, or use content  that someone else owns the copyright to without necessary authorizations. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;Threats&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Things like predatory behavior, stalking, threats, harassment, intimidation, invading privacy, revealing other people&amp;rsquo;s personal information, and inciting others to commit violent acts or to violate the Terms of Use are taken very seriously. Anyone caught doing these things may be permanently banned. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;We use to „nofollow“ link attribute for any *.curation.space site&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        In order to protect our domain curation.space, as well as any platform user from bad spam linking introduced in any Curation user site (which is obviously against the above rule and removed as soon as detected) any link in site  content of *.curation.space will be attributed as „ 
+       &lt;a href="http://en.wikipedia.org/wiki/Nofollow" rel="nofollow"&gt;nofollow&lt;/a&gt;“. This instructs search engines the hyperlink should not influence the ranking of the link’s target in the search index. In case you use your on domain name for your Cloudburo Curation site, the nofollow attribute will not used for your content links. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;Do you think a specific curation.space content site is against the here described rules ?&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        You might not like everything you see on curation.space. Some of the content might offend you. If you think it&amp;rsquo;s inappropriate,  submit a request  for review by our Cloubduro staff. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        These rules were taken over and slightly adapted from the 
+       &lt;a href="http://www.youtube.com/yt/policyandsafety/communityguidelines.html" rel="nofollow"&gt;YouTube Community Guidelines&lt;/a&gt;. 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Working with Evernote - some inspiring use cases</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/working-with-evernote-some-inspiring-use-cases.html"/>
@@ -337,301 +589,6 @@
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Showcase: Dog News Site for the German market</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html"/>
-    <id>https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html</id>
-    <published>2015-05-25T08:31:32Z</published>
-    <updated>2015-06-06T16:12:28+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The Web page 
-       &lt;a href="https://dognews.curation.space" rel="nofollow"&gt;dognews.curation.space&lt;/a&gt; is a news aggregation site around the topic „dogs“ for the german speaking market. Beside the content site - on which  daily around 3 articles are published - the content  is additionally 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;published to a twitter stream, as well as a &lt;/li&gt; 
-       &lt;li&gt;offered as a weekly newsletter (managed by Mailchimp) &lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The site is used by the Cloudburo owner to establish a community (mainly connected via the dognews twitter account) in the pet business segment, which will be an interesting community (lead generation) for upcoming services of the company. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        It’s fully managed by the 
-       &lt;a href="https://cloudburo.net/docs/products.html" rel="nofollow"&gt;Cloudburo Curation Platform&lt;/a&gt; and makes extensive use of the&lt;br&gt;
-       &lt;a href="https://curation.cloudburo.net/2015/05/24/feature-evernote-news-excerpt-expander.html" rel="nofollow"&gt;News Excerpt Handler&lt;/a&gt; of the platform. So it’s a pure news aggregation/distribution site with minimal own created or actively curated content. It’s ideally suited for the Cloudburo Curation Platform „News“ workflow, which is highly optimized and reducing the  effort of this repetitive task to a minimum.  A daily effort by the site owner of around 15-30 minutes is enough to publish fresh and relevant news content for the community&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/8752d10afb6b4332c0cfc26df6954692.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Potential relevant dog news articles are collected automatically via 
-       &lt;a href="https://www.google.com/alerts" rel="nofollow"&gt;Google Alerts&lt;/a&gt; and consumed by the News Aggregation Application 
-       &lt;a href="http://feedly.com" rel="nofollow"&gt;feedly.com&lt;/a&gt;.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Via feedly the site owner can check easily the daily offered news entries and decide which one are relevant. This repetitive task can be done at any time on any device during the day. In this case the tasks is done when commuting to work, where around 15 minutes are invested by using the Feedly Mobile Android App. New relevant news content will be forwarded (within the feedly app) to Evernote for further automatic processing.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Any Evernote published article will be automatically expanded by the Cloudburo Curation Platform and made ready for the site preparation step. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        In the evening the site owner has to invest another 15-20 minutes to select three articles for the next day public site publishing. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        By format article excerpts in bold, the content will be chosen, which will published on your site together with the „Read more“ button. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Transferring theses notes into „ 
-       &lt;i&gt;NewsGen“&lt;/i&gt; notebook will make them ready for public site publishing, and your daily routine work is finished. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        So overall you have to invest daily around 30 minutes for such a News site, which is publishing relevant (quality checked by you) content for a community. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Over time a potential news archive is built up in Evernote (you will find normally more relevant articles than you publish on a day). This allows you optimize to even  more the daily routine work, by prepare for example  a full week in advance. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The  Cloudburo Curation Platform schedule feature is used, to build up a publishing queue (you can configure how many articles should be published during which time window). So you can ensure fresh content delivery even when you are in holiday or on a business trip (or don’t want to sit down on a daily base) 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Refer to the screenshot below. 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;The dognews preparation queue „Prepare“ consists of 208 relevant articles to be published. Based on this collection three articles will be chosen for a day.&lt;/li&gt; 
-       &lt;li&gt;The dognews publish queue „NewsGen“ consists of 15 articles which will be published within the next 5 days (3 articles per day, site user configurable) &lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;i&gt;&lt;br&gt;&lt;/i&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/540411fda7660349c9609d1d4ed40e0a.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The Community is mainly reached via Twitter. Each published site article will automatically pushed onto the dognews twitter feed. This feature can also be easily achieved with no additional costs. 
-       &lt;a href="https://curation.cloudburo.net/2015/05/22/integrate-free-feedburner-and-automatic-twitter-publishing-of-your-articles.html" rel="nofollow"&gt;Refer to the following article about integration&lt;/a&gt;. This is achieved by using the 
-       &lt;a href="https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html" rel="nofollow"&gt;Cloudburo Atom Feed Feature&lt;/a&gt;. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/201da06c6a3065de64433e51d894a106.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Finally a weekly Newsletter is offered, which is integrated by using the free mail marketing service by 
-       &lt;a href="http://mailchimp.com" rel="nofollow"&gt;Mailchimp&lt;/a&gt;. Also here the 
-       &lt;a href="https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html" rel="nofollow"&gt;Cloudburo Atom Feed Feature&lt;/a&gt; is used.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Additional pages as for example „Disclaimer&amp;quot; and „About Us“ are integrated into the menu or footer. All managed by the user in Evernote and user configurable.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/e1f0ba4f1e7ba42fc43966b8fb82d0cb.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The newsletter sent out by Mailchimp on behalf of dognews using the weekly produced articles, is shown below. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;As you can see, after initial setup you can control the whole workflow exclusively within Evernote in a highly efficient manner !&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/746b0f0718a536f541b3e6b42639db63.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Feature: Syntax Highlighting</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/05/24/feature-syntax-highlighting.html"/>
-    <id>https://curation.cloudburo.net/2015/05/24/feature-syntax-highlighting.html</id>
-    <published>2015-05-24T10:37:33Z</published>
-    <updated>2015-06-01T22:17:01+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Syntax Highlighting is straightforward with Cloudburo Curation Platform. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Just embrace your code parts with the following marker elements. 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/5887a98108d84c079bf2d401eb0a7cfe.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Our solution is based on 
-       &lt;a href="https://github.com/jneen/rouge" rel="nofollow"&gt;rogue&lt;/a&gt; which detects over 60 programming languages ! Use the following page&lt;br&gt;
-       &lt;a href="http://rouge.jneen.net/" rel="nofollow"&gt;&lt;a href="http://rouge.jneen.net/"&gt;http://rouge.jneen.net/&lt;/a&gt;&lt;/a&gt; to find out which languages are supported. Our supported syntax themes are described 
-       &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-syntax-highlighting-themes.html" rel="nofollow"&gt;here&lt;/a&gt;. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        In case you want to highlight a specific programming language, e.g. jave use 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/08735a48ca2f522410c86ddc59e937f1.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Just one final note: Evernote is handling copy/pasted text sometimes in weird manner and introduces (behind the scenes, formatting information). In order that Cloudburo Curation Platform identifies the marker correctly, they must not be any kind of such control information stored in the marker. 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Therefore enter the two markers on their own line (without any special formatting), make sure to have a carriage return after the first marker and then paste in your code part. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;Sample:&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;i&gt;&lt;b&gt;&lt;u&gt;The Evernote page&lt;/u&gt;:&lt;/b&gt;&lt;/i&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/6fa1edbfee6fdd48dc74c7cdd72c97b3.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;i&gt;&lt;u&gt;The  generated HTML page&lt;/u&gt;:&lt;/i&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/eb965ac83726a697331ee35e13c68ba4.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;

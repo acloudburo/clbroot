@@ -127,6 +127,18 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//2015/06/06/news-publishing-workflow-in-3-simple-steps.html</loc>
+    <lastmod>2015-06-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//2015/06/06/content-publishing-guidelines-and-community-rules.html</loc>
+    <lastmod>2015-06-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//2015/05/14/feature-webpage-themes.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
@@ -241,6 +253,18 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//tags/tutorial.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//tags/workflow.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//tags/quicktip.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.9</priority>
@@ -266,12 +290,6 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net//tags/analytics.html</loc>
-    <lastmod>2015-05-14</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.cloudburo.net//tags/tutorial.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
