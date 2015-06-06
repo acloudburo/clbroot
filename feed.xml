@@ -5,10 +5,60 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-06-06T10:16:20Z</updated>
+  <updated>2015-06-06T11:02:06Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Release: Beta-0.0.36</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html"/>
+    <id>https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html</id>
+    <published>2015-06-06T11:02:06Z</published>
+    <updated>2015-06-06T23:02:06+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        We are still in beta testing of the Cloudburo Curation Platform. 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;Interested to participate, please register at &lt;a href="https://cloudburo.net/docs/products.html" rel="nofollow"&gt;&lt;a href="https://cloudburo.net/docs/products.html"&gt;https://cloudburo.net/docs/products.html&lt;/a&gt;&lt;/a&gt;.&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Release Date: 7.6.2015 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The Release includes the following new features or fixes 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;&lt;b&gt;new feature&lt;/b&gt;: The followLink behavior got fixed and extended. Sites registered as a subdomain (automatically by us when creating a site) of curation.space will have a „nofollow“ link behavior. Sites which are using their own custom domain (configuration option, after initial creation of the site) will not have a „nofollow“ link behavior.&lt;/li&gt; 
+       &lt;li&gt;&lt;b&gt;bug fix&lt;/b&gt;: clb-delete tag will be removed from the note after completing processing&lt;/li&gt; 
+       &lt;li&gt;&lt;b&gt;&lt;a href="https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html" rel="nofollow"&gt;new feature&lt;/a&gt;:&lt;/b&gt; Possibility to embed HTML code fragments, e.g. required when you want to include a sign up form from Mailchimp.&lt;/li&gt; 
+       &lt;li&gt;&lt;b&gt;bug fix:&lt;/b&gt; Modified or notes tagged for deletion, will be processed independently of your current publishing schedule state. This will allow you to propagate these changes quickly and not waiting on the next free scheduler slot (which could be some hours away).&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>News Publishing Workflow in 3 simple steps</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html"/>
@@ -434,7 +484,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/01/analytics-mobile-friendly-site-matters.html"/>
     <id>https://curation.cloudburo.net/2015/06/01/analytics-mobile-friendly-site-matters.html</id>
     <published>2015-06-01T10:35:55Z</published>
-    <updated>2015-06-02T05:54:58+00:00</updated>
+    <updated>2015-06-06T23:02:06+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -457,7 +507,7 @@
       &lt;/div&gt; 
       &lt;div&gt;
         Amongst others I registered the site with 
-       &lt;a href="https://www.google.com/webmasters/tools/home?hl=en" rel="nofollow"&gt;Google Search Console&lt;/a&gt;. The graphic shows with what kind of devices the page were visited. As one can see  the mobile device plays an important role for the user. Interstingly the average position of the side is far better than on a desktop. An indication that google takes into consideration of  the mobile readiness of the site which is given. by any Clouburo Curation Platform site. 
+       &lt;a href="https://www.google.com/webmasters/tools/home?hl=en" rel="nofollow"&gt;Google Search Console&lt;/a&gt;. The graphic shows with what kind of devices the page were visited. As one can see  the mobile device plays an important role for the user. Interestingly the average position of the side is far better than on a desktop. An indication that google takes into consideration the mobile readiness of the site which is given. by any Cloudburo Curation Platform site. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -491,104 +541,6 @@
       &lt;div&gt;
         Read in the following Google article why 
        &lt;a href="https://support.google.com/webmasters/answer/6101188" rel="nofollow"&gt;Mobile Usability&lt;/a&gt; is of such an importance. 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Feature: Customziable Article Categorization</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/01/feature-customziable-article-categorization.html"/>
-    <id>https://curation.cloudburo.net/2015/06/01/feature-customziable-article-categorization.html</id>
-    <published>2015-06-01T09:56:36Z</published>
-    <updated>2015-06-01T21:56:40+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Article categorization is straightforward, by using Evernote Tags. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The following conventions applies for a category tag in Evernote: 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;i&gt;&amp;lt;siteId&amp;gt;-&amp;lt;categoryName&amp;gt;&lt;/i&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        As for example for the siteId 
-       &lt;i&gt;clbdev&lt;/i&gt; there are two categories 
-       &lt;i&gt;docker&lt;/i&gt; and 
-       &lt;i&gt;smallhints&lt;/i&gt; attached. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/69855f39d3ac0741455e245f199443c8.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The processed note will look like the following: 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/886f69e46e8b4f9a196d5ebaa660ebc7.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        As one can see the article is tagged appropriately, as well as there are Categories entries in the right hand menu. 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Additionally the Categories menu will have corresponding entries. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        There is no limit concerning the amount of categories to be defined. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/333a06c9c504e57a6e72e5ab5e017818.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
