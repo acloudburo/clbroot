@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html"/>
     <id>https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html</id>
     <published>2015-06-06T11:02:06Z</published>
-    <updated>2015-06-07T11:19:09+00:00</updated>
+    <updated>2015-06-07T12:12:32+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -43,7 +43,7 @@
       &lt;ul&gt; 
        &lt;li&gt;&lt;b&gt;new feature&lt;/b&gt;: The followLink behavior got fixed and extended. Sites registered as a subdomain (automatically by us when creating a site) of curation.space will have a „nofollow“ link behavior. Sites which are using their own custom domain (configuration option, after initial creation of the site) will not have a „nofollow“ link behavior.&lt;/li&gt; 
        &lt;li&gt;&lt;b&gt;bug fix&lt;/b&gt;: clb-delete tag will be removed from the note after completing processing&lt;/li&gt; 
-       &lt;li&gt;&lt;b&gt;&lt;a href="https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html" rel="nofollow"&gt;new feature&lt;/a&gt;:&lt;/b&gt; Possibility to embed HTML code fragments, e.g. required when you want to include a sign up form from Mailchimp.&lt;/li&gt; 
+       &lt;li&gt;&lt;b&gt;&lt;a href="https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html"&gt;new feature&lt;/a&gt;:&lt;/b&gt; Possibility to embed HTML code fragments, e.g. required when you want to include a sign up form from Mailchimp.&lt;/li&gt; 
        &lt;li&gt;&lt;b&gt;bug fix:&lt;/b&gt; Modified or notes tagged for deletion, will be processed independently of your current publishing schedule state. This will allow you to propagate these changes quickly and not waiting on the next free scheduler slot (which could be some hours away).&lt;/li&gt; 
       &lt;/ul&gt; 
       &lt;div&gt; 
@@ -54,7 +54,7 @@
       &lt;/div&gt; 
       &lt;div&gt;
         Interested to participate in beta release, please register at&lt;br&gt;
-       &lt;a href="https://cloudburo.net/docs/products.html" rel="nofollow"&gt;&lt;a href="https://cloudburo.net/docs/products.html"&gt;https://cloudburo.net/docs/products.html&lt;/a&gt;&lt;/a&gt;. 
+       &lt;a href="https://cloudburo.net/docs/products.html"&gt;&lt;a href="https://cloudburo.net/docs/products.html"&gt;https://cloudburo.net/docs/products.html&lt;/a&gt;&lt;/a&gt;. 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
@@ -65,7 +65,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html"/>
     <id>https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html</id>
     <published>2015-06-06T10:16:20Z</published>
-    <updated>2015-06-07T11:19:09+00:00</updated>
+    <updated>2015-06-07T12:12:31+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -205,7 +205,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/content-publishing-guidelines-and-community-rules.html"/>
     <id>https://curation.cloudburo.net/2015/06/06/content-publishing-guidelines-and-community-rules.html</id>
     <published>2015-06-06T10:16:18Z</published>
-    <updated>2015-06-07T11:19:09+00:00</updated>
+    <updated>2015-06-07T12:12:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -287,7 +287,7 @@
       &lt;/div&gt; 
       &lt;div&gt;
         In order to protect our domain curation.space, as well as any platform user from bad spam linking introduced in any Curation user site (which is obviously against the above rule and removed as soon as detected) any link in site  content of *.curation.space will be attributed as „ 
-       &lt;a href="http://en.wikipedia.org/wiki/Nofollow" rel="nofollow"&gt;nofollow&lt;/a&gt;“. This instructs search engines the hyperlink should not influence the ranking of the link’s target in the search index. In case you use your on domain name for your Cloudburo Curation site, the nofollow attribute will not used for your content links. 
+       &lt;a href="http://en.wikipedia.org/wiki/Nofollow"&gt;nofollow&lt;/a&gt;“. This instructs search engines the hyperlink should not influence the ranking of the link’s target in the search index. In case you use your on domain name for your Cloudburo Curation site, the nofollow attribute will not used for your content links. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -306,7 +306,7 @@
       &lt;/div&gt; 
       &lt;div&gt;
         These rules were taken over and slightly adapted from the 
-       &lt;a href="http://www.youtube.com/yt/policyandsafety/communityguidelines.html" rel="nofollow"&gt;YouTube Community Guidelines&lt;/a&gt;. 
+       &lt;a href="http://www.youtube.com/yt/policyandsafety/communityguidelines.html"&gt;YouTube Community Guidelines&lt;/a&gt;. 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
@@ -317,7 +317,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/working-with-evernote-some-inspiring-use-cases.html"/>
     <id>https://curation.cloudburo.net/2015/06/06/working-with-evernote-some-inspiring-use-cases.html</id>
     <published>2015-06-06T04:12:29Z</published>
-    <updated>2015-06-07T11:19:09+00:00</updated>
+    <updated>2015-06-07T12:12:27+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -350,7 +350,7 @@
     
     &lt;p&gt;&lt;/div&gt; 
       &lt;div&gt; 
-       &lt;a href="https://www.youtube.com/playlist?list=PL4I5cq2DfrSoJPvZKn-kYbBYpa_5f5wMj" rel="nofollow"&gt;Evernote’s Stories Youtube channel&lt;/a&gt; outlines such use cases of Evernote usage for optimizing and improving daily work activities. Three examples 
+       &lt;a href="https://www.youtube.com/playlist?list=PL4I5cq2DfrSoJPvZKn-kYbBYpa_5f5wMj"&gt;Evernote’s Stories Youtube channel&lt;/a&gt; outlines such use cases of Evernote usage for optimizing and improving daily work activities. Three examples 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -399,7 +399,7 @@
       &lt;/div&gt; 
       &lt;div&gt;
         Refer to some use cases how people are using the 
-       &lt;a href="https://curation.cloudburo.net/tags/showcase.html" rel="nofollow"&gt;Cloudburo Curation Platform&lt;/a&gt; as an extension to Evernote. 
+       &lt;a href="https://curation.cloudburo.net/tags/showcase.html"&gt;Cloudburo Curation Platform&lt;/a&gt; as an extension to Evernote. 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
@@ -410,7 +410,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html"/>
     <id>https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html</id>
     <published>2015-06-02T06:12:53Z</published>
-    <updated>2015-06-07T11:19:09+00:00</updated>
+    <updated>2015-06-07T12:12:26+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -420,7 +420,7 @@
     
     &lt;p&gt;&lt;div&gt;
         For certain third party tools integration, e.g. adding a signup form for your periodic 
-       &lt;a href="http://kb.mailchimp.com/lists/signup-forms/add-a-signup-form-to-your-website" rel="nofollow"&gt;MailChimp&lt;/a&gt; managed newsletter to the content site, it’s necessary to embed some HTML.&lt;br&gt;
+       &lt;a href="http://kb.mailchimp.com/lists/signup-forms/add-a-signup-form-to-your-website"&gt;MailChimp&lt;/a&gt; managed newsletter to the content site, it’s necessary to embed some HTML.&lt;br&gt;
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -485,7 +485,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/01/analytics-mobile-friendly-site-matters.html"/>
     <id>https://curation.cloudburo.net/2015/06/01/analytics-mobile-friendly-site-matters.html</id>
     <published>2015-06-01T10:35:55Z</published>
-    <updated>2015-06-07T11:19:09+00:00</updated>
+    <updated>2015-06-07T12:12:24+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -494,8 +494,8 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt; 
-       &lt;a href="https://dognews.curation.space" rel="nofollow"&gt;&lt;i&gt;dognews.curation.space&lt;/i&gt;&lt;/a&gt; was my first 
-       &lt;a href="https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html" rel="nofollow"&gt;news aggregation site&lt;/a&gt; around the topic „dog news for dog teacher and owner“ fully managed in Evernote and integrated into the Beta Cloudburo Curation Platform.&lt;br&gt;
+       &lt;a href="https://dognews.curation.space"&gt;&lt;i&gt;dognews.curation.space&lt;/i&gt;&lt;/a&gt; was my first 
+       &lt;a href="https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html"&gt;news aggregation site&lt;/a&gt; around the topic „dog news for dog teacher and owner“ fully managed in Evernote and integrated into the Beta Cloudburo Curation Platform.&lt;br&gt;
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -508,7 +508,7 @@
       &lt;/div&gt; 
       &lt;div&gt;
         Amongst others I registered the site with 
-       &lt;a href="https://www.google.com/webmasters/tools/home?hl=en" rel="nofollow"&gt;Google Search Console&lt;/a&gt;. The graphic shows with what kind of devices the page were visited. As one can see  the mobile device plays an important role for the user. Interestingly the average position of the side is far better than on a desktop. An indication that google takes into consideration the mobile readiness of the site which is given. by any Cloudburo Curation Platform site. 
+       &lt;a href="https://www.google.com/webmasters/tools/home?hl=en"&gt;Google Search Console&lt;/a&gt;. The graphic shows with what kind of devices the page were visited. As one can see  the mobile device plays an important role for the user. Interestingly the average position of the side is far better than on a desktop. An indication that google takes into consideration the mobile readiness of the site which is given. by any Cloudburo Curation Platform site. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -541,7 +541,7 @@
       &lt;/div&gt; 
       &lt;div&gt;
         Read in the following Google article why 
-       &lt;a href="https://support.google.com/webmasters/answer/6101188" rel="nofollow"&gt;Mobile Usability&lt;/a&gt; is of such an importance. 
+       &lt;a href="https://support.google.com/webmasters/answer/6101188"&gt;Mobile Usability&lt;/a&gt; is of such an importance. 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
