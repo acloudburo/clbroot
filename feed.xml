@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/07/release-beta-0-0-37.html"/>
     <id>https://curation.cloudburo.net/2015/06/07/release-beta-0-0-37.html</id>
     <published>2015-06-07T01:09:29Z</published>
-    <updated>2015-06-07T14:10:21+00:00</updated>
+    <updated>2015-06-07T22:16:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,7 +23,7 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt;
-        A bug fix release introduced by 0.0.36, as well as align the to newest AWS Elastic Beanstalk version. 
+        A bug fix which was introduced by 0.0.36, as well as align the CurationBot Microservice to the newest AWS Elastic Beanstalk version. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -48,7 +48,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html"/>
     <id>https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html</id>
     <published>2015-06-06T11:02:06Z</published>
-    <updated>2015-06-07T12:12:32+00:00</updated>
+    <updated>2015-06-07T15:19:57+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -99,7 +99,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html"/>
     <id>https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html</id>
     <published>2015-06-06T10:16:20Z</published>
-    <updated>2015-06-07T12:12:31+00:00</updated>
+    <updated>2015-06-07T15:19:57+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -239,7 +239,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/content-publishing-guidelines-and-community-rules.html"/>
     <id>https://curation.cloudburo.net/2015/06/06/content-publishing-guidelines-and-community-rules.html</id>
     <published>2015-06-06T10:16:18Z</published>
-    <updated>2015-06-07T12:12:29+00:00</updated>
+    <updated>2015-06-07T15:19:57+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -351,7 +351,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/working-with-evernote-some-inspiring-use-cases.html"/>
     <id>https://curation.cloudburo.net/2015/06/06/working-with-evernote-some-inspiring-use-cases.html</id>
     <published>2015-06-06T04:12:29Z</published>
-    <updated>2015-06-07T12:12:27+00:00</updated>
+    <updated>2015-06-07T15:19:57+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -444,7 +444,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html"/>
     <id>https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html</id>
     <published>2015-06-02T06:12:53Z</published>
-    <updated>2015-06-07T12:12:26+00:00</updated>
+    <updated>2015-06-07T15:19:57+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
