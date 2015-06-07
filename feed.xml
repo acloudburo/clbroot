@@ -5,10 +5,37 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-06-06T11:02:06Z</updated>
+  <updated>2015-06-07T01:09:29Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Release: Beta-0.0.37</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/07/release-beta-0-0-37.html"/>
+    <id>https://curation.cloudburo.net/2015/06/07/release-beta-0-0-37.html</id>
+    <published>2015-06-07T01:09:29Z</published>
+    <updated>2015-06-07T13:09:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        A bug fix release introduced by 0.0.36, as well as align the to newest AWS Elastic Beanstalk version. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;&lt;b&gt;infrastructure upgrade&lt;/b&gt;: Upgrade to &amp;ldquo;64bit Amazon Linux 2015.03 v1.4.1 running Docker 1.6.0“ (from v1.4.0)&lt;/li&gt; 
+       &lt;li&gt;&lt;b&gt;bug fix 18&lt;/b&gt;: Regeneration of HTML of re-processing only pages isn’t kicked off&lt;/li&gt; 
+      &lt;/ul&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Release: Beta-0.0.36</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html"/>
@@ -475,73 +502,6 @@
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Analytics: Mobile friendly site matters</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/01/analytics-mobile-friendly-site-matters.html"/>
-    <id>https://curation.cloudburo.net/2015/06/01/analytics-mobile-friendly-site-matters.html</id>
-    <published>2015-06-01T10:35:55Z</published>
-    <updated>2015-06-07T12:12:24+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt; 
-       &lt;a href="https://dognews.curation.space"&gt;&lt;i&gt;dognews.curation.space&lt;/i&gt;&lt;/a&gt; was my first 
-       &lt;a href="https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html"&gt;news aggregation site&lt;/a&gt; around the topic „dog news for dog teacher and owner“ fully managed in Evernote and integrated into the Beta Cloudburo Curation Platform.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        I invest daily around 30 minutes to push valuable content to the community (potential leads for an upcoming product) and use this site to streamline and optimize the Cloudburo Curation Platform.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Amongst others I registered the site with 
-       &lt;a href="https://www.google.com/webmasters/tools/home?hl=en"&gt;Google Search Console&lt;/a&gt;. The graphic shows with what kind of devices the page were visited. As one can see  the mobile device plays an important role for the user. Interestingly the average position of the side is far better than on a desktop. An indication that google takes into consideration the mobile readiness of the site which is given. by any Cloudburo Curation Platform site. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/e8577c02f6fa2c953a2caf4ccc184170.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Google Search Console allows you also to check  the Mobile Readiness of your site. As excepted the generated Cloudburo Curation Platform sites don’t have any kind of mobile issue. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/2a9d995a13f19a100543fa035ec44408.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Read in the following Google article why 
-       &lt;a href="https://support.google.com/webmasters/answer/6101188"&gt;Mobile Usability&lt;/a&gt; is of such an importance. 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
