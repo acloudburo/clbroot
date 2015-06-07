@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/07/release-beta-0-0-37.html"/>
     <id>https://curation.cloudburo.net/2015/06/07/release-beta-0-0-37.html</id>
     <published>2015-06-07T01:09:29Z</published>
-    <updated>2015-06-07T13:09:29+00:00</updated>
+    <updated>2015-06-07T14:10:21+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -31,7 +31,14 @@
       &lt;ul&gt; 
        &lt;li&gt;&lt;b&gt;infrastructure upgrade&lt;/b&gt;: Upgrade to &amp;ldquo;64bit Amazon Linux 2015.03 v1.4.1 running Docker 1.6.0“ (from v1.4.0)&lt;/li&gt; 
        &lt;li&gt;&lt;b&gt;bug fix 18&lt;/b&gt;: Regeneration of HTML of re-processing only pages isn’t kicked off&lt;/li&gt; 
-      &lt;/ul&gt;&lt;/p&gt;
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Interested to participate in beta release, please register at&lt;br&gt;
+       &lt;a href="https://cloudburo.net/docs/products.html"&gt;&lt;a href="https://cloudburo.net/docs/products.html"&gt;https://cloudburo.net/docs/products.html&lt;/a&gt;&lt;/a&gt;. 
+      &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
