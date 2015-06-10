@@ -5,10 +5,69 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-06-07T01:09:29Z</updated>
+  <updated>2015-06-10T08:38:25Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Feature: Customizable Evernote Publishing Schedule</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/feature-customizable-evernote-publishing-schedule.html"/>
+    <id>https://curation.cloudburo.net/2015/06/10/feature-customizable-evernote-publishing-schedule.html</id>
+    <published>2015-06-10T08:38:25Z</published>
+    <updated>2015-06-10T20:38:25+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Content Curation Platform comes with a integrated article publishing scheduler. It allows you to define  how many news will be published 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;per day  &lt;/li&gt; 
+       &lt;li&gt;in which time window and  &lt;/li&gt; 
+       &lt;li&gt;in which time zone.&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        During the site setup step you can define the time zone where you main target content community lives, as well as on which day ( e.g. monday to friday) and in which timeframe (10:00-18:00) articles should be published. Additionally you define how many articles will be produced per hour. This feature gives you quite some flexibility to control your overall content flow.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;For example: Set your scheduler to &amp;ldquo;Monday - Friday&amp;rdquo;, from &amp;ldquo;11:00-13:00“ with 1 message per hour, in order to generate a maximum of 3 articles per day during lunch time within your time zone. &lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;For which articles will the scheduler be bypassed ?&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The scheduler for articles with the tag 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;&lt;i&gt;clb-processed, &lt;/i&gt;i.e. we regenerate or update an existing article&lt;/li&gt; 
+       &lt;li&gt;&lt;i&gt;clb-delete&lt;/i&gt;, i.e. we ant to delete an article&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt;
+        will be skipped. These articles will be regenerated or deleted with the next Cloudburo Curation run. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Release: Beta-0.0.37</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/07/release-beta-0-0-37.html"/>
@@ -434,81 +493,6 @@
       &lt;div&gt;
         Refer to some use cases how people are using the 
        &lt;a href="https://curation.cloudburo.net/tags/showcase.html"&gt;Cloudburo Curation Platform&lt;/a&gt; as an extension to Evernote. 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Feature: Embed direct HTML code fragments</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html"/>
-    <id>https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html</id>
-    <published>2015-06-02T06:12:53Z</published>
-    <updated>2015-06-10T20:28:37+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        For certain third party tools integration, e.g. adding a signup form for your periodic 
-       &lt;a href="http://kb.mailchimp.com/lists/signup-forms/add-a-signup-form-to-your-website"&gt;MailChimp&lt;/a&gt; managed newsletter to the content site, it’s necessary to embed some HTML.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        This can easily achieved by using the following marker elements 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/9cb41349c3a1f3beaac25ce13486b962.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        In the example below the HTML code for a MailChimp Newsletter was added 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/743854810428b037252de5deb929e769.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The generated site renders your embedded code and you are ready to serve your community with a newsletter. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/d772d0c7f5651eed94e0007f572d980e.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
