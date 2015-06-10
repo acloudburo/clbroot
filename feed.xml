@@ -5,10 +5,140 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-06-10T09:42:35Z</updated>
+  <updated>2015-06-10T09:52:17Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Tutorial - Curation Publishing Workflow in 2 simple steps</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html"/>
+    <id>https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html</id>
+    <published>2015-06-10T09:52:17Z</published>
+    <updated>2015-06-10T21:52:17+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The tutorial shows the simple steps to prepare and publish a curation or self created Evernote note to your Content Site. The site identifier if the example is&lt;br&gt;
+       &lt;strong&gt;sosnews&lt;/strong&gt; (replace it with your own identifier when repeating it on your own site). 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The tutorial is based on the Evernote Browers-based Client of the new generation (the distraction-free white version). For other Evernote Apps and Clients similar steps are relevant. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;Step 1: Create a note in sosnew-B-Prepare notebook.&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Create a note for your curation or own-created article in the sosnews 
+       &lt;b&gt;-B-Prepare&lt;/b&gt; notebook. The notebook was created by the Cloudburo Curation Platform during initial setup and is your notebook for articles which are not ready yet. Theoretically you can hold such notes in any kind of notebook, but it’s quite convenient to have a dedicated one for your draft work. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/M7Gtx9XXX7Y?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 18px;"&gt;&lt;b&gt;Step 2: Publish the note to your Content Site&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Having completed the note, move it to the sosnews 
+       &lt;b&gt;-E-CurateGen&lt;/b&gt; notebook, where it will be fetched up by the Cloudburo Curation Platform and an online article will be generated on your content site.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/EGiuJyxvaLI?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;strong&gt;&lt;br&gt;&lt;/strong&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The Cloudburo Curation Platform will pick periodically according to your defined scheduler the notes of the Curation Transfer Notebook, processes them, publishes them on your content site and moves the note into Notebook „sosnews 
+       &lt;strong&gt;-Z-Archive&lt;/strong&gt;“. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Each note will get the tag &amp;ldquo;clb-processed&amp;rdquo; attached. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        In case you have to update an article, change the Evernote note and move it back to the sosnews- 
+       &lt;b&gt;E-CurateGen&lt;/b&gt; notebook. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        That’s it, easy and straightforward. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Quick Tip - Evernote Notebook Grouping for each content site</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/quick-tip-evernote-notebook-grouping-for-each-content-site.html"/>
@@ -329,118 +459,6 @@
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Content Publishing Guidelines and Community Rules</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/content-publishing-guidelines-and-community-rules.html"/>
-    <id>https://curation.cloudburo.net/2015/06/06/content-publishing-guidelines-and-community-rules.html</id>
-    <published>2015-06-06T10:16:18Z</published>
-    <updated>2015-06-10T20:28:37+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Here are some common-sense rules that&amp;rsquo;ll help you steer clear of trouble. Please take these rules seriously and take them to heart. Don&amp;rsquo;t try to look for loopholes or try to lawyer your way around the guidelines—just understand them and try to respect the spirit in which they were created. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;Nudity or sexual content&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Cloudburo Curation Platform is not for pornography or sexually explicit content. If this describes your content (text, image,video), even if it&amp;rsquo;s a video of yourself, don&amp;rsquo;t post it as content. Also, be advised that we work closely with law enforcement and we report child exploitation. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;Violent or graphic content&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        It&amp;rsquo;s not okay to post violent or gory content that&amp;rsquo;s primarily intended to be shocking, sensational, or disrespectful. If posting graphic content in a news or documentary context, please be mindful to provide enough information to help people understand what&amp;rsquo;s going on. Don&amp;rsquo;t encourage others to commit specific acts of violence.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;Hateful content&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Cloudburo Curation Platform is a platform for free expression. But we don&amp;rsquo;t support content that promotes or condones violence against individuals or groups based on race or ethnic origin, religion, disability, gender, age, nationality, veteran status, or sexual orientation/gender identity, or whose primary purpose is inciting hatred on the basis of these core characteristics. This can be a delicate balancing act, but if the primary purpose is to attack a protected group, the content crosses the line. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;Spam, misleading metadata, and scams&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Everyone hates spam. Don&amp;rsquo;t create misleading descriptions, tags, titles, or thumbnails in order to increase views. It&amp;rsquo;s not okay to post large amounts of untargeted, unwanted or repetitive content, including comments and private messages. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;Harmful or dangerous content&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Don&amp;rsquo;t post content  that encourage others to do things that might cause them to get badly hurt, especially kids. Content showing such harmful or dangerous acts may get removed depending on their severity. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;Copyright&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Respect copyright. Only upload content that you made or that you&amp;rsquo;re authorized to use. This means don&amp;rsquo;t upload videos, images, text you didn&amp;rsquo;t make, or use content  that someone else owns the copyright to without necessary authorizations. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;Threats&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Things like predatory behavior, stalking, threats, harassment, intimidation, invading privacy, revealing other people&amp;rsquo;s personal information, and inciting others to commit violent acts or to violate the Terms of Use are taken very seriously. Anyone caught doing these things may be permanently banned. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;We use to „nofollow“ link attribute for any *.curation.space site&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        In order to protect our domain curation.space, as well as any platform user from bad spam linking introduced in any Curation user site (which is obviously against the above rule and removed as soon as detected) any link in site  content of *.curation.space will be attributed as „ 
-       &lt;a href="http://en.wikipedia.org/wiki/Nofollow"&gt;nofollow&lt;/a&gt;“. This instructs search engines the hyperlink should not influence the ranking of the link’s target in the search index. In case you use your on domain name for your Cloudburo Curation site, the nofollow attribute will not used for your content links. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;Do you think a specific curation.space content site is against the here described rules ?&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        You might not like everything you see on curation.space. Some of the content might offend you. If you think it&amp;rsquo;s inappropriate,  submit a request  for review by our Cloudburo staff (&lt;a href="mailto:info@cloudburo.net"&gt;info@cloudburo.net&lt;/a&gt;). 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        These rules were taken over and slightly adapted from the 
-       &lt;a href="http://www.youtube.com/yt/policyandsafety/communityguidelines.html"&gt;YouTube Community Guidelines&lt;/a&gt;. 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
