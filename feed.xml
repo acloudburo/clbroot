@@ -5,10 +5,51 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-06-10T08:38:25Z</updated>
+  <updated>2015-06-10T09:42:35Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Quick Tip - Evernote Notebook Grouping for each content site</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/quick-tip-evernote-notebook-grouping-for-each-content-site.html"/>
+    <id>https://curation.cloudburo.net/2015/06/10/quick-tip-evernote-notebook-grouping-for-each-content-site.html</id>
+    <published>2015-06-10T09:42:35Z</published>
+    <updated>2015-06-10T21:42:37+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        In case you run multiple sites via the Cloudburo Curation Platform it’s advisable that you start using the Notebook Grouping within Evernote, to have the various site specific notebooks nicely assembled together. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/6373ef20edfba20ac6be8dcf6ce32ccf.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/7d2a8594f61e523292936c446207b749.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Feature: Customizable Evernote Publishing Schedule</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/feature-customizable-evernote-publishing-schedule.html"/>
@@ -400,99 +441,6 @@
       &lt;div&gt;
         These rules were taken over and slightly adapted from the 
        &lt;a href="http://www.youtube.com/yt/policyandsafety/communityguidelines.html"&gt;YouTube Community Guidelines&lt;/a&gt;. 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Working with Evernote - some inspiring use cases</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/working-with-evernote-some-inspiring-use-cases.html"/>
-    <id>https://curation.cloudburo.net/2015/06/06/working-with-evernote-some-inspiring-use-cases.html</id>
-    <published>2015-06-06T04:12:29Z</published>
-    <updated>2015-06-10T20:28:37+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Evernote lets you capture and share everything that&amp;rsquo;s important to you in a single, easily accessible place. It’s building your content collection backbone for all your valuable information assets. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Out of that foundation of news and articles you now can build your online content site serving your community with your opinion and topic knowledge by integrating Evernote with the Cloudburo Curation Platform. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Starting to use Evernote in your daily life (be it in business or private) may have the power to influence, change and improve your daily workflows and laborious activities in a positive way.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        It’s worth to check out some inspiring examples how people are using Evernote. 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;a href="https://www.youtube.com/playlist?list=PL4I5cq2DfrSoJPvZKn-kYbBYpa_5f5wMj"&gt;Evernote’s Stories Youtube channel&lt;/a&gt; outlines such use cases of Evernote usage for optimizing and improving daily work activities. Three examples 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        In the first video ModCloth’s Senior Online Editor explains who she is tackling everyday tasks and a major redesign of their blog with Evernote.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/VVh1AfGxhZA?list=PL4I5cq2DfrSoJPvZKn-kYbBYpa_5f5wMj?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Another video takes a look inside San Francisco bakery Craftsman &amp;amp; Wolves and shows how its chef, William Werner, runs his business with Evernote. For him Evernote was a „absolute game changer“ (an experience which I personally also made) 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/h8qegSP-h0w?list=PL4I5cq2DfrSoJPvZKn-kYbBYpa_5f5wMj?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        As a third example how to use Evernote for collaborating directly with your clients, refer to the following  video of Chad Williams who is running a fitness business. Instead of sending email’s and pdf’s around he uses directly Evernote for stay up-to-date with his clientele. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/HQ851ehn890?list=PL4I5cq2DfrSoJPvZKn-kYbBYpa_5f5wMj?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Having Evernote as your daily companion (well your mobile is normally all the times with you), it’s an easy step to integrate with Cloudburo and to reach out with your content to the online community. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Refer to some use cases how people are using the 
-       &lt;a href="https://curation.cloudburo.net/tags/showcase.html"&gt;Cloudburo Curation Platform&lt;/a&gt; as an extension to Evernote. 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
