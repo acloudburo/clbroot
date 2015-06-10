@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/feature-customizable-evernote-publishing-schedule.html"/>
     <id>https://curation.cloudburo.net/2015/06/10/feature-customizable-evernote-publishing-schedule.html</id>
     <published>2015-06-10T08:38:25Z</published>
-    <updated>2015-06-10T20:38:25+00:00</updated>
+    <updated>2015-06-10T20:56:55+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -53,7 +53,7 @@
       &lt;/div&gt; 
       &lt;ul&gt; 
        &lt;li&gt;&lt;i&gt;clb-processed, &lt;/i&gt;i.e. we regenerate or update an existing article&lt;/li&gt; 
-       &lt;li&gt;&lt;i&gt;clb-delete&lt;/i&gt;, i.e. we ant to delete an article&lt;/li&gt; 
+       &lt;li&gt;&lt;i&gt;clb-delete&lt;/i&gt;, i.e. we want to delete an article&lt;/li&gt; 
       &lt;/ul&gt; 
       &lt;div&gt;
         will be skipped. These articles will be regenerated or deleted with the next Cloudburo Curation run. 
