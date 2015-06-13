@@ -127,6 +127,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//2015/06/13/why-content-curation-matters-to-your-business.html</loc>
+    <lastmod>2015-06-13</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//2015/05/20/feature-seo-friendly-article-urls.html</loc>
     <lastmod>2015-06-13</lastmod>
     <priority>0.7</priority>
@@ -439,6 +445,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//blog/page/4.html</loc>
+    <lastmod>2015-06-13</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//tags/feature/page/2.html</loc>
     <lastmod>2015-06-13</lastmod>
     <priority>0.7</priority>
@@ -452,6 +464,12 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net//2015/page/3.html</loc>
+    <lastmod>2015-06-13</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//2015/page/4.html</loc>
     <lastmod>2015-06-13</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>

@@ -5,10 +5,65 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-06-13T07:56:03Z</updated>
+  <updated>2015-06-13T11:30:17Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Why Content Curation Matters to Your Business</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/13/why-content-curation-matters-to-your-business.html"/>
+    <id>https://curation.cloudburo.net/2015/06/13/why-content-curation-matters-to-your-business.html</id>
+    <published>2015-06-13T11:30:17Z</published>
+    <updated>2015-06-13T11:30:20+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        A very nice 
+       &lt;a href="http://www.bloggersidekick.com/infographic-why-blogging-matters-to-your-business"&gt;infographic by Blogger Sidekic&lt;/a&gt;k, which outlines why blogging (self created content), curation matters for your business.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        It results in the following to-the-point verdict 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;i&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;&amp;ldquo;Blogging creates trust. This trust then become the cornerstone for customer advocacy.&amp;rdquo;&lt;/span&gt;&lt;/b&gt;&lt;/i&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        We at Cloudburo want to help your by easing your workflow to produce the content by removing any kind of administrational distraction. The Cloudburo Curation Platform allows you to concentrate for the relevant task, aka producing fresh and inspiring content. The rest leave to us and head on with your other important work.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c85a77bd2bd5309ffde4d3d1aaece73e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Feature: Custom Domain Support and Cloudflare CDN Integration</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/13/feature-custom-domain-support-and-cloudflare-cdn-integration.html"/>
@@ -389,57 +444,6 @@
        &lt;li&gt;&lt;b&gt;infrastructure upgrade&lt;/b&gt;: Upgrade to &amp;ldquo;64bit Amazon Linux 2015.03 v1.4.1 running Docker 1.6.0“ (from v1.4.0)&lt;/li&gt; 
        &lt;li&gt;&lt;b&gt;bug fix 18&lt;/b&gt;: Regeneration of HTML of re-processing only pages isn’t kicked off&lt;/li&gt; 
       &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Interested to participate in beta release, please register at&lt;br&gt;
-       &lt;a href="https://cloudburo.net/docs/products.html"&gt;&lt;a href="https://cloudburo.net/docs/products.html"&gt;https://cloudburo.net/docs/products.html&lt;/a&gt;&lt;/a&gt;. 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Release: Beta-0.0.36</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html"/>
-    <id>https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html</id>
-    <published>2015-06-06T11:02:06Z</published>
-    <updated>2015-06-13T07:55:46+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        We are still in beta testing of the Cloudburo Curation Platform. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Release Date: 7.6.2015 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The Release includes the following new features or fixes 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;&lt;b&gt;new feature&lt;/b&gt;: The followLink behavior got fixed and extended. Sites registered as a subdomain (automatically by us when creating a site) of curation.space will have a „nofollow“ link behavior. Sites which are using their own custom domain (configuration option, after initial creation of the site) will not have a „nofollow“ link behavior.&lt;/li&gt; 
-       &lt;li&gt;&lt;b&gt;bug fix&lt;/b&gt;: clb-delete tag will be removed from the note after completing processing&lt;/li&gt; 
-       &lt;li&gt;&lt;b&gt;&lt;a href="https://curation.cloudburo.net/2015/06/02/feature-embed-direct-html-code-fragments.html"&gt;new feature&lt;/a&gt;:&lt;/b&gt; Possibility to embed HTML code fragments, e.g. required when you want to include a sign up form from Mailchimp.&lt;/li&gt; 
-       &lt;li&gt;&lt;b&gt;bug fix:&lt;/b&gt; Modified or notes tagged for deletion, will be processed independently of your current publishing schedule state. This will allow you to propagate these changes quickly and not waiting on the next free scheduler slot (which could be some hours away).&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
