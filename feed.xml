@@ -5,16 +5,143 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-06-10T09:52:17Z</updated>
+  <updated>2015-06-13T07:56:03Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Feature: Custom Domain Support and Cloudflare CDN Integration</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/13/feature-custom-domain-support-and-cloudflare-cdn-integration.html"/>
+    <id>https://curation.cloudburo.net/2015/06/13/feature-custom-domain-support-and-cloudflare-cdn-integration.html</id>
+    <published>2015-06-13T07:56:03Z</published>
+    <updated>2015-06-13T07:56:08+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        As top level domain for our content sites we use the domain „curation.space“&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;Your personal default subdomain: &amp;lt;siteId&amp;gt;.curation.space&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The .space domain name is described as follow by the Website 
+       &lt;a href="http://www.domain.com/domains/tlds/space.bml"&gt;domain.com&lt;/a&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;i&gt;.SPACE is the domain name for passionate and driven individuals who are ready to carve out their place online. .SPACE is a canvas for self-starters to express their creativity and share their talents with the world.&lt;/i&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;i&gt;.SPACE provides a solid anchor for creative minds to explore infinite possibilities and to define their ideas online. It specially caters to freelancers, professionals, and hobbyists who want to showcase their skills and highlight their commitment to their passions.&lt;/i&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        This suits quite well with the goal of the Cloudburo Curation Platform to drive an support passionate and driven indivduals and professionals in building their content space. 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        During the registration process you will choose your &amp;lt;sitedId&amp;gt; (e.g. myblog). The Curation Platform  will create  the subdomain 
+       &lt;i&gt;&lt;b&gt;&amp;lt;sitedId&amp;gt;.curation.space&lt;/b&gt;&lt;/i&gt; (e.g. myblog.curation.space) for you. No other content except the one created by you will be placed there. So choose your name wisely. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;span style="font-size: 18px;"&gt;&lt;b&gt;Use your own domain name&lt;/b&gt;&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        You can use your own domain name instead of the one offered by us. Configure your CNAME in the Curation Platform Admin GUI, e.g. 
+       &lt;i&gt;dognews.mydomain.com&lt;/i&gt; and configure a CNAME entry in your domain name server pointing to 
+       &lt;i&gt;acloudburo.github.io.&lt;/i&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;i&gt;&lt;br&gt;&lt;/i&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/07f093c3ea22f91a94d00b1c601a7a4b.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;curation.space domain is protected and acclerated by Cloudflare CDN&lt;/span&gt;&lt;/b&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        In front of our Content site we have the 
+       &lt;a href="https://www.cloudflare.com/overview"&gt;Cloudflare Content Delivery Network&lt;/a&gt;.  As part of the CloudFlare community, our web traffic is routed through their intelligent global network. Cloudflare automatically optimize the delivery of our web pages so your visitors get the fastest page load times and best performance. They also block threats and limit abusive bots and crawlers from wasting our bandwidth and server resources. The result: CloudFlare-powered websites see a significant improvement in performance and a decrease in spam and other attacks. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        By using Cloudflare we also enabled by default the secure https:// protocol (the new de facto standard for websites). 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/9b7d138fb4c04b9f03ce91c2dbc0fa39.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        We are leveraging for the content site publishing the global Web backbone of github.io (via their gh-pages facility).&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt;
+        This allows us good performance and high availability of the content sites. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d32c04d93400ef6804281acf90e62330.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Tutorial - Curation Publishing Workflow in 2 simple steps</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html"/>
     <id>https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html</id>
     <published>2015-06-10T09:52:17Z</published>
-    <updated>2015-06-10T21:52:17+00:00</updated>
+    <updated>2015-06-13T07:55:46+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -144,7 +271,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/quick-tip-evernote-notebook-grouping-for-each-content-site.html"/>
     <id>https://curation.cloudburo.net/2015/06/10/quick-tip-evernote-notebook-grouping-for-each-content-site.html</id>
     <published>2015-06-10T09:42:35Z</published>
-    <updated>2015-06-10T21:42:37+00:00</updated>
+    <updated>2015-06-13T07:55:46+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -185,7 +312,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/feature-customizable-evernote-publishing-schedule.html"/>
     <id>https://curation.cloudburo.net/2015/06/10/feature-customizable-evernote-publishing-schedule.html</id>
     <published>2015-06-10T08:38:25Z</published>
-    <updated>2015-06-10T20:56:55+00:00</updated>
+    <updated>2015-06-13T07:55:46+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -244,7 +371,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/07/release-beta-0-0-37.html"/>
     <id>https://curation.cloudburo.net/2015/06/07/release-beta-0-0-37.html</id>
     <published>2015-06-07T01:09:29Z</published>
-    <updated>2015-06-10T20:28:37+00:00</updated>
+    <updated>2015-06-13T07:55:46+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -278,7 +405,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html"/>
     <id>https://curation.cloudburo.net/2015/06/06/release-beta-0-0-36.html</id>
     <published>2015-06-06T11:02:06Z</published>
-    <updated>2015-06-10T20:28:37+00:00</updated>
+    <updated>2015-06-13T07:55:46+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -319,146 +446,6 @@
       &lt;div&gt;
         Interested to participate in beta release, please register at&lt;br&gt;
        &lt;a href="https://cloudburo.net/docs/products.html"&gt;&lt;a href="https://cloudburo.net/docs/products.html"&gt;https://cloudburo.net/docs/products.html&lt;/a&gt;&lt;/a&gt;. 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>News Publishing Workflow in 3 simple steps</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html"/>
-    <id>https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html</id>
-    <published>2015-06-06T10:16:20Z</published>
-    <updated>2015-06-10T22:15:38+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt; 
-       &lt;span style="font-size: 18px;"&gt;&lt;b&gt;Step 1: Working through the aggregated News in Feedly&lt;/b&gt;&lt;/span&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        This workflow starts in a news aggregation application, which allows to transfer important news articles to Evernote. My preferred application for this job is 
-       &lt;a href="https://feedly.com/"&gt;feedly&lt;/a&gt; which provides One-click integration into Evernote. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The news aggregation application can be configured to listen various news channels (more on that in an own article later). For example for the site 
-       &lt;a href="https://dognews.curation.space/"&gt;dognews.curation.space&lt;/a&gt; (a german news site) various news channels under the topics „DOGS“ are monitored by feedly.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/7de1be8716d3d2f74f867b0e7350859a.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The news aggregation application will present the newly published articles in an easy browse-able format. In case of feedly you may have the possibility to use optimized native applications for  your mobile devices (as for example for an iPhone or Android device). That’s important because it allows you to browse and check for news any time any where, even if you have just some minute spare time when waiting for example for the next train connection.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;The task is a quick browsing task, reading the headline and decide if the article may of importance for your news site or not&lt;/li&gt; 
-       &lt;li&gt;If not, move one and scroll down to the next article&lt;/li&gt; 
-       &lt;li&gt;If yes, open the article and transfer it to the Evernote &lt;i&gt;&amp;lt;siteId&amp;gt;-A-Fetch&lt;/i&gt; notebook. The notebook was created by the Cloudburo Curation Platform and will be monitored periodically for new notes. &lt;/li&gt; 
-       &lt;li&gt;New notes will fetched by the Cloudburo Curation Platform, the source article will be fully extracted and your note updated. &lt;/li&gt; 
-       &lt;li&gt;Having done that the note will be transferred to your &lt;i&gt;&amp;lt;sitedId&amp;gt;-B-Prepare&lt;/i&gt; notebook, ready for the next step of the workflow&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        My experience using this workflow shows that you can easily browse through 30 news within 1-3 minutes, storing around 10% for later checking to Evernote. I do that normally in the morning when commuting to the office. Speed reading and transferring is essential because quite easily you have to check some hundred news per day depending on the monitored news channels. With feedly you can do the task on your mobile with one hand and one thumb even in a crowded public transport. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The video shows you the task (we are using the Browser base Desktop version of feedly in this example) 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/lJmQ0cYjZd0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 24px;"&gt;&lt;span style="font-size: 18px;"&gt;Step 2: Sifting through the preselected news and make them publishing ready in Evernote&lt;/span&gt; &lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The second step for getting your news ready for publishing is, to sit down, sift through the news  which you have collected during the day(s) in Evernote and which may be important for your content site.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        As explained in step 1, you will find the stories fully extracted in plain text in your 
-       &lt;i&gt;&amp;lt;siteId&amp;gt;-B-Prepare&lt;/i&gt; notebook. By having the Cloudburo Curation Platform taken over the job of fetching the full content and storing it in plain text you will save considerable time in this task. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;Just read the article and select the text excerpt in bold which you want take over as excerpt in your content site article. If necessary complement the text with some additional comments from your side. &lt;/li&gt; 
-       &lt;li&gt;Add additional Evernote tags which will be used as content site categories&lt;/li&gt; 
-       &lt;li&gt;Finally move the note to the &lt;i&gt;&amp;lt;sitedId&amp;gt;-D-NewsGen&lt;/i&gt; notebook, where the note will taken over by the Cloudburo Curation Platform and an article will be generated on your online content site.&lt;/li&gt; 
-       &lt;li&gt;Again a very streamlined and optimized workflow, which will take the minimum of your time and allows you to deliver fresh news to your content site in no time.&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/hraAQAtrPJU?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;Step 3: Check the published article &lt;/span&gt;&lt;span style="font-size: 18px;"&gt;on your&lt;/span&gt;&lt;span style="font-size: 18px;"&gt; content site &lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Finally do a quick online check on your content site, if the generated site is ok. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/bea9f50b2dc02639c5ed2ffa0fa659d6.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
