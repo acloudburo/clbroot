@@ -79,6 +79,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//2015/08/15/showcase-visitor-tips-for-hotel-guest.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//2015/05/19/quick-tip-changing-an-evernote-title-of-an-already-processed-note.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.7</priority>
@@ -277,6 +283,18 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//tags/showcase.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//tags/inspiration.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//tags/feature.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.9</priority>
@@ -290,18 +308,6 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net//tags/analytics.html</loc>
-    <lastmod>2015-08-15</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.cloudburo.net//tags/showcase.html</loc>
-    <lastmod>2015-08-15</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.cloudburo.net//tags/inspiration.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -334,6 +340,18 @@
     <loc>https://curation.cloudburo.net//2015.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//2015/08.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//2015/08/15.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
