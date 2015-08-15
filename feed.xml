@@ -196,7 +196,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html"/>
     <id>https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html</id>
     <published>2015-06-10T09:52:17Z</published>
-    <updated>2015-08-15T08:51:19+00:00</updated>
+    <updated>2015-08-15T09:03:44+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -208,14 +208,19 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The tutorial shows the simple steps to prepare and publish a curation or self created Evernote note to your Content Site. The site identifier used in the example is&lt;br&gt;
-       &lt;strong&gt;sosnews&lt;/strong&gt; (replace it with your own identifier when repeating it on your own site). 
+        The tutorial shows the simple steps to prepare and publish a curated or self created Evernote note to your Content Site. I.e. the publishing step will take into consideration your Evernote formatting. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
         The tutorial is based on the Evernote Browers-based Client of the new generation (the distraction-free white version). For other Evernote Apps and Clients similar steps are relevant. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The site identifier used in the example is ’sosnews’, replace it with your own identifier when repeating the steps on your own site. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
