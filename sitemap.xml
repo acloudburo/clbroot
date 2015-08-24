@@ -337,6 +337,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//tags/curationplatform.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//tags/evernote.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.9</priority>
