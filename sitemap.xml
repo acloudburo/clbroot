@@ -223,6 +223,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//2015/08/24/credit-card-payments-handling-at-cloudburo.html</loc>
+    <lastmod>2015-08-24</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//2015/06/06/working-with-evernote-some-inspiring-use-cases.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.7</priority>
@@ -346,6 +352,12 @@
     <loc>https://curation.cloudburo.net//2015/08.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//2015/08/24.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>

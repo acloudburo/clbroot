@@ -5,10 +5,70 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-08-15T10:04:20Z</updated>
+  <updated>2015-08-24T07:34:51Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Credit Card Payments Handling at Cloudburo</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html"/>
+    <id>https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html</id>
+    <published>2015-08-24T07:34:51Z</published>
+    <updated>2015-08-24T19:34:51+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Security is one of our biggest consideration, when it comes down to charge our client for our services via Credit or Debit Card. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Therefore we chose 
+       &lt;a href="https://stripe.com"&gt;Stripe&lt;/a&gt; as our Payment provider for handling any kind of credit card transaction. Stripe is a leading and trusted payment processor in the internet space. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Stripe has been audited by a PCI-certified auditor, and is certified to&lt;br&gt;
+       &lt;a href="http://www.visa.com/splisting/searchGrsp.do?companyNameCriteria=stripe"&gt;PCI Service Provider Level 1&lt;/a&gt;. This is the most stringent level of certification available. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        We use Stripe.js on our website to collect the necessary credit card data in your browser. The entered data in the form is 
+       &lt;u&gt;&lt;b&gt;never sent to our server&lt;/b&gt;&lt;/u&gt;, instead they are sent directly to Stripe.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Why is this so important? 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;More secure because a breach of our servers won&amp;rsquo;t result in any stolen credit card data. They are only hold in the highly secure vaults of Stripe,  which fully complies to the PCI standard.&lt;/li&gt; 
+       &lt;li&gt;Therefore we are automatically also PCI compliant &lt;u&gt;&lt;b&gt;because we don&amp;rsquo;t handle any sensitive credit card data on our servers&lt;/b&gt;&lt;/u&gt;.&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Showcase: Visitor Tips for Hotel Guest</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html"/>
@@ -482,65 +542,6 @@
   &lt;img class="img-responsive img-thumbnail article" src="/images/7d2a8594f61e523292936c446207b749.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Feature: Customizable Evernote Publishing Schedule</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/feature-customizable-evernote-publishing-schedule.html"/>
-    <id>https://curation.cloudburo.net/2015/06/10/feature-customizable-evernote-publishing-schedule.html</id>
-    <published>2015-06-10T08:38:25Z</published>
-    <updated>2015-08-15T08:26:30+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The Cloudburo Content Curation Platform comes with a integrated article publishing scheduler. It allows you to define  how many news will be published 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;per day  &lt;/li&gt; 
-       &lt;li&gt;in which time window and  &lt;/li&gt; 
-       &lt;li&gt;in which time zone.&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        During the site setup step you can define the time zone where you main target content community lives, as well as on which day ( e.g. monday to friday) and in which timeframe (10:00-18:00) articles should be published. Additionally you define how many articles will be produced per hour. This feature gives you quite some flexibility to control your overall content flow.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;For example: Set your scheduler to &amp;ldquo;Monday - Friday&amp;rdquo;, from &amp;ldquo;11:00-13:00“ with 1 message per hour, in order to generate a maximum of 3 articles per day during lunch time within your time zone. &lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;For which articles will the scheduler be bypassed ?&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The scheduler for articles with the tag 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;&lt;i&gt;clb-processed, &lt;/i&gt;i.e. we regenerate or update an existing article&lt;/li&gt; 
-       &lt;li&gt;&lt;i&gt;clb-delete&lt;/i&gt;, i.e. we want to delete an article&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt;
-        will be skipped. These articles will be regenerated or deleted with the next Cloudburo Curation run. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
