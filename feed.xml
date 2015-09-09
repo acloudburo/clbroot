@@ -5,16 +5,84 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-08-24T07:34:51Z</updated>
+  <updated>2015-09-09T11:05:06Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Introduction to Evernote</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html"/>
+    <id>https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html</id>
+    <published>2015-09-09T11:05:06Z</published>
+    <updated>2015-09-09T23:05:07+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Evernote One Workplace solution is the center application into which the Cloudburo Curation Platform hooks into. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Some videos may help you to get started with it, in case you are new to Evernote. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Evernote is supported on various devices and browsers. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Check out the following movie to get an understanding of their new Web User Interface 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/_3VHEDgQdIs?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        If you download the native Evernote Mac App check out the most important feature here 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/X-NRMJE_x1c?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Or you can work directly from your mobile device, for example Android&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/yrQ87l3AwL8?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Credit Card Payments Handling at Cloudburo</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html"/>
     <id>https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html</id>
     <published>2015-08-24T07:34:51Z</published>
-    <updated>2015-08-24T22:10:30+00:00</updated>
+    <updated>2015-09-09T23:05:05+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -29,8 +97,8 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        Therefore Cloudburo choses&lt;br&gt;
-       &lt;a href="https://stripe.com"&gt;Stripe&lt;/a&gt; as our Payment provider for handling any kind of credit card transaction. Stripe is a leading and trusted payment processor in the internet space. 
+        Therefore Cloudburo choses 
+       &lt;a href="http://www.stripe.com"&gt;Stripe&lt;/a&gt; as our Payment provider for handling any kind of credit card transaction. Stripe is a leading and trusted payment processor in the internet space. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -74,7 +142,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html"/>
     <id>https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html</id>
     <published>2015-08-15T10:04:20Z</published>
-    <updated>2015-08-15T10:17:27+00:00</updated>
+    <updated>2015-09-09T23:04:48+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -188,7 +256,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/13/why-content-curation-matters-to-your-business.html"/>
     <id>https://curation.cloudburo.net/2015/06/13/why-content-curation-matters-to-your-business.html</id>
     <published>2015-06-13T11:30:17Z</published>
-    <updated>2015-08-15T08:26:30+00:00</updated>
+    <updated>2015-09-09T23:04:48+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -243,7 +311,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/13/feature-custom-domain-support-and-cloudflare-cdn-integration.html"/>
     <id>https://curation.cloudburo.net/2015/06/13/feature-custom-domain-support-and-cloudflare-cdn-integration.html</id>
     <published>2015-06-13T07:56:03Z</published>
-    <updated>2015-08-15T08:26:30+00:00</updated>
+    <updated>2015-09-09T23:04:48+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -370,7 +438,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html"/>
     <id>https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html</id>
     <published>2015-06-10T09:52:17Z</published>
-    <updated>2015-08-15T09:15:56+00:00</updated>
+    <updated>2015-09-09T23:04:48+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -501,47 +569,6 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Quick Tip - Evernote Notebook Grouping for each content site</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/10/quick-tip-evernote-notebook-grouping-for-each-content-site.html"/>
-    <id>https://curation.cloudburo.net/2015/06/10/quick-tip-evernote-notebook-grouping-for-each-content-site.html</id>
-    <published>2015-06-10T09:42:35Z</published>
-    <updated>2015-08-15T08:26:30+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        In case you run multiple sites via the Cloudburo Curation Platform it’s advisable that you start using the Notebook Grouping within Evernote, to have the various site specific notebooks nicely assembled together. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/6373ef20edfba20ac6be8dcf6ce32ccf.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/7d2a8594f61e523292936c446207b749.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
        &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
