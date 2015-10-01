@@ -181,6 +181,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//2015/10/01/basic-concepts-and-features-of-the-cloudburo-curation-platform.html</loc>
+    <lastmod>2015-10-01</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//2015/06/06/news-publishing-workflow-in-3-simple-steps.html</loc>
     <lastmod>2015-09-09</lastmod>
     <priority>0.7</priority>
@@ -337,6 +343,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//tags/tutorial.html</loc>
+    <lastmod>2015-09-09</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//tags/workflow.html</loc>
     <lastmod>2015-09-09</lastmod>
     <priority>0.9</priority>
@@ -358,6 +370,18 @@
     <loc>https://curation.cloudburo.net//2015.html</loc>
     <lastmod>2015-09-09</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//2015/10.html</loc>
+    <lastmod>2015-09-09</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//2015/10/01.html</loc>
+    <lastmod>2015-09-09</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
