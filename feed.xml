@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/10/01/basic-concepts-and-features-of-the-cloudburo-curation-platform.html"/>
     <id>https://curation.cloudburo.net/2015/10/01/basic-concepts-and-features-of-the-cloudburo-curation-platform.html</id>
     <published>2015-10-01T09:47:55Z</published>
-    <updated>2015-10-01T21:48:21+00:00</updated>
+    <updated>2015-10-02T11:41:37+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -26,7 +26,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The article describes the basic concepts and capability  of the Cloudburo Curation Platform in a narrative way. It will allow you to get a good overview what is offered by the platform. 
+        The article describes the basic concepts and capability of the Cloudburo Curation Platform in a narrative way. It will allow you to get a good overview what is offered by the platform. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;div&gt; 
@@ -39,19 +39,19 @@
         &lt;br&gt; 
        &lt;/div&gt; 
        &lt;div&gt;
-         The&lt;br&gt;
-        &lt;strong&gt;Cloudburo Curation Platform&lt;/strong&gt; is managing content sites of multiple&lt;br&gt;
+         The 
+        &lt;strong&gt;Cloudburo Curation Platform&lt;/strong&gt; is managing content sites of multiple 
         &lt;strong&gt;users&lt;/strong&gt;. 
        &lt;/div&gt; 
        &lt;div&gt; 
         &lt;br&gt; 
        &lt;/div&gt; 
        &lt;div&gt;
-         A Cloudburo&lt;br&gt;
-        &lt;strong&gt;content&lt;/strong&gt;&lt;br&gt;
-        &lt;strong&gt;site&lt;/strong&gt; consists of multiple&lt;br&gt;
-        &lt;strong&gt;articles&lt;/strong&gt; which were transformed from Evernote&lt;br&gt;
-        &lt;strong&gt;notes&lt;/strong&gt; stored in dedicated Evernote&lt;br&gt;
+         A Cloudburo 
+        &lt;strong&gt;content&lt;/strong&gt; 
+        &lt;strong&gt;site&lt;/strong&gt; consists of multiple 
+        &lt;strong&gt;articles&lt;/strong&gt; which were transformed from Evernote 
+        &lt;strong&gt;notes&lt;/strong&gt; stored in dedicated Evernote 
         &lt;strong&gt;notebooks. &lt;/strong&gt; 
        &lt;/div&gt; 
        &lt;div&gt; 
@@ -66,8 +66,8 @@
         &lt;br&gt; 
        &lt;/div&gt; 
        &lt;div&gt;
-         A content site is represented by a unique user chosen&lt;br&gt;
-        &lt;strong&gt;site identifier&lt;/strong&gt;&lt;br&gt;
+         A content site is represented by a unique user chosen 
+        &lt;strong&gt;site identifier&lt;/strong&gt; 
         &lt;strong&gt;(SID)&lt;/strong&gt; within the Cloudburo Curation Platform. You may manage multiple sites from one Evernote account. 
        &lt;/div&gt; 
        &lt;div&gt; 
@@ -76,7 +76,7 @@
       &lt;/div&gt; 
       &lt;div&gt;
         By default the content side of a user is reachable via 
-       &lt;i&gt; https://&amp;lt;yourSiteId&amp;gt;.curation.space. &lt;/i&gt;You may choose to use your own  domain. 
+       &lt;i&gt; https://&amp;lt;yourSiteId&amp;gt;.curation.space. &lt;/i&gt;You may choose to use your own domain. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -85,7 +85,7 @@
         A blog 
        &lt;strong&gt;article&lt;/strong&gt; may be originated from a 
        &lt;strong&gt;note&lt;/strong&gt; which was placed in one of two Evernote 
-       &lt;strong&gt;transfer&lt;/strong&gt;&lt;br&gt;
+       &lt;strong&gt;transfer&lt;/strong&gt; 
        &lt;strong&gt;notebooks&lt;/strong&gt;. 
       &lt;/div&gt; 
       &lt;div&gt; 
@@ -98,7 +98,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;ul&gt; 
-       &lt;li&gt;Notes which are &lt;strong&gt;self-created or curated&lt;/strong&gt;,  that means they are formatted and structured according to the authors desire. These notes should be placed into the &lt;strong&gt;Curation Transfer  Notebook.&lt;/strong&gt; It has the name &lt;i&gt;&amp;lt;yourSiteId&amp;gt;-E-CurateGen.&lt;/i&gt;&lt;/li&gt; 
+       &lt;li&gt;Notes which are &lt;strong&gt;self-created or curated&lt;/strong&gt;, that means they are formatted and structured according to the authors desire. These notes should be placed into the &lt;strong&gt;Curation Transfer Notebook.&lt;/strong&gt; It has the name &lt;i&gt;&amp;lt;yourSiteId&amp;gt;-E-CurateGen.&lt;/i&gt;&lt;/li&gt; 
        &lt;li&gt;Notes which consist of a short news &lt;strong&gt;headline paragraph in bold&lt;/strong&gt; complemented with a link to the full article on a third party website should be placed into the &lt;strong&gt;News Transfer Notebook.&lt;/strong&gt; It has the name &lt;i&gt;&amp;lt;yourSiteId&amp;gt;-D-NewsGen&lt;/i&gt;.&lt;br&gt;&lt;/li&gt; 
       &lt;/ul&gt; 
       &lt;div&gt; 
@@ -110,14 +110,12 @@
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;div&gt;
-         After the note is published it will be moved to the  Evernote&lt;br&gt;
-        &lt;strong&gt;Archive &lt;/strong&gt; 
-        &lt;strong&gt;Notebook&lt;/strong&gt; with the name&lt;br&gt;
-        &lt;i&gt;&amp;lt;yourSiteId-Z-Archiv&lt;/i&gt;). The note will be marked with the tag&lt;br&gt;
-        &lt;strong&gt;clb-processed&lt;/strong&gt;. 
-       &lt;/div&gt; 
+      &lt;div&gt;
+        After the note is published it will be moved to the Evernote 
+       &lt;strong&gt;Archive &lt;/strong&gt; 
+       &lt;strong&gt;Notebook&lt;/strong&gt; with the name 
+       &lt;i&gt;&amp;lt;yourSiteId-Z-Archiv&lt;/i&gt;&amp;gt;. The note will be marked with the tag 
+       &lt;strong&gt;clb-processed&lt;/strong&gt;. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -150,9 +148,9 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The Evernote note&lt;br&gt;
+        The Evernote note 
        &lt;strong&gt;creation&lt;/strong&gt; 
-       &lt;strong&gt;date&lt;/strong&gt; as well as the note&lt;br&gt;
+       &lt;strong&gt;date&lt;/strong&gt; as well as the note 
        &lt;strong&gt;title&lt;/strong&gt; should be treated as immutable after the initial article generation step. These two attributes are part of the article URL and will uniquely identify the article in your content site. 
       &lt;/div&gt; 
       &lt;div&gt; 
@@ -165,7 +163,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        A generated article can be removed from the content site, by attaching the&lt;br&gt;
+        A generated article can be removed from the content site, by attaching the 
        &lt;strong&gt;clb-delete &lt;/strong&gt;tag and move it to one of the Transfer Notebooks. The note will be fetched and the corresponding article will be removed from the content site. The note itself will be moved to the Archive Notebook and the clb-delete tag will be unattached. 
       &lt;/div&gt; 
       &lt;div&gt; 
@@ -173,7 +171,7 @@
       &lt;/div&gt; 
       &lt;div&gt;
         A note may have 
-       &lt;strong&gt;dedicated tags attached&lt;/strong&gt; with a prefix of &amp;ldquo;&amp;lt;site identifier&amp;gt;-&amp;lt;category&amp;gt;&amp;rdquo;. The tags will be used to categorize the articles on the content site.  The content site will offer a 
+       &lt;strong&gt;dedicated tags attached&lt;/strong&gt; with a prefix of &amp;ldquo;&amp;lt;site identifier&amp;gt;-&amp;lt;category&amp;gt;&amp;rdquo;. The tags will be used to categorize the articles on the content site. The content site will offer a 
        &lt;strong&gt;category menu which lists all used categories&lt;/strong&gt; in oder to get a list of articles by category entty. 
       &lt;/div&gt; 
       &lt;div&gt; 
@@ -187,15 +185,15 @@
         &lt;br&gt; 
        &lt;/div&gt; 
        &lt;div&gt;
-         A content site is operated in a user chosen&lt;br&gt;
-        &lt;strong&gt;time zone&lt;/strong&gt; and  notes in the Transfer notebooks are members of the&lt;br&gt;
-        &lt;strong&gt;article publishing queue.&lt;/strong&gt; The article publishing queue has a article&lt;br&gt;
+         A content site is operated in a user chosen 
+        &lt;strong&gt;time zone&lt;/strong&gt; and notes in the Transfer notebooks are members of the 
+        &lt;strong&gt;article publishing queue.&lt;/strong&gt; The article publishing queue has a article 
         &lt;strong&gt;publishing scheduler&lt;/strong&gt;, which defines (user chosen) 
        &lt;/div&gt; 
        &lt;ul&gt; 
         &lt;li&gt;at &lt;strong&gt;which week days&lt;/strong&gt;&lt;/li&gt; 
         &lt;li&gt;in &lt;strong&gt;which time window&lt;/strong&gt; in the defined time zone &lt;/li&gt; 
-        &lt;li&gt;&lt;strong&gt;how many  articles&lt;/strong&gt; per hour&lt;/li&gt; 
+        &lt;li&gt;&lt;strong&gt;how many articles&lt;/strong&gt; per hour&lt;/li&gt; 
        &lt;/ul&gt; 
        &lt;div&gt;
          should be published on the content site. 
@@ -204,13 +202,13 @@
         &lt;br&gt; 
        &lt;/div&gt; 
        &lt;div&gt;
-         If the publish scheduler triggers a  generation event,  the above described transfer notebooks will be checked for available notes. If available the scheduler will fetch the oldest note (creation date) and generate the corresponding content site article. 
+         If the publish scheduler triggers a generation event, the above described transfer notebooks will be checked for available notes. If available the scheduler will fetch the oldest note (creation date) and generate the corresponding content site article. 
        &lt;/div&gt; 
        &lt;div&gt; 
         &lt;br&gt; 
        &lt;/div&gt; 
        &lt;div&gt;
-         For notes with the tag clb-processed or clb-delete attached the scheduler doesn&amp;rsquo;t apply - i.e. they will be updated or deleted in the next publishing cycle.&lt;br&gt;
+         For notes with the tag clb-processed or clb-delete attached the scheduler doesn&amp;rsquo;t apply - i.e. they will be updated or deleted in the next publishing cycle. 
        &lt;/div&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
@@ -224,7 +222,7 @@
         &lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt; 
        &lt;/div&gt; 
        &lt;div&gt;
-         You may include various kind of content which will be nicely formatted in a resposnive manner in your content site&lt;br&gt;
+         You may include various kind of content which will be nicely formatted in a resposnive manner in your content site 
        &lt;/div&gt; 
        &lt;div&gt; 
         &lt;ul&gt; 
@@ -251,7 +249,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
-       &lt;b&gt;&lt;u&gt;A rich set of integration options exists to further customize and extend your content site&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+       &lt;b&gt;&lt;u&gt;A rich set of integration options exists to further customize and extend your content site&lt;/u&gt;&lt;/b&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -286,7 +284,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html"/>
     <id>https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html</id>
     <published>2015-09-09T11:05:06Z</published>
-    <updated>2015-09-09T23:05:07+00:00</updated>
+    <updated>2015-10-02T11:41:09+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -354,7 +352,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html"/>
     <id>https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html</id>
     <published>2015-08-24T07:34:51Z</published>
-    <updated>2015-09-09T23:05:05+00:00</updated>
+    <updated>2015-10-02T11:41:09+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -414,7 +412,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html"/>
     <id>https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html</id>
     <published>2015-08-15T10:04:20Z</published>
-    <updated>2015-09-09T23:04:48+00:00</updated>
+    <updated>2015-10-02T11:41:09+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -528,7 +526,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/13/why-content-curation-matters-to-your-business.html"/>
     <id>https://curation.cloudburo.net/2015/06/13/why-content-curation-matters-to-your-business.html</id>
     <published>2015-06-13T11:30:17Z</published>
-    <updated>2015-09-09T23:04:48+00:00</updated>
+    <updated>2015-10-02T11:41:09+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -583,7 +581,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/13/feature-custom-domain-support-and-cloudflare-cdn-integration.html"/>
     <id>https://curation.cloudburo.net/2015/06/13/feature-custom-domain-support-and-cloudflare-cdn-integration.html</id>
     <published>2015-06-13T07:56:03Z</published>
-    <updated>2015-09-09T23:04:48+00:00</updated>
+    <updated>2015-10-02T11:41:09+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
