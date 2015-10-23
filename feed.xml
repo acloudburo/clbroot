@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html"/>
     <id>https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html</id>
     <published>2015-10-23T10:12:02Z</published>
-    <updated>2015-10-23T22:12:02+00:00</updated>
+    <updated>2015-10-23T22:29:13+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -36,8 +36,8 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        &amp;lt;movie-youtube&amp;gt; 
-       &lt;a href="https://youtu.be/DxBiyBVh59E"&gt;DxBiyBVh59E&lt;/a&gt;&amp;lt;/movie-youtube&amp;gt; 
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ 
+       &lt;a href="https://youtu.be/DxBiyBVh59E"&gt;DxBiyBVh59E&lt;/a&gt;?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
