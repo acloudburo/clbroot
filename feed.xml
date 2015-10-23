@@ -5,16 +5,56 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-10-01T09:47:55Z</updated>
+  <updated>2015-10-23T10:12:02Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Tutorial: Sign up for an Evernote account within a minute</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html"/>
+    <id>https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html</id>
+    <published>2015-10-23T10:12:02Z</published>
+    <updated>2015-10-23T22:12:02+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        For using the Cloudburo Curation Platform you require an Evernote account, which can be easily opened within a minute. The basic offering is free and allows you easily to test out the Cloudburo Curation Platform. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Look to the following video and head over then to 
+       &lt;a href="https://evernote.com"&gt;&lt;a href="https://evernote.com"&gt;https://evernote.com&lt;/a&gt;&lt;/a&gt;. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &amp;lt;movie-youtube&amp;gt; 
+       &lt;a href="https://youtu.be/DxBiyBVh59E"&gt;DxBiyBVh59E&lt;/a&gt;&amp;lt;/movie-youtube&amp;gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Basic concepts and features of the Cloudburo Curation Platform</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/10/01/basic-concepts-and-features-of-the-cloudburo-curation-platform.html"/>
     <id>https://curation.cloudburo.net/2015/10/01/basic-concepts-and-features-of-the-cloudburo-curation-platform.html</id>
     <published>2015-10-01T09:47:55Z</published>
-    <updated>2015-10-02T11:41:37+00:00</updated>
+    <updated>2015-10-21T23:49:01+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -284,7 +324,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html"/>
     <id>https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html</id>
     <published>2015-09-09T11:05:06Z</published>
-    <updated>2015-10-02T11:41:09+00:00</updated>
+    <updated>2015-10-21T23:49:01+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -352,7 +392,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html"/>
     <id>https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html</id>
     <published>2015-08-24T07:34:51Z</published>
-    <updated>2015-10-02T11:41:09+00:00</updated>
+    <updated>2015-10-21T23:49:01+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -412,7 +452,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html"/>
     <id>https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html</id>
     <published>2015-08-15T10:04:20Z</published>
-    <updated>2015-10-02T11:41:09+00:00</updated>
+    <updated>2015-10-21T23:49:01+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -526,7 +566,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/06/13/why-content-curation-matters-to-your-business.html"/>
     <id>https://curation.cloudburo.net/2015/06/13/why-content-curation-matters-to-your-business.html</id>
     <published>2015-06-13T11:30:17Z</published>
-    <updated>2015-10-02T11:41:09+00:00</updated>
+    <updated>2015-10-21T23:49:01+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -566,133 +606,6 @@
     
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/c85a77bd2bd5309ffde4d3d1aaece73e.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Feature: Custom Domain Support and Cloudflare CDN Integration</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/13/feature-custom-domain-support-and-cloudflare-cdn-integration.html"/>
-    <id>https://curation.cloudburo.net/2015/06/13/feature-custom-domain-support-and-cloudflare-cdn-integration.html</id>
-    <published>2015-06-13T07:56:03Z</published>
-    <updated>2015-10-02T11:41:09+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        As top level domain for our content sites we use the domain „curation.space“&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;Your personal default subdomain: &amp;lt;siteId&amp;gt;.curation.space&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The .space domain name is described as follow by the Website 
-       &lt;a href="http://www.domain.com/domains/tlds/space.bml"&gt;domain.com&lt;/a&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;i&gt;.SPACE is the domain name for passionate and driven individuals who are ready to carve out their place online. .SPACE is a canvas for self-starters to express their creativity and share their talents with the world.&lt;/i&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;i&gt;.SPACE provides a solid anchor for creative minds to explore infinite possibilities and to define their ideas online. It specially caters to freelancers, professionals, and hobbyists who want to showcase their skills and highlight their commitment to their passions.&lt;/i&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        This suits quite well with the goal of the Cloudburo Curation Platform to drive an support passionate and driven indivduals and professionals in building their content space. 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        During the registration process you will choose your &amp;lt;sitedId&amp;gt; (e.g. myblog). The Curation Platform  will create  the subdomain 
-       &lt;i&gt;&lt;b&gt;&amp;lt;sitedId&amp;gt;.curation.space&lt;/b&gt;&lt;/i&gt; (e.g. myblog.curation.space) for you. No other content except the one created by you will be placed there. So choose your name wisely. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;span style="font-size: 18px;"&gt;&lt;b&gt;Use your own domain name&lt;/b&gt;&lt;/span&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        You can use your own domain name instead of the one offered by us. Configure your CNAME in the Curation Platform Admin GUI, e.g. 
-       &lt;i&gt;dognews.mydomain.com&lt;/i&gt; and configure a CNAME entry in your domain name server pointing to 
-       &lt;i&gt;acloudburo.github.io.&lt;/i&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;i&gt;&lt;br&gt;&lt;/i&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/07f093c3ea22f91a94d00b1c601a7a4b.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;curation.space domain is protected and acclerated by Cloudflare CDN&lt;/span&gt;&lt;/b&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        In front of our Content site we have the 
-       &lt;a href="https://www.cloudflare.com/overview"&gt;Cloudflare Content Delivery Network&lt;/a&gt;.  As part of the CloudFlare community, our web traffic is routed through their intelligent global network. Cloudflare automatically optimize the delivery of our web pages so your visitors get the fastest page load times and best performance. They also block threats and limit abusive bots and crawlers from wasting our bandwidth and server resources. The result: CloudFlare-powered websites see a significant improvement in performance and a decrease in spam and other attacks. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        By using Cloudflare we also enabled by default the secure https:// protocol (the new de facto standard for websites). 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/9b7d138fb4c04b9f03ce91c2dbc0fa39.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        We are leveraging for the content site publishing the global Web backbone of github.io (via their gh-pages facility).&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt;
-        This allows us good performance and high availability of the content sites. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/d32c04d93400ef6804281acf90e62330.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt; 
