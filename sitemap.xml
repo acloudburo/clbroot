@@ -92,7 +92,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net//2015/09/09/introduction-to-evernote.html</loc>
-    <lastmod>2015-10-21</lastmod>
+    <lastmod>2015-10-24</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -248,7 +248,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net//2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html</loc>
-    <lastmod>2015-10-23</lastmod>
+    <lastmod>2015-10-24</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -319,6 +319,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//tags/gettingstarted.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//tags/evernote.html</loc>
     <lastmod>2015-10-21</lastmod>
     <priority>0.9</priority>
@@ -326,12 +332,6 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net//tags/feature.html</loc>
-    <lastmod>2015-10-21</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.cloudburo.net//tags/gettingstarted.html</loc>
     <lastmod>2015-10-21</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
