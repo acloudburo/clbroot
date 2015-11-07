@@ -5,10 +5,45 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-10-23T10:12:02Z</updated>
+  <updated>2015-11-07T10:47:46Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>DMARC: How to monitor and secure your email</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/11/07/dmarc-how-to-monitor-and-secure-your-email.html"/>
+    <id>https://curation.cloudburo.net/2015/11/07/dmarc-how-to-monitor-and-secure-your-email.html</id>
+    <published>2015-11-07T10:47:46Z</published>
+    <updated>2015-11-07T23:24:59+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        In my blog article „ 
+       &lt;a href="https://dev.cloudburo.net/2015/04/21/micro-business-quick-tips-1-get-a-bullet-proof-e-mail-setup-spf-dkim-dmarc.html"&gt;Get a bullet proof email set up for spf-dkim-dmarc&lt;/a&gt;&amp;ldquo;, I explained how to setup your email account in order to be protected against spammer. 
+       &lt;span style="color: rgb(0, 0, 0);"&gt;I was following mainly the advices of postmark, which did an excellent job in this area.&lt;/span&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        In the meantime they published an introduction blog to DMARC which explains in all detail, how the mechanism is working. It’s well written and illustrated and you should take the time to read it, to understand the global approach against spammer. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The article can be found 
+       &lt;a href="https://postmarkapp.com/guides/dmarc?utm_medium=email&amp;amp;utm_campaign=DMARC+guide++100+DMARC+compliant+Postmark+customers&amp;amp;utm_content=DMARC+guide++100+DMARC+compliant+Postmark+customers+CID_590f9f6996154b221bfa4ea877e09279&amp;amp;utm_source=campaignmonitor&amp;amp;utm_term=httpspostmarkappcomguidesdmarc"&gt;here&lt;/a&gt;. 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Tutorial: Sign up for an Evernote account within a minute</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html"/>
@@ -565,61 +600,6 @@
       &lt;/div&gt; 
       &lt;div&gt;
         An easy solution in order to establish a presence in the Content Marketing space, affordable and manageable for any kind of companies. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Why Content Curation Matters to Your Business</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/06/13/why-content-curation-matters-to-your-business.html"/>
-    <id>https://curation.cloudburo.net/2015/06/13/why-content-curation-matters-to-your-business.html</id>
-    <published>2015-06-13T11:30:17Z</published>
-    <updated>2015-10-29T21:46:36+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        A very nice 
-       &lt;a href="http://www.bloggersidekick.com/infographic-why-blogging-matters-to-your-business"&gt;infographic by Blogger Sidekic&lt;/a&gt;k, which outlines why blogging (self created content), curation matters for your business.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        It results in the following to-the-point verdict 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;i&gt;&lt;b&gt;&lt;span style="font-size: 24px;"&gt;&amp;ldquo;Blogging creates trust. This trust then become the cornerstone for customer advocacy.&amp;rdquo;&lt;/span&gt;&lt;/b&gt;&lt;/i&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        We at Cloudburo want to help your by easing your workflow to produce the content by removing any kind of administrational distraction. The Cloudburo Curation Platform allows you to concentrate for the relevant task, aka producing fresh and inspiring content. The rest leave to us and head on with your other important work.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/c85a77bd2bd5309ffde4d3d1aaece73e.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 

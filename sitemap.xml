@@ -37,6 +37,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//2015/11/07/dmarc-how-to-monitor-and-secure-your-email.html</loc>
+    <lastmod>2015-11-07</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//2015/06/10/feature-customizable-evernote-publishing-schedule.html</loc>
     <lastmod>2015-10-29</lastmod>
     <priority>0.7</priority>
@@ -376,6 +382,18 @@
     <loc>https://curation.cloudburo.net//2015.html</loc>
     <lastmod>2015-10-29</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//2015/11.html</loc>
+    <lastmod>2015-10-29</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//2015/11/07.html</loc>
+    <lastmod>2015-10-29</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
