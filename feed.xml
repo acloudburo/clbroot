@@ -5,16 +5,81 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2015-11-07T10:47:46Z</updated>
+  <updated>2015-11-18T09:52:18Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Integrate: Mailchimp for Periodic Newsletter Publishing</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html"/>
+    <id>https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html</id>
+    <published>2015-11-18T09:52:18Z</published>
+    <updated>2015-11-18T21:52:18+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Visitors to your website should be able to subscribe to your blog, as it’s a great way to push out information to your customers and potential customers. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Such a Newsletter Subscription Automation can be easily achieved within the Cloudburo Content Curation Platform by integrating the marketing service by Mailchimp (you can use the free account for a start). 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        This is achieved via the RSS Campaign mechanism within Mailchimp. Your content site will offer a 
+       &lt;a href="https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html"&gt;W3C Atom 1.0 valid RSS Feed&lt;/a&gt;, which is used by Mailchimp for its newsletter generation. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        RSS Campaigns use merge tags to pull in RSS (Real Simple Syndication) content from a blog feed. When an RSS feed is updated with a new blog post, MailChimp will pull that content into the campaign and send it to your subscribers on a daily, weekly, or monthly schedule. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        How this one is setup in Mailchimp can be found 
+       &lt;a href="http://kb.mailchimp.com/campaigns/rss-in-campaigns/create-an-rss-campaign"&gt;here&lt;/a&gt;. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Refer to our 
+       &lt;a href="https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html"&gt;dognews showcase&lt;/a&gt; which describes the Newsletter integration in a live Cloudburo Curation Platform site. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>DMARC: How to monitor and secure your email</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2015/11/07/dmarc-how-to-monitor-and-secure-your-email.html"/>
     <id>https://curation.cloudburo.net/2015/11/07/dmarc-how-to-monitor-and-secure-your-email.html</id>
     <published>2015-11-07T10:47:46Z</published>
-    <updated>2015-11-07T23:24:59+00:00</updated>
+    <updated>2015-11-14T10:28:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -49,7 +114,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html"/>
     <id>https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html</id>
     <published>2015-10-23T10:12:02Z</published>
-    <updated>2015-10-29T21:46:36+00:00</updated>
+    <updated>2015-11-14T10:28:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -101,7 +166,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/10/01/basic-concepts-and-features-of-the-cloudburo-curation-platform.html"/>
     <id>https://curation.cloudburo.net/2015/10/01/basic-concepts-and-features-of-the-cloudburo-curation-platform.html</id>
     <published>2015-10-01T09:47:55Z</published>
-    <updated>2015-10-29T21:46:36+00:00</updated>
+    <updated>2015-11-14T10:28:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -371,7 +436,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html"/>
     <id>https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html</id>
     <published>2015-09-09T11:05:06Z</published>
-    <updated>2015-10-29T21:46:36+00:00</updated>
+    <updated>2015-11-14T10:28:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -439,7 +504,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html"/>
     <id>https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html</id>
     <published>2015-08-24T07:34:51Z</published>
-    <updated>2015-10-29T21:46:36+00:00</updated>
+    <updated>2015-11-14T10:28:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -489,120 +554,6 @@
       &lt;/div&gt; 
       &lt;div&gt;
         Serving you with a premium service experience and ensuring highest protection of your sensitive data. 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Showcase: Visitor Tips for Hotel Guest</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html"/>
-    <id>https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html</id>
-    <published>2015-08-15T10:04:20Z</published>
-    <updated>2015-10-29T21:46:36+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The Website 
-       &lt;a href="https://zurich4u.ch"&gt;zurich4u.ch&lt;/a&gt; is used by the owners of a small but fine Swiss boutique and design hotel chain in Zurich/Switzerland ( 
-       &lt;a href="http://townhouse.ch/"&gt;Townhouse&lt;/a&gt;, 
-       &lt;a href="http://plattenhof.ch/"&gt;Plattenhof&lt;/a&gt; ) to offer mobile optimized content around Zurich for their hotel clientele.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/e5c823291a1d82df87a5c3c960e5d8da.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The Website is concentrating around quick tips what to do in Zurich grouped by the categories ‚shopping‘, ‚restaurant‘, ‚leisure‘, ‚coffee&amp;amp;bar‘, as well as ‚art‘. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The owner can produce these personalized recommendation quickly just by using Evernote on any kind of device, whenever there is a free time slot. Be it in the office, at home or visiting one of its hotels or restaurants. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/4846c10d44ec1d6729668f0c36e978a4.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Aiming a hotel guests and tourists strolling through the city, it’s key that the content is mobile site optimized. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/f9719f827879546877594422ab55e858.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Having - beside the official hotel web sites - an additional self curated content site with tips around the travel destination (which gets updated regularly with fresh content), helps in attracting new prospects and clients in the Internet in a indirect way. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        As for example: „Grieder Bar“ is a new and hype place in Zurich which attracts people living or visiting Zurich. The hotel owner of zurich4u was publishing a small article on its Website about this trendy place. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Now checking google search shows that this article is already shown on the first search page! 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/bdc68fde1a551785a9997ecc21eb3855.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        This will lead people first to the content Website and from there potentially to the Hotel Websites, which ultimately may result in new clients and new revenue.&lt;br&gt;
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        An easy solution in order to establish a presence in the Content Marketing space, affordable and manageable for any kind of companies. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
