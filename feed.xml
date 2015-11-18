@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/11/18/the-importance-of-owning-your-blog-best-practices.html"/>
     <id>https://curation.cloudburo.net/2015/11/18/the-importance-of-owning-your-blog-best-practices.html</id>
     <published>2015-11-18T10:27:13Z</published>
-    <updated>2015-11-18T22:45:41+00:00</updated>
+    <updated>2015-11-18T23:03:30+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -24,13 +24,13 @@
     
     &lt;p&gt;&lt;div&gt;
         The article describes the importance of keeping control over your content real estate and how this will be ensured by the 
-       &lt;a href="https://curationplatform.cloudburo.net/"&gt;Cloudburo Curation Platform&lt;/a&gt;. Furthermore you will get some best practices concerning the setup to ensure that the blog will generate website traffic from which your main website can benefit. 
+       &lt;a href="https://curationplatform.cloudburo.net/"&gt;Cloudburo Curation Platform&lt;/a&gt;. Furthermore you will get some best practices to ensure that the blog will generate website traffic from which your main website can benefit. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        Due to the static nature of a normal Website, e.g. in case you are a restaurant or hotel your Webpage will not change after it’s initial setup very often. It may be that there are certain dynamic parts (e.g. a daily menu page) but the overall content will stay the same for a long time. 
+        Due to the static nature of the business content of a normal website, your website will not change after it’s initial setup very often. It may be that there are certain dynamic parts (e.g. a daily menu page on a restaurant website) but the major part of the overall content will stay the same for a long time. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -48,7 +48,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        When creating blog posts you’ll incorporate keyword rich content that your target customers want to find and read. By constantly producing fresh content you will be recognized by search engine and will improve your search ranking. Ultimately you will get found by users which are searching with keywords for your content topic. 
+        When creating blog posts you’ll incorporate keyword rich content that your target customers want to find and read. By constantly producing fresh content you will be recognized by search engine and will improve your search ranking. Ultimately you will get be found by users which are searching with keywords for your content topic. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -133,10 +133,7 @@
        &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        This is a very important point you should consider. A lot of free blogs or hosted content provider will control you content real estate in their dynamic systems. You will manage the content in some blogging application and the content will be dynamically generated to your online community. You may use your own domain as described above, but you don’t have control over your content. 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        For instance they can delete your content any time they want, in the worst case you will use your content. 
+        This is a very important point you should consider. A lot of free blogs or hosted content provider will control you content real estate in their dynamic systems. You will manage the content in some blogging application and the content will be dynamically generated to your online community. You may use your own domain as described above, but you don’t have control over your content. For instance your provider can delete your content any time they want, in the worst case you will loose your content. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -160,13 +157,13 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        Your static website will published in a git version controlled project, which you can access at any time and the full content real estate be downloaded to your local machine (when creating a site the necessary information will be emailed to you) 
+        Your static website will published in a git version controlled project, which you can access at any time and the full content real estate can be downloaded to your local machine (when creating a site the necessary information where you find your version controlled copy, will be emailed to you) 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        So the Content Real Estate is under your control and you could walk away at any time, taking the generated HTML pages with you and simple host it on your own Webserver. As said the site is self contained with no external dependencies, just pure HTML, CSS and Javascript files. 
+        So the Content Real Estate is under your control and you could walk away at any time, taking the generated HTML pages with you and simple host it on your own webserver. As said the site is self contained with no external dependencies, just pure HTML, CSS and Javascript files. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
