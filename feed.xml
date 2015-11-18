@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html"/>
     <id>https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html</id>
     <published>2015-11-18T09:52:18Z</published>
-    <updated>2015-11-18T21:52:18+00:00</updated>
+    <updated>2015-11-18T22:09:52+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -69,41 +69,6 @@
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>DMARC: How to monitor and secure your email</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/11/07/dmarc-how-to-monitor-and-secure-your-email.html"/>
-    <id>https://curation.cloudburo.net/2015/11/07/dmarc-how-to-monitor-and-secure-your-email.html</id>
-    <published>2015-11-07T10:47:46Z</published>
-    <updated>2015-11-14T10:28:47+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        In my blog article „ 
-       &lt;a href="https://dev.cloudburo.net/2015/04/21/micro-business-quick-tips-1-get-a-bullet-proof-e-mail-setup-spf-dkim-dmarc.html"&gt;Get a bullet proof email set up for spf-dkim-dmarc&lt;/a&gt;&amp;ldquo;, I explained how to setup your email account in order to be protected against spammer. 
-       &lt;span style="color: rgb(0, 0, 0);"&gt;I was following mainly the advices of postmark, which did an excellent job in this area.&lt;/span&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        In the meantime they published an introduction blog to DMARC which explains in all detail, how the mechanism is working. It’s well written and illustrated and you should take the time to read it, to understand the global approach against spammer. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        The article can be found 
-       &lt;a href="https://postmarkapp.com/guides/dmarc?utm_medium=email&amp;amp;utm_campaign=DMARC+guide++100+DMARC+compliant+Postmark+customers&amp;amp;utm_content=DMARC+guide++100+DMARC+compliant+Postmark+customers+CID_590f9f6996154b221bfa4ea877e09279&amp;amp;utm_source=campaignmonitor&amp;amp;utm_term=httpspostmarkappcomguidesdmarc"&gt;here&lt;/a&gt;. 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
@@ -554,6 +519,120 @@
       &lt;/div&gt; 
       &lt;div&gt;
         Serving you with a premium service experience and ensuring highest protection of your sensitive data. 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Showcase: Visitor Tips for Hotel Guest</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html"/>
+    <id>https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html</id>
+    <published>2015-08-15T10:04:20Z</published>
+    <updated>2015-11-14T10:28:47+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Website 
+       &lt;a href="https://zurich4u.ch"&gt;zurich4u.ch&lt;/a&gt; is used by the owners of a small but fine Swiss boutique and design hotel chain in Zurich/Switzerland ( 
+       &lt;a href="http://townhouse.ch/"&gt;Townhouse&lt;/a&gt;, 
+       &lt;a href="http://plattenhof.ch/"&gt;Plattenhof&lt;/a&gt; ) to offer mobile optimized content around Zurich for their hotel clientele.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e5c823291a1d82df87a5c3c960e5d8da.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The Website is concentrating around quick tips what to do in Zurich grouped by the categories ‚shopping‘, ‚restaurant‘, ‚leisure‘, ‚coffee&amp;amp;bar‘, as well as ‚art‘. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The owner can produce these personalized recommendation quickly just by using Evernote on any kind of device, whenever there is a free time slot. Be it in the office, at home or visiting one of its hotels or restaurants. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/4846c10d44ec1d6729668f0c36e978a4.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Aiming a hotel guests and tourists strolling through the city, it’s key that the content is mobile site optimized. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/f9719f827879546877594422ab55e858.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Having - beside the official hotel web sites - an additional self curated content site with tips around the travel destination (which gets updated regularly with fresh content), helps in attracting new prospects and clients in the Internet in a indirect way. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As for example: „Grieder Bar“ is a new and hype place in Zurich which attracts people living or visiting Zurich. The hotel owner of zurich4u was publishing a small article on its Website about this trendy place. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Now checking google search shows that this article is already shown on the first search page! 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/bdc68fde1a551785a9997ecc21eb3855.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        This will lead people first to the content Website and from there potentially to the Hotel Websites, which ultimately may result in new clients and new revenue.&lt;br&gt;
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        An easy solution in order to establish a presence in the Content Marketing space, affordable and manageable for any kind of companies. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
