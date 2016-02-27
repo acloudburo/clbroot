@@ -187,6 +187,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//2016/02/27/how-to-buy-or-test-a-product.html</loc>
+    <lastmod>2016-02-27</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//2015/06/10/feature-customizable-evernote-publishing-schedule.html</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.7</priority>
@@ -602,6 +608,12 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net//blog/page/4.html</loc>
+    <lastmod>2016-01-08</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//blog/page/5.html</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
