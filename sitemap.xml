@@ -301,6 +301,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//2016/02/27/error-you-didnt-link-your-evernote-account-yet.html</loc>
+    <lastmod>2016-02-27</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.7</priority>

@@ -5,10 +5,131 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-02-27T12:16:20Z</updated>
+  <updated>2016-02-27T23:04:49Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Error: You didn’t link your Evernote Account yet</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html"/>
+    <id>https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html</id>
+    <published>2016-02-27T23:04:49Z</published>
+    <updated>2016-02-27T23:04:52+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;This Error message may be shown, when you hover or click on the cloud icon, which doesn’t have the colour green.&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/815521ccb4f7711f48fb8f337be1f81a.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;It means, that there is a missing link to an Evernote account, where you are writing and mastering your articles&lt;/li&gt; 
+       &lt;li&gt;Head over to the “General Account Settings” (Top right Menu)&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/48a250e6ee614ab2e27e61216dbadd60.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;You will find there the entry “Link Evernote Account&amp;quot;&lt;/li&gt; 
+       &lt;li&gt;Click on the “LINK” button which will initiate the Evernote Account Linking&lt;/li&gt; 
+       &lt;li&gt;A popup of Evernote will be opened, asking you to login to Evernote&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d75b4737e0580c327955815167febd4c.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;Having logged in, Evernote will ask you for permission that the Cloudburo Curation Platform may communicate with your notebooks&lt;/li&gt; 
+       &lt;li&gt;The Account Access will be granted for one year, but may be canceled by your side anytime&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d3aec4fcef475e0052926e400595cb90.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;Click the “Authorize” button to grant access to your Evernote account&lt;/li&gt; 
+       &lt;li&gt;After having granted access, the “Link Evernote Account” will show the actual link status, together with its expiry date &lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d7c06a11e10ae82ac974937f10f24570.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;You are done and have now successfully connected your Evernote Account with the Cloudburo Curation Platform&lt;/li&gt; 
+       &lt;li&gt;Ready to set it up for site publishing&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How to buy or test a product</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html"/>
@@ -607,58 +728,6 @@
       &lt;div&gt;
         Refer to our 
        &lt;a href="https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html"&gt;dognews showcase&lt;/a&gt; which describes the Newsletter integration in a live Cloudburo Curation Platform site. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Tutorial: Sign up for an Evernote account within a minute</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html"/>
-    <id>https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html</id>
-    <published>2015-10-23T10:12:02Z</published>
-    <updated>2016-01-08T22:30:59+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        For using the Cloudburo Curation Platform you require an Evernote account, which can be easily opened within a minute. The basic offering is free and allows you easily to test out the Cloudburo Curation Platform. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Look to the following video and head over then to 
-       &lt;a href="https://evernote.com"&gt;&lt;a href="https://evernote.com"&gt;https://evernote.com&lt;/a&gt;&lt;/a&gt; or the 
-       &lt;a href="https://help.evernote.com/hc/en-us/articles/208314458-Quick-start"&gt;Quick Start Guide&lt;/a&gt;. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/DxBiyBVh59E?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
