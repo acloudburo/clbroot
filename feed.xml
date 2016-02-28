@@ -5,16 +5,157 @@
   <id>https://curation.cloudburo.net/</id>
   <link href="https://curation.cloudburo.net/"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-02-27T23:04:49Z</updated>
+  <updated>2016-02-28T00:10:09Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>How to link your Evernote Account</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"/>
+    <id>https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html</id>
+    <published>2016-02-28T00:10:09Z</published>
+    <updated>2016-02-28T00:10:14+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Curation Platform requires a linkage with your Evernote Account, where you write and curate your stories. The following steps are necessary to connect your Evernote Account with the Cloudburo Curation Platform. It will register the Cloudburo Curation Platform with your Evernote account in order to create, write and move articles. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        It is important to note a Third Party Application (= Cloudburo Curation Platform) needs your express permission in order to access your Evernote account. Evernote will not transfer your email address to a Third Party Application without your permission, and will 
+       &lt;u&gt;never&lt;/u&gt; transfer your password to any Third Party Application (as for example us). 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;Login to the Cloudburo Curation Platform member zone&lt;/li&gt; 
+       &lt;li&gt;Head over to the “General Account Settings” (Top right Menu - User Profile)&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/48a250e6ee614ab2e27e61216dbadd60.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;ul&gt; 
+        &lt;li&gt;You will find there the entry “Link Evernote Account&amp;quot;&lt;/li&gt; 
+        &lt;li&gt;Click on the “LINK” button which will initiate the Evernote Account Linking&lt;/li&gt; 
+        &lt;li&gt;A popup of Evernote will be opened, asking you to login to Evernote&lt;/li&gt; 
+       &lt;/ul&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d75b4737e0580c327955815167febd4c.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;ul&gt; 
+        &lt;li&gt;Having logged in, Evernote will ask you for permission that the Cloudburo Curation Platform may communicate with your notebooks&lt;/li&gt; 
+        &lt;li&gt;The Account Access will be granted for one year, but may be canceled by your side anytime&lt;/li&gt; 
+       &lt;/ul&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d3aec4fcef475e0052926e400595cb90.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;ul&gt; 
+        &lt;li&gt;Click the “Authorize” button to grant access to your Evernote account&lt;/li&gt; 
+        &lt;li&gt;After having granted access, the “Link Evernote Account” will show the actual link status, together with its expiry date &lt;/li&gt; 
+       &lt;/ul&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d7c06a11e10ae82ac974937f10f24570.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;ul&gt; 
+        &lt;li&gt;You are done and have successfully connected your Evernote Account with the Cloudburo Curation Platform&lt;/li&gt; 
+        &lt;li&gt;The cloud icon changed to colour “Green&amp;quot;&lt;/li&gt; 
+        &lt;li&gt;Ready to set it up for site publishing&lt;/li&gt; 
+       &lt;/ul&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e008c886b9adfe5428d18639b594cdb2.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;ul&gt; 
+        &lt;li&gt;Finally you will get an Email from Evernote which will confirm the linkage&lt;/li&gt; 
+       &lt;/ul&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/959dabbd79458802e4ace8537cfa3078.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Error: You didn’t link your Evernote Account yet</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html"/>
     <id>https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html</id>
     <published>2016-02-27T23:04:49Z</published>
-    <updated>2016-02-27T23:56:59+00:00</updated>
+    <updated>2016-02-28T00:10:08+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -31,9 +172,6 @@
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
@@ -46,97 +184,8 @@
       &lt;/div&gt; 
       &lt;ul&gt; 
        &lt;li&gt;It means, that there is a missing link to an Evernote account, where you are writing and mastering your articles&lt;/li&gt; 
-       &lt;li&gt;Head over to the “General Account Settings” (Top right Menu)&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/48a250e6ee614ab2e27e61216dbadd60.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;You will find there the entry “Link Evernote Account&amp;quot;&lt;/li&gt; 
-       &lt;li&gt;Click on the “LINK” button which will initiate the Evernote Account Linking&lt;/li&gt; 
-       &lt;li&gt;A popup of Evernote will be opened, asking you to login to Evernote&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/d75b4737e0580c327955815167febd4c.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;Having logged in, Evernote will ask you for permission that the Cloudburo Curation Platform may communicate with your notebooks&lt;/li&gt; 
-       &lt;li&gt;The Account Access will be granted for one year, but may be canceled by your side anytime&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/d3aec4fcef475e0052926e400595cb90.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;Click the “Authorize” button to grant access to your Evernote account&lt;/li&gt; 
-       &lt;li&gt;After having granted access, the “Link Evernote Account” will show the actual link status, together with its expiry date &lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/d7c06a11e10ae82ac974937f10f24570.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;You are done and have successfully connected your Evernote Account with the Cloudburo Curation Platform&lt;/li&gt; 
-       &lt;li&gt;The cloud icon changed to colour “Green&amp;quot;&lt;/li&gt; 
-       &lt;li&gt;Ready to set it up for site publishing&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/e008c886b9adfe5428d18639b594cdb2.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
+       &lt;li&gt;Refer to the following HowTo for the necessary steps to connect your Evernote account.&lt;/li&gt; 
+      &lt;/ul&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
@@ -686,71 +735,6 @@
         &lt;br&gt; 
        &lt;/div&gt;So head off and start creating and curating your content in Evernote and publish it with the 
        &lt;a href="https://curationplatform.cloudburo.net/"&gt;Cloudburo Curation Platform&lt;/a&gt; to your online community in a hassle free manner. 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Integrate: Mailchimp for Periodic Newsletter Publishing</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html"/>
-    <id>https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html</id>
-    <published>2015-11-18T09:52:18Z</published>
-    <updated>2016-01-08T22:30:59+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Visitors to your website should be able to subscribe to your blog, as it’s a great way to push out information to your customers and potential customers. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Such a Newsletter Subscription Automation can be easily achieved within the Cloudburo Content Curation Platform by integrating the marketing service by Mailchimp (you can use the free account for a start). 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        This is achieved via the RSS Campaign mechanism within Mailchimp. Your content site will offer a 
-       &lt;a href="https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html"&gt;W3C Atom 1.0 valid RSS Feed&lt;/a&gt;, which is used by Mailchimp for its newsletter generation. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        RSS Campaigns use merge tags to pull in RSS (Real Simple Syndication) content from a blog feed. When an RSS feed is updated with a new blog post, MailChimp will pull that content into the campaign and send it to your subscribers on a daily, weekly, or monthly schedule. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        How this one is setup in Mailchimp can be found 
-       &lt;a href="http://kb.mailchimp.com/campaigns/rss-in-campaigns/create-an-rss-campaign"&gt;here&lt;/a&gt;. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        Refer to our 
-       &lt;a href="https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html"&gt;dognews showcase&lt;/a&gt; which describes the Newsletter integration in a live Cloudburo Curation Platform site. 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;

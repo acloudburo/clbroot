@@ -163,6 +163,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net//2016/02/28/how-to-link-your-evernote-account.html</loc>
+    <lastmod>2016-02-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net//2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.7</priority>
@@ -302,7 +308,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net//2016/02/27/error-you-didnt-link-your-evernote-account-yet.html</loc>
-    <lastmod>2016-02-27</lastmod>
+    <lastmod>2016-02-28</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -430,6 +436,12 @@
     <loc>https://curation.cloudburo.net//2016/02.html</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net//2016/02/28.html</loc>
+    <lastmod>2016-01-08</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
