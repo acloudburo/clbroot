@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"/>
     <id>https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html</id>
     <published>2016-02-28T00:10:09Z</published>
-    <updated>2016-02-28T00:10:14+00:00</updated>
+    <updated>2016-02-28T00:23:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -31,6 +31,18 @@
       &lt;div&gt;
         It is important to note a Third Party Application (= Cloudburo Curation Platform) needs your express permission in order to access your Evernote account. Evernote will not transfer your email address to a Third Party Application without your permission, and will 
        &lt;u&gt;never&lt;/u&gt; transfer your password to any Third Party Application (as for example us). 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The Cloudburo Curation Platform use the standard Evernote process called “OAuth” to obtain permission to access your Evernote account. The OAuth process allows you to authorize Evernote to give a specified Third Party Application (= Cloudburo Curation Platform) a token which in turn allows the Third Party Application to access your account without needing your Evernote username and password. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        Follow these steps to grant access: 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -53,11 +65,13 @@
        &lt;div&gt; 
         &lt;br&gt; 
        &lt;/div&gt; 
-       &lt;ul&gt; 
-        &lt;li&gt;You will find there the entry “Link Evernote Account&amp;quot;&lt;/li&gt; 
-        &lt;li&gt;Click on the “LINK” button which will initiate the Evernote Account Linking&lt;/li&gt; 
-        &lt;li&gt;A popup of Evernote will be opened, asking you to login to Evernote&lt;/li&gt; 
-       &lt;/ul&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;You will find there the entry “Link Evernote Account&amp;quot;&lt;/li&gt; 
+       &lt;li&gt;Click on the “LINK” button which will initiate the Evernote Account Linking&lt;/li&gt; 
+       &lt;li&gt;A popup of Evernote will be opened, asking you to login to Evernote (as you can see in the pop up, the URL is a “www.evernote.com” one, which ensures that you are logging to Evernote.&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
        &lt;div&gt; 
         &lt;br&gt; 
        &lt;/div&gt; 
@@ -88,13 +102,15 @@
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
        &lt;/div&gt; 
-       &lt;div&gt; 
-        &lt;br&gt; 
-       &lt;/div&gt; 
-       &lt;ul&gt; 
-        &lt;li&gt;Click the “Authorize” button to grant access to your Evernote account&lt;/li&gt; 
-        &lt;li&gt;After having granted access, the “Link Evernote Account” will show the actual link status, together with its expiry date &lt;/li&gt; 
-       &lt;/ul&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;Click the “Authorize” button to grant access to your Evernote account (in the example the button is called “Re-authorize”, but the normal case is an initial “Authorize&amp;quot;&lt;/li&gt; 
+       &lt;li&gt;After having granted access, the “Link Evernote Account” will show the actual link status, together with its expiry date &lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
        &lt;div&gt; 
         &lt;br&gt; 
        &lt;/div&gt; 
@@ -155,7 +171,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html"/>
     <id>https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html</id>
     <published>2016-02-27T23:04:49Z</published>
-    <updated>2016-02-28T00:10:08+00:00</updated>
+    <updated>2016-02-28T00:23:31+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -184,7 +200,7 @@
       &lt;/div&gt; 
       &lt;ul&gt; 
        &lt;li&gt;It means, that there is a missing link to an Evernote account, where you are writing and mastering your articles&lt;/li&gt; 
-       &lt;li&gt;Refer to the following HowTo for the necessary steps to connect your Evernote account.&lt;/li&gt; 
+       &lt;li&gt;Refer to the following &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"&gt;HowTo&lt;/a&gt;&lt;/b&gt; for the necessary steps to connect your Evernote account.&lt;/li&gt; 
       &lt;/ul&gt;&lt;/p&gt;
     
   &lt;/div&gt;
