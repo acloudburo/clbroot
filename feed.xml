@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://clbroot.curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"/>
     <id>https://clbroot.curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html</id>
     <published>2016-02-28T00:10:09Z</published>
-    <updated>2016-04-22T12:55:38+00:00</updated>
+    <updated>2016-05-09T22:09:03+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,20 +23,20 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt;
-        The Cloudburo Curation Platform requires a linkage with your Evernote Account, where you write and curate your stories. The following steps are necessary to connect your Evernote Account with the Cloudburo Curation Platform. It will register the Cloudburo Curation Platform with your Evernote account in order to create, write and move articles. 
+        The Cloudburo Bots Platform requires a linkage with your Evernote Account, where you write and curate your stories. The following steps are necessary to connect your Evernote Account with the Cloudburo Bots Platform. It will register the Cloudburo Bots Platform with your Evernote account in order to create, write and move articles. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        It is important to note a Third Party Application (= Cloudburo Curation Platform) needs your express permission in order to access your Evernote account. Evernote will not transfer your email address to a Third Party Application without your permission, and will 
+        It is important to note a Third Party Application (= Cloudburo Bots Platform) needs your expressed permission in order to access your Evernote account. Evernote will not transfer your email address to a Third Party Application without your permission, and will&lt;br&gt;
        &lt;u&gt;never&lt;/u&gt; transfer your password to any Third Party Application (as for example us). 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The Cloudburo Curation Platform use the standard Evernote process called “OAuth” to obtain permission to access your Evernote account. The OAuth process allows you to authorize Evernote to give a specified Third Party Application (= Cloudburo Curation Platform) a token which in turn allows the Third Party Application to access your account without needing your Evernote username and password. 
+        The Cloudburo Bots Platform use the standard Evernote process called “OAuth” to obtain permission to access your Evernote account. The OAuth process allows you to authorize Evernote to give a specified Third Party Application (= Cloudburo Curation Platform) a token which in turn allows the Third Party Application to access your account without needing your Evernote username and password. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -48,8 +48,8 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;ul&gt; 
-       &lt;li&gt;Login to the Cloudburo Curation Platform member zone&lt;/li&gt; 
-       &lt;li&gt;Head over to the “General Account Settings” (Top right Menu - User Profile)&lt;/li&gt; 
+       &lt;li&gt;Login to the Cloudburo Bots Platform member zone&lt;/li&gt; 
+       &lt;li&gt;Head over to the “General Account Settings”  (Top right Menu - User Profile)&lt;/li&gt; 
       &lt;/ul&gt; 
       &lt;div&gt; 
        &lt;div&gt; 
@@ -86,7 +86,7 @@
         &lt;br&gt; 
        &lt;/div&gt; 
        &lt;ul&gt; 
-        &lt;li&gt;Having logged in, Evernote will ask you for permission that the Cloudburo Curation Platform may communicate with your notebooks&lt;/li&gt; 
+        &lt;li&gt;Having logged in, Evernote will ask you for permission that the Cloudburo Curation Platform (i.e. our Publishing Bot) may communicate with your notebooks&lt;/li&gt; 
         &lt;li&gt;The Account Access will be granted for one year, but may be canceled by your side anytime&lt;/li&gt; 
        &lt;/ul&gt; 
        &lt;div&gt; 
@@ -124,11 +124,13 @@
        &lt;div&gt; 
         &lt;br&gt; 
        &lt;/div&gt; 
-       &lt;ul&gt; 
-        &lt;li&gt;You are done and have successfully connected your Evernote Account with the Cloudburo Curation Platform&lt;/li&gt; 
-        &lt;li&gt;The cloud icon changed to colour “Green&amp;quot;&lt;/li&gt; 
-        &lt;li&gt;Ready to set it up for site publishing&lt;/li&gt; 
-       &lt;/ul&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;You are done and have  successfully connected your Evernote Account with the Cloudburo Bots Platform&lt;/li&gt; 
+       &lt;li&gt;The cloud icon changed to colour “Green&amp;quot;&lt;/li&gt; 
+       &lt;li&gt;Ready to set it up for site publishing&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
        &lt;div&gt; 
         &lt;br&gt; 
        &lt;/div&gt; 
@@ -211,7 +213,7 @@
     <link rel="alternate" href="https://clbroot.curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html"/>
     <id>https://clbroot.curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html</id>
     <published>2016-02-27T12:16:20Z</published>
-    <updated>2016-04-22T12:55:38+00:00</updated>
+    <updated>2016-05-09T22:08:57+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -221,7 +223,7 @@
     
     &lt;p&gt;&lt;div&gt;
         In this “ 
-       &lt;b&gt;HowTo&lt;/b&gt;&amp;ldquo; we will show the steps in order to test or purchase a product. Be aware that the listed products could look differently in your member zone. We will show the steps which were necessary 
+       &lt;b&gt;HowTo&lt;/b&gt;&amp;ldquo; we will show the steps in order to test or purchase a product. Be aware that the listed products could look differently in your member zone. We will show the steps which were necessary&lt;br&gt;
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -246,7 +248,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;ul&gt; 
-       &lt;li&gt;Login to the Cloudburo Curation Platform Memberzone and switch to the Products Page (top menu right)&lt;/li&gt; 
+       &lt;li&gt;Login to the Cloudburo Bots Platform Memberzone and switch to the Products Page (top menu right)&lt;/li&gt; 
        &lt;li&gt;The Tab ‘Our Offerings’ will show all ‘Available Products&amp;#39; &lt;/li&gt; 
       &lt;/ul&gt; 
       &lt;div&gt; 
@@ -494,7 +496,7 @@
     <link rel="alternate" href="https://clbroot.curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"/>
     <id>https://clbroot.curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html</id>
     <published>2016-02-27T09:00:37Z</published>
-    <updated>2016-04-22T12:55:38+00:00</updated>
+    <updated>2016-05-09T22:08:49+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -509,7 +511,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        When you create a new account the Cloudburo Curation Platform sends you an Email with the request to verify your Email. In case you missed it or didn&amp;rsquo;t click the verify link, you have to repeat the following steps 
+        When you create a new account the Cloudburo Bots Platform sends you an Email with the request to verify your Email. In case you missed it or didn&amp;rsquo;t click the verify link, you have to repeat the following steps 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -596,7 +598,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;ul&gt; 
-       &lt;li&gt;You will be redirected to Cloudburo Curation Platform Memberzone and a short message will be shown that the Email got verified.&lt;/li&gt; 
+       &lt;li&gt;You will be redirected to Cloudburo Bots Platform Memberzone and a short message will be shown that the Email got verified.&lt;/li&gt; 
        &lt;li&gt;Open once again the ‘General Account Settings’ which now shows, that the Email got verified.&lt;/li&gt; 
       &lt;/ul&gt; 
       &lt;div&gt; 
