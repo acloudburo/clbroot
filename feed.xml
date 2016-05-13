@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>doc@curation</title>
   <subtitle></subtitle>
-  <id>https://clbroot.curation.cloudburo.net</id>
-  <link href="https://clbroot.curation.cloudburo.net"/>
-  <link href="https://clbroot.curation.cloudburo.net/feed.xml" rel="self"/>
+  <id>https://curation.cloudburo.net</id>
+  <link href="https://curation.cloudburo.net"/>
+  <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
   <updated>2016-05-11T22:14:38Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
   <entry>
     <title>Showcase: With the Evernote Publishing Bot in 115 days around the world</title>
-    <link rel="alternate" href="https://clbroot.curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html"/>
-    <id>https://clbroot.curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html"/>
+    <id>https://curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html</id>
     <published>2016-05-11T22:14:38Z</published>
-    <updated>2016-05-13T08:31:59+00:00</updated>
+    <updated>2016-05-13T12:30:59+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -83,10 +83,10 @@
   </entry>
   <entry>
     <title>How to link your Evernote Account</title>
-    <link rel="alternate" href="https://clbroot.curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"/>
-    <id>https://clbroot.curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"/>
+    <id>https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html</id>
     <published>2016-02-28T00:10:09Z</published>
-    <updated>2016-05-12T22:59:18+00:00</updated>
+    <updated>2016-05-13T12:30:59+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -241,10 +241,10 @@
   </entry>
   <entry>
     <title>Error: You didn’t link your Evernote Account yet</title>
-    <link rel="alternate" href="https://clbroot.curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html"/>
-    <id>https://clbroot.curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html"/>
+    <id>https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html</id>
     <published>2016-02-27T23:04:49Z</published>
-    <updated>2016-05-12T22:59:18+00:00</updated>
+    <updated>2016-05-13T12:30:59+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -281,10 +281,10 @@
   </entry>
   <entry>
     <title>How to buy or test a product</title>
-    <link rel="alternate" href="https://clbroot.curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html"/>
-    <id>https://clbroot.curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html"/>
+    <id>https://curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html</id>
     <published>2016-02-27T12:16:20Z</published>
-    <updated>2016-05-12T22:59:18+00:00</updated>
+    <updated>2016-05-13T12:30:59+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -533,10 +533,10 @@
   </entry>
   <entry>
     <title>Error: Your Email isn’t verified</title>
-    <link rel="alternate" href="https://clbroot.curation.cloudburo.net/2016/02/27/error-your-email-isnt-verified.html"/>
-    <id>https://clbroot.curation.cloudburo.net/2016/02/27/error-your-email-isnt-verified.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/error-your-email-isnt-verified.html"/>
+    <id>https://curation.cloudburo.net/2016/02/27/error-your-email-isnt-verified.html</id>
     <published>2016-02-27T09:13:53Z</published>
-    <updated>2016-05-12T22:59:18+00:00</updated>
+    <updated>2016-05-13T12:30:59+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -575,10 +575,10 @@
   </entry>
   <entry>
     <title>How to verify your Email Address</title>
-    <link rel="alternate" href="https://clbroot.curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"/>
-    <id>https://clbroot.curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html</id>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"/>
+    <id>https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html</id>
     <published>2016-02-27T09:00:37Z</published>
-    <updated>2016-05-12T22:59:18+00:00</updated>
+    <updated>2016-05-13T12:30:59+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
