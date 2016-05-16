@@ -5,10 +5,48 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-05-16T01:02:15Z</updated>
+  <updated>2016-05-16T11:28:38Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>How to delete a published article</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html"/>
+    <id>https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html</id>
+    <published>2016-05-16T11:28:38Z</published>
+    <updated>2016-05-16T11:28:39+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Deleting an already published article can be done via a control function in the Clouburo Bots Member Zone. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Login to the memberzone and follow the steps shown in the video tutorial.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/4kdPLODDNgc?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Cloudburo Bots Memberzone Overview</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html"/>
@@ -539,236 +577,6 @@
        &lt;li&gt;It means, that there is a missing link to an Evernote account, where you are writing and mastering your articles&lt;/li&gt; 
        &lt;li&gt;Refer to the following &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"&gt;HowTo&lt;/a&gt;&lt;/b&gt; for the necessary steps to connect your Evernote account.&lt;/li&gt; 
       &lt;/ul&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How to buy or test a product</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html"/>
-    <id>https://curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html</id>
-    <published>2016-02-27T12:16:20Z</published>
-    <updated>2016-05-15T22:25:52+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        In this “
-       &lt;b&gt;HowTo&lt;/b&gt;&amp;ldquo; we will show the steps in order to test or purchase a product. Be aware that the listed products could look differently in your member zone. We will show the steps which were necessary 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;first to test the product&lt;/li&gt;
-       &lt;li&gt;second to purchase the product&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You could bypass the testing step and purchase a product immediately.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="color: rgb(255, 38, 0);"&gt;&lt;i&gt;Click on the picture to get a bigger image.&lt;/i&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;Login to the Cloudburo Bots Platform Memberzone and switch to the Products Page (top menu right)&lt;/li&gt;
-       &lt;li&gt;The Tab ‘Our Offerings’ will show all ‘Available Products&amp;#39; &lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;i&gt;&lt;br&gt;&lt;/i&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/a00110cf404c1984c6ff6fb3f3508cdc.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-a00110cf404c1984c6ff6fb3f3508cdc.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;Products with a ‘Cloud’ Icon are subscription products which will be charged weekly, monthly or yearly&lt;/li&gt;
-       &lt;li&gt;Products with a ‘Box’ Icon are one-off products which will be charged once&lt;/li&gt;
-       &lt;li&gt;Pressing the ‘MORE’ button will provide you a description about the product.&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/30d461fc103a1ad69f925de3db3fe26e.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-30d461fc103a1ad69f925de3db3fe26e.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;Certain Products only have a ‘MORE’ button and no ‘TEST IT’ and ‘BUY IT’ one. In this case the products only get purchasable in case another product was purchase beforehand. I.e. in the example above ‘Curation Platform Basic Subscription’ must be purchased before any additional subscription prodcut is available.&lt;/li&gt;
-       &lt;li&gt;By clicking the ‘TEST IT’ button, the product will be added to the ‘My Products’ Tab&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/55814e2f6552fa8e79cfef0a08c4c7f5.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-55814e2f6552fa8e79cfef0a08c4c7f5.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;Switch over to the ‘My Products’ tab, which list all your Products.&lt;/li&gt;
-       &lt;li&gt;In our sample you have one Trial Subscriptions.&lt;/li&gt;
-       &lt;li&gt;The Expiry Date is listed as well.&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/40933553b5c5a92f4320523fbc79760e.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-40933553b5c5a92f4320523fbc79760e.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;The cloud icon shows it’s current status. I.e. in case the cloud color isn’t green, there are some outstanding configuration/setup steps necessary in order to get it fully functional.&lt;/li&gt;
-       &lt;li&gt;Hover over the cloud icon, to get a description what is missing (we will not cover the setup step here).&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/815521ccb4f7711f48fb8f337be1f81a.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-815521ccb4f7711f48fb8f337be1f81a.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;The ‘SETUP’ step will be described in an own article, which can be found here &amp;lt;TODO&amp;gt;&lt;/li&gt;
-       &lt;li&gt;The ‘MORE’ button will display details about your purchase&lt;/li&gt;
-       &lt;li&gt;Now we go on and buy the Product by pressing the ‘BUY IT’ button, which will open the Purchase screen.&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/2ed8b85fc881297e1c80eab322d70377.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-2ed8b85fc881297e1c80eab322d70377.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;Provide your Credit Card Payment Details.&lt;/li&gt;
-       &lt;li&gt;The form will check your entries and inform in case of any wrong input&lt;/li&gt;
-       &lt;li&gt;We are using Stripe as our Payment Provider for handling any kind of credit card transaction.&lt;/li&gt;
-       &lt;li&gt;Stripe is a leading and trusted payment processor in the internet space.&lt;/li&gt;
-       &lt;li&gt;We will not store any sensitive credit card information on our server. &lt;/li&gt;
-       &lt;li&gt;You can read the details about the security mechanism in this &lt;a href="https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html"&gt;article&lt;/a&gt;.&lt;/li&gt;
-       &lt;li&gt;After pressing ‘PAY NOW’ the purchase process will be executed and if everything works out, the Success Screen will be shown&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/4db5bcd481d3dbddc1a15a1ff384914b.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-4db5bcd481d3dbddc1a15a1ff384914b.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;Switch over to the Products Screen and select the ‘My Products’ tab&lt;/li&gt;
-       &lt;li&gt;You can see now the product in the ‘Subsriptions Section&amp;#39;&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/528dfac7f1f5e0e39ec6ad73734afcfa.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-528dfac7f1f5e0e39ec6ad73734afcfa.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;Pressing the ‘MORE’ button will display the details, as well as the possibility to stop your subscription&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/b2e28b076a4acfc049c2e2efca4eeeed.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-b2e28b076a4acfc049c2e2efca4eeeed.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;You will also get an Email, which confirms your purchase and provides the details of the transaction.&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/905d7973adb806f91932293ecbfa623a.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-905d7973adb806f91932293ecbfa623a.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;It will show you the purchase details and provides a link to our Terms of Services.&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/af73d5ab28eaba81190d24f624e1087e.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-af73d5ab28eaba81190d24f624e1087e.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
