@@ -367,6 +367,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html</loc>
+    <lastmod>2016-05-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net/tags/feature.html</loc>
     <lastmod>2016-05-13</lastmod>
     <priority>0.9</priority>
@@ -452,6 +458,12 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/tags/errors.html</loc>
+    <lastmod>2016-05-13</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/tags/video.html</loc>
     <lastmod>2016-05-13</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -694,6 +706,12 @@
     <loc>https://curation.cloudburo.net/tags/feature/page/2.html</loc>
     <lastmod>2016-05-13</lastmod>
     <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/page/2.html</loc>
+    <lastmod>2016-05-13</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
