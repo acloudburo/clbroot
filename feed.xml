@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html</id>
     <published>2016-05-16T21:16:51Z</published>
-    <updated>2016-05-16T21:16:52+00:00</updated>
+    <updated>2016-05-16T21:28:05+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -37,7 +37,7 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/(G-_iNBo5DA?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/8G-_iNBo5DA?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
@@ -151,7 +151,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html</id>
     <published>2016-05-16T01:02:15Z</published>
-    <updated>2016-05-16T12:11:22+00:00</updated>
+    <updated>2016-05-16T21:28:04+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -211,7 +211,14 @@
       &lt;/div&gt;
       &lt;div&gt;
         The first tab of the Product Dashboard shows the
-       &lt;b&gt;available product offerings&lt;/b&gt;.
+       &lt;b&gt;available product offerings&lt;/b&gt;. You can purchase or test a product from here. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        For the details about the trial or purchase process go
+       &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html"&gt;here&lt;/a&gt;.&lt;/b&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -219,7 +226,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/93a0488ab1a24d98c3a8cc3ac1121161.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/0a430e78c517ab829bc261eb403f0458.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
@@ -228,7 +235,8 @@
       &lt;div&gt;
         The second tab shows 
        &lt;b&gt;your&lt;/b&gt; 
-       &lt;b&gt;purchased/trialled  products&lt;/b&gt;
+       &lt;b&gt;purchased/trialled  products.&lt;/b&gt; In case of a trial subscription you can trigger the
+       &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"&gt;buy process&lt;/a&gt;.&lt;/b&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;b&gt;&lt;br&gt;&lt;/b&gt;
@@ -244,7 +252,8 @@
       &lt;/div&gt;
       &lt;div&gt;
         The third tab is the entry point to
-       &lt;b&gt;setup products or bots&lt;/b&gt;, which are configurable
+       &lt;b&gt;setup products or bots&lt;/b&gt;, which are configurable, find details
+       &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;here&lt;/a&gt;&lt;/b&gt;.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -260,7 +269,8 @@
       &lt;/div&gt;
       &lt;div&gt;
         The fourth tab is the entry point to
-       &lt;b&gt;control commands,&lt;/b&gt; for products or bots which offer this feature.
+       &lt;b&gt;control commands,&lt;/b&gt; for products or bots which offer this feature. You can find a sample
+       &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html"&gt;here&lt;/a&gt;&lt;/b&gt;.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
