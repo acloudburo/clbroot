@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/</loc>
-    <lastmod>2016-05-15</lastmod>
+    <lastmod>2016-05-16</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/05/19/how-to-change-the-evernote-title-of-an-already-processed-note.html</loc>
-    <lastmod>2016-05-13</lastmod>
+    <lastmod>2016-05-16</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -356,6 +356,12 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html</loc>
+    <lastmod>2016-05-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html</loc>
     <lastmod>2016-05-16</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>

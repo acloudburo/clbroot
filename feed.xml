@@ -5,16 +5,54 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-05-16T11:28:38Z</updated>
+  <updated>2016-05-16T12:11:24Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>How to configure the Website Publishing Bot</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"/>
+    <id>https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html</id>
+    <published>2016-05-16T12:11:24Z</published>
+    <updated>2016-05-16T12:11:25+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Via the Clouburo Bots Member Zone you have the possibility to fine tune and configure the publishing process, as well as the look- and feel of your site. Each of your web site may be adjusted to its need.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; the memberzone and follow the steps shown in the video tutorial. Each configurable parameter/attribute of the publishing bot, is backed up by some detailed online help (as shown in the video).
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/fhBJJAq7uKw?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How to delete a published article</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html</id>
     <published>2016-05-16T11:28:38Z</published>
-    <updated>2016-05-16T11:28:39+00:00</updated>
+    <updated>2016-05-16T12:11:23+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -29,7 +67,7 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        Login to the memberzone and follow the steps shown in the video tutorial.
+       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; the memberzone and follow the steps shown in the video tutorial.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -52,7 +90,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html</id>
     <published>2016-05-16T01:02:15Z</published>
-    <updated>2016-05-16T01:02:18+00:00</updated>
+    <updated>2016-05-16T12:11:22+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -70,7 +108,8 @@
       &lt;/div&gt;
       &lt;div&gt;
         You have your personal user account for accessing the various services and functions. As a first step when acquiring a subscription for trial or purchase you will have to
-       &lt;a href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"&gt;register for an account&lt;/a&gt; or sign-in.
+       &lt;a href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"&gt;register for an account&lt;/a&gt; or sign-in (
+       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;&lt;a href="https://bots.cloudburo.net/sign-in"&gt;https://bots.cloudburo.net/sign-in&lt;/a&gt;&lt;/a&gt;).
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -104,7 +143,7 @@
       &lt;/div&gt;
       &lt;div&gt;
         Click on the
-       &lt;b&gt;Products&lt;/b&gt; menu entry on the top-left, which will switch to the
+       &lt;b&gt;Products&lt;/b&gt; menu entry on the top-left, which will switch to the Product Dashboard.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -126,8 +165,9 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        The second tab shows the
-       &lt;b&gt;purchased offerings&lt;/b&gt;
+        The second tab shows 
+       &lt;b&gt;your&lt;/b&gt; 
+       &lt;b&gt;purchased/trialled  products&lt;/b&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;b&gt;&lt;br&gt;&lt;/b&gt;
@@ -182,8 +222,18 @@
       &lt;div&gt;
         Click on the
        &lt;b&gt;Person Icon&lt;/b&gt; menu entry on the top-left and select
-       &lt;b&gt;User Profile.&lt;/b&gt;
+       &lt;b&gt;User Profile.&lt;/b&gt; The main functions here
       &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Changing or &lt;a href="https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"&gt;Verifying an Email Address&lt;/a&gt;&lt;/li&gt;
+       &lt;li&gt;Provide a name&lt;/li&gt;
+       &lt;li&gt;Provide your language&lt;/li&gt;
+       &lt;li&gt;Provide your time zone (which is used as a default for the publishing scheduler)&lt;/li&gt;
+       &lt;li&gt;&lt;a href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"&gt;Link your Evernote Account&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
       &lt;div&gt;
        &lt;b&gt;&lt;br&gt;&lt;/b&gt;
       &lt;/div&gt;
@@ -537,46 +587,6 @@
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Error: You didn’t link your Evernote Account yet</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html"/>
-    <id>https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html</id>
-    <published>2016-02-27T23:04:49Z</published>
-    <updated>2016-05-13T12:30:59+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;This Error message may be shown, when you hover or click on the cloud icon, which doesn’t have the colour green.&lt;/li&gt; 
-      &lt;/ul&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/815521ccb4f7711f48fb8f337be1f81a.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;ul&gt; 
-       &lt;li&gt;It means, that there is a missing link to an Evernote account, where you are writing and mastering your articles&lt;/li&gt; 
-       &lt;li&gt;Refer to the following &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"&gt;HowTo&lt;/a&gt;&lt;/b&gt; for the necessary steps to connect your Evernote account.&lt;/li&gt; 
-      &lt;/ul&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
