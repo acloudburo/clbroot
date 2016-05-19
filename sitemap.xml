@@ -182,7 +182,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html</loc>
-    <lastmod>2016-05-13</lastmod>
+    <lastmod>2016-05-19</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -266,7 +266,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html</loc>
-    <lastmod>2016-05-13</lastmod>
+    <lastmod>2016-05-19</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -338,7 +338,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html</loc>
-    <lastmod>2016-05-13</lastmod>
+    <lastmod>2016-05-19</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -375,6 +375,12 @@
   <url>
     <loc>https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html</loc>
     <lastmod>2016-05-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html</loc>
+    <lastmod>2016-05-19</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -484,6 +490,12 @@
     <loc>https://curation.cloudburo.net/2016/05.html</loc>
     <lastmod>2016-05-13</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/05/19.html</loc>
+    <lastmod>2016-05-13</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -704,6 +716,12 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/blog/page/5.html</loc>
+    <lastmod>2016-05-13</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/blog/page/6.html</loc>
     <lastmod>2016-05-13</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>

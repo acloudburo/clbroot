@@ -5,10 +5,67 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-05-16T21:16:51Z</updated>
+  <updated>2016-05-19T23:10:44Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>Showcase: Full Product Documentation Website managed by the Evernote Publishing Bot</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html"/>
+    <id>https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html</id>
+    <published>2016-05-19T23:10:44Z</published>
+    <updated>2016-05-19T23:10:44+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        This is a special showcase due to the fact that
+       &lt;u&gt;&lt;b&gt;this site which you are looking at is actually the showcase itself&lt;/b&gt;&lt;/u&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        I.e. the full documentation site of the publishing bot, enriched with images, videos and detailed content is edited in Evernote and published via the publishing bot.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Actually, we are following the principle &amp;lsquo;eat your own dogfood&amp;rsquo; within Cloudburo, i.e. we are using our own product for content publishing. This allows us to constantly fine-tune the offering and improve its usability and efficiency.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Stroll around on our site and check out some pages to get a feeling how a full-fledged site could look like. Best is to start on the
+       &lt;a href="https://curation.cloudburo.net/"&gt;home page&lt;/a&gt;, which gives you a detailed overview.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;div&gt;
+          More
+         &lt;a href="https://curation.cloudburo.net/tags/showcase.html"&gt;Cloudburo Publishing Bot Showcases&lt;/a&gt;.
+        &lt;/div&gt;
+        &lt;div&gt;
+         &lt;br&gt;
+        &lt;/div&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How to buy a subscription product</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"/>
@@ -320,106 +377,6 @@
     
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/21430b3a400007a3cfa56b646628279a.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How to sign up for the Cloudburo Bots Member Zone</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"/>
-    <id>https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html</id>
-    <published>2016-05-15T23:07:35Z</published>
-    <updated>2016-05-16T00:07:08+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Creating a user account is straightforward via the link 
-       &lt;a href="https://bots.cloudburo.net/sign-up"&gt;&lt;/a&gt;
-       &lt;a href="https://bots.cloudburo/sign-up"&gt;&lt;/a&gt;
-       &lt;a href="https://bots.cloudburo/sign-up"&gt;&lt;/a&gt;
-       &lt;a href="https://bots.cloudburo.net/sign-up"&gt;&lt;a href="https://bots.cloudburo.net/sign-up"&gt;https://bots.cloudburo.net/sign-up&lt;/a&gt;&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        For the creation of an account only your Email is required, as well as a Password.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/49368db1ee20185f5d19f02f5fc04d02.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        An Email will be sent to the provided Email Address and you will be asked to verify it. It’s mandatory that you validate your Email Address otherwise you cannot use any services.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/8d8763261deaea0039a402afbfbc0021.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Open the Email and press the Link 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/ddadaf4d9eae6a41dc7ee69990530202.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You will be redirected to Cloudburo Bots Platform Memberzone and a short message will be shown that the Email got verified. Pressing the Home button will redirect you to the Product Offering page.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/95367e9fb403c46f623df13cbc41b79c.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
