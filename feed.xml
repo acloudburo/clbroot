@@ -14,12 +14,11 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html"/>
     <id>https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html</id>
     <published>2016-05-28T16:01:57Z</published>
-    <updated>2016-05-28T16:02:00+00:00</updated>
+    <updated>2016-05-28T16:27:56+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/8929b86d7e753f3bf36a09eb6600c6cf.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
@@ -38,6 +37,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/8929b86d7e753f3bf36a09eb6600c6cf.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
@@ -52,7 +52,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/2339279b8398935a87d392c42f17dfa7.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/2339279b8398935a87d392c42f17dfa7.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
@@ -68,7 +68,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/3d20fd7d50f4b68b4d7972f693c6ce93.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/3d20fd7d50f4b68b4d7972f693c6ce93.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
@@ -88,7 +88,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/a447b06c6f1066fb3b0eed6f7c9b2394.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/a447b06c6f1066fb3b0eed6f7c9b2394.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
@@ -104,7 +104,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/5bc11ebd3e3636c9f379f9b2906f4fa3.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/5bc11ebd3e3636c9f379f9b2906f4fa3.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
@@ -122,7 +122,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/0b8eb5b935ee4a22eed47de4575c0c2e.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/0b8eb5b935ee4a22eed47de4575c0c2e.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
