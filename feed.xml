@@ -5,10 +5,126 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-05-28T16:01:57Z</updated>
+  <updated>2016-05-28T17:06:17Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>Which Evernote Notebooks are created by the Publishing Bot ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html"/>
+    <id>https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html</id>
+    <published>2016-05-28T17:06:17Z</published>
+    <updated>2016-05-28T17:06:19+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/0deb3823a1a5d4bbfae48a7612ee3ffe.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Publishing Bot requires for the communication with Evernote a set of Evernote Notebooks per configured site. Additionally the Publishing Bot will create a set of tags which allows you to control the site publishing process.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        These notebooks - as well as the tags - will be created during the initial site configuration steps. Additionally the publishing bot will check before each process run, the availability of the Notebooks and Tags in your Evernote Account and would kick off a recreation, in case you deleted or removed notebooks or tags accidentally.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Notebooks created by the Publishing Bot&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Publishing Bot will create for each site - in this example you would have chosen the name 
+       &lt;i&gt;&lt;b&gt;blogtest&lt;/b&gt;&lt;/i&gt; during site configuration - 5 new Evernote Notebooks. They start with the the prefix 
+       &lt;b&gt;&lt;i&gt;blog-&lt;/i&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;&lt;b&gt;&lt;i&gt;A-Fetch&lt;/i&gt;:&lt;/b&gt; Is a notebook required by the News Publishing Workflow. Any article place here will be full text extracted and moved to the &lt;i&gt;B-Prepare&lt;/i&gt;  notebook by the Publishing Bot. For details refer to the following &lt;a href="https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html"&gt;How To&lt;/a&gt;.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;B-Prepare:&lt;/b&gt;&lt;/i&gt; Is used by News Publishing Workflow, as well as can be seen as the notebook where you store your draft articles you are working on (this is optional, obviously you can work on a note in any kind of notebook). The Publishing bot isn&amp;rsquo;t  doing anything with this notebook.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;D-NewsGen:&lt;/b&gt;&lt;/i&gt; Move your ready-to-publish notes which are following the News Workflow to this Notebook. For details refer to the following &lt;a href="https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html"&gt;How To&lt;/a&gt;. The Publishing Bot will fetch periodically the articles and publishes them, you will be informed by email when the publishing completed.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;E-CurateGen:&lt;/b&gt;&lt;/i&gt; Move your ready-to-publish notes which are self-created or curation to this Notebook. For details refer to the following &lt;a href="https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html"&gt;How To&lt;/a&gt;. The Publishing Bot will fetch periodically the articles and publishes them, you will be informed by email when the publishing completed.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;Z-Archive:&lt;/b&gt;&lt;/i&gt; All published notes will be moved to this note book. In case you want to update some notes. Go here, update the content and move it back to the &lt;i&gt;D-NewsGen&lt;/i&gt; or &lt;i&gt;E-CurateGen&lt;/i&gt; notebook, dependent on the article style.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;span style="font-size: 18px;"&gt;&lt;b&gt;Tags created by the Publishing Bot&lt;/b&gt;&lt;/span&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/ee28faba53853845e8e4fca4cc206528.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Publishing Bot will create a set of Tags required for its working, they all start with the prefix
+       &lt;i&gt;&lt;b&gt;clb-&lt;/b&gt;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;clb-footer&amp;lt;#&amp;gt;, clb-menu&amp;lt;#&amp;gt;&lt;/b&gt;&lt;/i&gt; allows you to control the Menu- and Footer area of your site. Refer to the following &lt;a href="https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html"&gt;How To&lt;/a&gt;.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;clb-index&lt;/b&gt;&lt;/i&gt; is used to identify a page, which used as your customised index page. Refer to the following &lt;a href="https://curation.cloudburo.net/2015/05/22/feature-customizable-content-site-index-page.html"&gt;How To&lt;/a&gt;.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;clb-image-*&lt;/b&gt;&lt;/i&gt; allows you to control how pictures are rendered in your site. Refer to the following &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-picture-handling-in-evernote-notes.html"&gt;How To&lt;/a&gt;.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;clb-processed&lt;/b&gt;&lt;/i&gt; will be allocated to each Evernote note, which got published on a site.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Tags created by You&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You can create any tags starting with your site name
+       &lt;i&gt;&amp;lt;sitename&amp;gt;-&lt;/i&gt;. When associated with a notes, they will be converted in a blog category, refer to the following
+       &lt;a href="https://curation.cloudburo.net/2015/06/01/feature-customziable-article-categorization.html"&gt;How To&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/cef689d88d45b0c6d86e71d9a61a0f0b.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Customizable Site Header and Footer Menus</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html"/>
@@ -324,62 +440,6 @@
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How to delete a published article</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html"/>
-    <id>https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html</id>
-    <published>2016-05-16T11:28:38Z</published>
-    <updated>2016-05-23T17:39:58+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Deleting an already published article can be done via a control function in the Clouburo Bots Member Zone. 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; the memberzone and follow the steps shown in the video tutorial.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/4kdPLODDNgc?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;div&gt;
-         More
-        &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
