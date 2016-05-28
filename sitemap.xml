@@ -397,6 +397,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net/2016/05/28/how-do-i-know-when-the-publishing-of-an-article-happened.html</loc>
+    <lastmod>2016-05-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net/tags/feature.html</loc>
     <lastmod>2016-05-23</lastmod>
     <priority>0.9</priority>
@@ -748,6 +754,12 @@
     <loc>https://curation.cloudburo.net/2016/page/2.html</loc>
     <lastmod>2016-05-23</lastmod>
     <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/05/page/2.html</loc>
+    <lastmod>2016-05-23</lastmod>
+    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
