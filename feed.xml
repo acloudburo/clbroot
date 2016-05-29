@@ -5,10 +5,193 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-05-28T22:10:38Z</updated>
+  <updated>2016-05-29T01:03:13Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>Feature: Google Analytics Tracking Key Integration</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/feature-google-analytics-tracking-key-integration.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/feature-google-analytics-tracking-key-integration.html</id>
+    <published>2016-05-29T01:03:13Z</published>
+    <updated>2016-05-29T01:03:14+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can configure your Google Analytics Tracking Key, which will be injected into every site page.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/1c086f981b671e317bdf319010119330.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Tracking Key you will find via the Google Analytics Admin Console
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ed1335a803e17a3fe161d5856f3a1bbf.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Feature: Social Icons in your Site Header</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html</id>
+    <published>2016-05-29T01:03:10Z</published>
+    <updated>2016-05-29T01:03:12+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        You can define the following social icons in your site header, which will link to your corresponding social account
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Facebook&lt;/li&gt;
+       &lt;li&gt;Twitter&lt;/li&gt;
+       &lt;li&gt;Google Plus&lt;/li&gt;
+       &lt;li&gt;Linkedin&lt;/li&gt;
+       &lt;li&gt;Github&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can provide the URL’s for each site
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/2bae4a8afe165271504d39d2a72f0bac.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The icons will then be shown in the header.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/dfe79a2b95ee7f6fcad3feb5c073f279.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How is the curation.space domain protected and accelerated by Cloudflare CDN ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html</id>
+    <published>2016-05-29T01:03:08Z</published>
+    <updated>2016-05-29T01:03:10+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        In front of our Content site we have the
+       &lt;a href="https://www.cloudflare.com/overview"&gt;Cloudflare Content Delivery Network&lt;/a&gt;.  As part of the CloudFlare community, our web traffic is routed through their intelligent global network. Cloudflare automatically optimize the delivery of our web pages so your visitors get the fastest page load times and best performance. They also block threats and limit abusive bots and crawlers from wasting our bandwidth and server resources. The result: CloudFlare-powered websites see a significant improvement in performance and a decrease in spam and other attacks.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         By using Cloudflare we also enabled by default the secure https:// protocol (the new de facto standard for websites).
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/9b7d138fb4c04b9f03ce91c2dbc0fa39.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         We are leveraging for the content site publishing the global Web backbone of github.io (via their gh-pages facility). 
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        This allows us good performance and high availability of the content sites.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d32c04d93400ef6804281acf90e62330.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How to configure your first Site</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/how-to-configure-your-first-site.html"/>
@@ -373,236 +556,6 @@
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Customizable Site Header and Footer Menus</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html"/>
-    <id>https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html</id>
-    <published>2016-05-28T16:01:57Z</published>
-    <updated>2016-05-28T16:27:56+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        You can customize the Header and Footer Menu of a site. 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        By default, the index page will show the published articles, complemented by a Header Menu “Categories” and “By Year”.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/8929b86d7e753f3bf36a09eb6600c6cf.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You have now the possibility to define 4 additional Header, as well as 4 additional Footer menus. In the following example there are two additional menus defined: “About” and “Contact”.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/2339279b8398935a87d392c42f17dfa7.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The additional menus are defined via the site configuration in the
-       &lt;a href="https://bots.cloudburo.net/dashboard"&gt;Memberzone Dashboard&lt;/a&gt; area (Setup Tab). Select the relevant site configuration.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/3d20fd7d50f4b68b4d7972f693c6ce93.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Scroll down to
-       &lt;i&gt;Main Menu&lt;/i&gt; and
-       &lt;i&gt;Footer Menu&lt;/i&gt; area. And change the name from
-       &lt;i&gt;Empty&lt;/i&gt; (i.e. no menu entry is shown) to your menu name. In the example below, we have chosen to add to Main Menu entries called “
-       &lt;i&gt;About”&lt;/i&gt; and 
-       &lt;i&gt;“Contact&lt;/i&gt;&amp;ldquo;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/a447b06c6f1066fb3b0eed6f7c9b2394.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The Publishing Bot, will create in its next run, two main menus (see the screenshot) on the published site, as well as create corresponding pages and tags (
-       &lt;i&gt;clb-menu1, clb-menu2)&lt;/i&gt; in your Evernote account. 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/5bc11ebd3e3636c9f379f9b2906f4fa3.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You now can customize the pages, to your need. In the example below, the
-       &lt;i&gt;About&lt;/i&gt; page is shown (with its associated tag
-       &lt;i&gt;clb-menu1&lt;/i&gt;). Move it to your notebook
-       &lt;i&gt;&lt;b&gt;*-E-CurateGen&lt;/b&gt;&lt;/i&gt; in order to get it generated. 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/0b8eb5b935ee4a22eed47de4575c0c2e.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Showcase: Full Product Documentation Website managed by the Evernote Publishing Bot</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html"/>
-    <id>https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html</id>
-    <published>2016-05-19T23:10:44Z</published>
-    <updated>2016-05-23T17:39:58+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        This is a special showcase due to the fact that
-       &lt;u&gt;&lt;b&gt;this site which you are looking at is actually the showcase itself&lt;/b&gt;&lt;/u&gt;.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        I.e. the full documentation site of the publishing bot, enriched with images, videos and detailed content is edited in Evernote and published via the publishing bot.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Actually, we are following the principle &amp;lsquo;eat your own dogfood&amp;rsquo; within Cloudburo, i.e. we are using our own product for content publishing. This allows us to constantly fine-tune the offering and improve its usability and efficiency.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Stroll around on our site and check out some pages to get a feeling how a full-fledged site could look like. Best is to start on the
-       &lt;a href="https://curation.cloudburo.net/"&gt;home page&lt;/a&gt;, which gives you a detailed overview.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;div&gt;
-        &lt;div&gt;
-          More
-         &lt;a href="https://curation.cloudburo.net/tags/showcase.html"&gt;Cloudburo Publishing Bot Showcases&lt;/a&gt;.
-        &lt;/div&gt;
-        &lt;div&gt;
-         &lt;br&gt;
-        &lt;/div&gt;
-       &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How to buy a subscription product</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"/>
-    <id>https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html</id>
-    <published>2016-05-16T21:16:51Z</published>
-    <updated>2016-05-23T17:39:58+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; or
-       &lt;a href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"&gt;Sign up&lt;/a&gt; to the memberzone and follow the steps shown in the video tutorial.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Our credit card handling is done via Stripe, which is PCI Level 1 certified (highest security standard). You can find out more details how we manage credit card payments in the following
-       &lt;a href="https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html"&gt;article&lt;/a&gt;. 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/8G-_iNBo5DA?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        More
-       &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;

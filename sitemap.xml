@@ -409,6 +409,24 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html</loc>
+    <lastmod>2016-05-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html</loc>
+    <lastmod>2016-05-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/05/29/feature-google-analytics-tracking-key-integration.html</loc>
+    <lastmod>2016-05-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net/tags/feature.html</loc>
     <lastmod>2016-05-23</lastmod>
     <priority>0.9</priority>
@@ -508,6 +526,12 @@
     <loc>https://curation.cloudburo.net/2016/05.html</loc>
     <lastmod>2016-05-23</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/05/29.html</loc>
+    <lastmod>2016-05-23</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
