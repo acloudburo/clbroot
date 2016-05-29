@@ -5,10 +5,84 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-05-29T10:10:58Z</updated>
+  <updated>2016-05-29T10:22:16Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>How do I disable the News Publishing Workflow</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html</id>
+    <published>2016-05-29T10:22:16Z</published>
+    <updated>2016-05-29T10:22:17+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can disable the News Publishing Workflow, the Cloudburo Publishing Bot will not check your
+       &lt;i&gt;D-NewsGen&lt;/i&gt; notebook anymore for news articles.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ccf715b6ce678a9b5591842ac616a40e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How do I disable the Create &amp; Curate Workflow</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-create-curate-workflow.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-create-curate-workflow.html</id>
+    <published>2016-05-29T10:22:15Z</published>
+    <updated>2016-05-29T10:22:15+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can disable the Self-Created/Curated Workflow, the Cloudburo Publishing Bot will not check your
+       &lt;i&gt;E-CurateGen&lt;/i&gt; notebook anymore for any articles.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ccf715b6ce678a9b5591842ac616a40e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How do I switch my site to offlline ?</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html"/>
@@ -227,298 +301,6 @@
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How is the curation.space domain protected and accelerated by Cloudflare CDN ?</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html"/>
-    <id>https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html</id>
-    <published>2016-05-29T01:03:08Z</published>
-    <updated>2016-05-29T01:03:10+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        In front of our Content site we have the
-       &lt;a href="https://www.cloudflare.com/overview"&gt;Cloudflare Content Delivery Network&lt;/a&gt;.  As part of the CloudFlare community, our web traffic is routed through their intelligent global network. Cloudflare automatically optimize the delivery of our web pages so your visitors get the fastest page load times and best performance. They also block threats and limit abusive bots and crawlers from wasting our bandwidth and server resources. The result: CloudFlare-powered websites see a significant improvement in performance and a decrease in spam and other attacks.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-         By using Cloudflare we also enabled by default the secure https:// protocol (the new de facto standard for websites).
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/9b7d138fb4c04b9f03ce91c2dbc0fa39.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-         We are leveraging for the content site publishing the global Web backbone of github.io (via their gh-pages facility). 
-       &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        This allows us good performance and high availability of the content sites.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/d32c04d93400ef6804281acf90e62330.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How to configure your first Site</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/how-to-configure-your-first-site.html"/>
-    <id>https://curation.cloudburo.net/2016/05/28/how-to-configure-your-first-site.html</id>
-    <published>2016-05-28T22:10:38Z</published>
-    <updated>2016-05-28T22:10:43+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The Cloudburo Publishing Bot will guide you through the first site configuration, in order that you get used to the necessary mandatory configuration steps. Depending on your subscription package you may have the possibility to configure multiple sites.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You will presented with the following screen after you either have
-       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html"&gt;acquired a trial subscription&lt;/a&gt; or you
-       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"&gt;purchased a monthly-/yearly subscription&lt;/a&gt; and are logged in to the
-       &lt;a href="https://bots.cloudburo.net"&gt;member zone&lt;/a&gt;.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/147a6d431aac5188452022954a02e507.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The screen shows you the three mandatory steps, which are required in order to trigger the creation of you publishing site. By pressing the “?” Button, a short description of the step will be shown.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Step 1: Verify Email Address&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You have to verify your Email Address via a Link we have sent you by Email. In case you didn’t got the Email, you can trigger from here a resend  of the Email, be pressing the green “RESEND” button. For more  information refer to the following
-       &lt;a href="https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"&gt;How To.&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        After successful Email verification, the step will be marked as completed.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/027b3c2765bcb607596281558da32736.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Step 2: Link your Evernote Account&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Obviously the Publishing Bot requires a linked Evernote Account, where he will grab your article which you want to publish to your online community. Clicking on the green “LINK” button which will initiate the authentication process directly with Evernote.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        An Evernote Pop up window will appear, where you have to Sign In. Be aware that this process is fully managed by Evernote, we will not get hold of the password. Evernote will provide us - after a successful approval by you- a token to get hold of the articles, which you write.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You can revoke at any time within Evernote the “authorisation” which you have gave us. This means that the Publishing Bot, will stop to work for you.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/77f99bfb904f48f5f53311896cce6b4d.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        After you have signed in, Evernote will show which rights we are asking for.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/44868dbc283b94a69395d36927e4ac13.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The Publishing Bot will create a set of new Notebooks in your Evernote Account, which are used for the communication between You and our Publishing Bot. 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        For example, by placing an Evernote note  in a dedicated Notebook, the Publishing Bot will be advised to read the note and publishing it on your web site. After the steps he will move the note in another Notebook.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Therefore we require rights to Create, Update, List or Retrieve notes from your Evernote Account.
-       &lt;a href="https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html"&gt;Refer to the following page&lt;/a&gt; in order to get an overview about the created Notebooks.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        After successful linking of your Evernote Account, the step will be marked as completed
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/2ac47d2b256503e64c3dec667bde5003.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        It will enable Step 3, where you now can enter a unique site name.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Step 3: Provide a Unique Site Name&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        In this step provide a unique site name. 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/dbd62126b95fe5270f81e7a257005f68.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Click on the “yourSiteName” field, which will open the input box. Provide the name for your site, e.g. “felixblog”. The name must be unique within the Cloudburo Bots Platform. The name will be used for defining the final URL, which is constructed as follows “https://&amp;lt;sitename&amp;gt;.curation.space”. In our example it will be &amp;ldquo;&lt;a href="https://felixblog.curation.space."&gt;https://felixblog.curation.space.&lt;/a&gt;&amp;rdquo;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/b72347c7565b01f06fcbe253d870ae92.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        As one can see, all three steps were completed successfully. The “EVERYHTING SETUP, PROCEED” switch to the green colour and got enabled. You now can go on.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The Cloudburo Publishing Bot will be activated and creates the necessary Evernote notebooks, as well as the default empty site.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/cb72d5abbed04dfea38010a39b6fcefe.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You are ready to start publishing notes.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You can go on and customize your web entry via the following
-       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;How To&lt;/a&gt;.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
