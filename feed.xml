@@ -5,16 +5,16 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-05-29T08:22:18Z</updated>
+  <updated>2016-05-29T10:10:58Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
   <entry>
-    <title>How do I set the Title of the Site ?</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html"/>
-    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html</id>
-    <published>2016-05-29T08:22:18Z</published>
-    <updated>2016-05-29T09:09:09+00:00</updated>
+    <title>How do I switch my site to offlline ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html</id>
+    <published>2016-05-29T10:10:58Z</published>
+    <updated>2016-05-29T10:10:59+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,7 +23,40 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt;
-        The Blog Title will be shown in the top left corner your blog and is clickable (i.e. will be bring you back to the Home-/Index page your web site. During initial configuration the Title will set to your “Site Name”. But it can be changed at any time.
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can switch off your site temporarily, i.e. it will not be reachable anymore via the internet.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/3a929aa3549458a2823842055fb19666.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How do I set the Title of the Site ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html</id>
+    <published>2016-05-29T08:22:18Z</published>
+    <updated>2016-05-29T10:10:56+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Blog Title will be shown in the top left corner your blog and is clickable (i.e. will be bring you back to the Home-/Index page your web site). During initial configuration the Title will be set to your “Site Name”. But it can be changed at any time.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -489,26 +522,6 @@
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How do I know when the publishing of an article happened ?</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/how-do-i-know-when-the-publishing-of-an-article-happened.html"/>
-    <id>https://curation.cloudburo.net/2016/05/28/how-do-i-know-when-the-publishing-of-an-article-happened.html</id>
-    <published>2016-05-28T19:41:29Z</published>
-    <updated>2016-05-28T19:41:29+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        After initial site configuration, as well as every time an article gets published, you will receive an Email by the Cloudburo Publishing Bot.
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
