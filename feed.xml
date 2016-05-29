@@ -5,10 +5,54 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-05-29T10:22:16Z</updated>
+  <updated>2016-05-29T11:11:50Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>Don’t put unnecessary Carriage Returns at end of a Line</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/dont-put-unnecessary-carriage-returns-at-end-of-a-line.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/dont-put-unnecessary-carriage-returns-at-end-of-a-line.html</id>
+    <published>2016-05-29T11:11:50Z</published>
+    <updated>2016-05-29T11:11:52+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        When you write in Evernote an article don’t insert unnecessary “Carriage Returns” (Line Fee) in order to go to a new line. You should keep writing and leave the new line switch to Evernote. The below formatting (taken into consideration the unnecessary carriage return) will result in a bad formatting on your site.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/7b4a62b686fe0ec38b1af4a86a1b89b0.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You may introduce a new line (by pressing carriage return) when you want to introduce a new section. As in the below example after the frist section, as well as the second section before the link. That will result in a nicely rendered format
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/859fef695d53907a3f790a470f78ef0f.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How do I disable the News Publishing Workflow</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html"/>
@@ -88,7 +132,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html</id>
     <published>2016-05-29T10:10:58Z</published>
-    <updated>2016-05-29T10:10:59+00:00</updated>
+    <updated>2016-05-29T11:11:48+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -111,7 +155,19 @@
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You site will be not visible anymore
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/6a30589c8aafb8c03e4fc26d2aeb7e35.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
@@ -232,73 +288,6 @@
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Feature: Social Icons in your Site Header</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html"/>
-    <id>https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html</id>
-    <published>2016-05-29T01:03:10Z</published>
-    <updated>2016-05-29T01:03:12+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        You can define the following social icons in your site header, which will link to your corresponding social account
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;Facebook&lt;/li&gt;
-       &lt;li&gt;Twitter&lt;/li&gt;
-       &lt;li&gt;Google Plus&lt;/li&gt;
-       &lt;li&gt;Linkedin&lt;/li&gt;
-       &lt;li&gt;Github&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Via the
-       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can provide the URL’s for each site
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/2bae4a8afe165271504d39d2a72f0bac.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The icons will then be shown in the header.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/dfe79a2b95ee7f6fcad3feb5c073f279.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
