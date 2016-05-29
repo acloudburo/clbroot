@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/dont-put-unnecessary-carriage-returns-at-end-of-a-line.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/dont-put-unnecessary-carriage-returns-at-end-of-a-line.html</id>
     <published>2016-05-29T11:11:50Z</published>
-    <updated>2016-05-29T11:11:52+00:00</updated>
+    <updated>2016-05-29T12:15:59+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,9 +23,7 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt;
-        When you write in Evernote an article don’t insert unnecessary “Carriage Returns” (Line Fee) in order to go to a new line. You should keep writing and leave the new line switch to Evernote. The below formatting (taken into consideration the unnecessary carriage return) will result in a bad formatting on your site.
-      &lt;/div&gt;
-      &lt;div&gt;
+        When you write in Evernote an article don’t insert unnecessary “Carriage Returns” (Line Feed) in order to go to a new line. You should keep writing and leave the new line switch to Evernote. The below formatting (taken into consideration the unnecessary carriage return) will result in a bad formatting on your site.
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
@@ -35,12 +33,7 @@
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You may introduce a new line (by pressing carriage return) when you want to introduce a new section. As in the below example after the frist section, as well as the second section before the link. That will result in a nicely rendered format
-      &lt;/div&gt;
-      &lt;div&gt;
+       &lt;br&gt;You may introduce a new line (by pressing carriage return) when you want to introduce a new section. As in the below example after the frist section, as well as the second section before the link. That will result in a nicely rendered format
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
@@ -48,7 +41,8 @@
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/859fef695d53907a3f790a470f78ef0f.png" /&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;&lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
