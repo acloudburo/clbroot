@@ -14,12 +14,11 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html</id>
     <published>2016-05-29T08:22:18Z</published>
-    <updated>2016-05-29T08:22:20+00:00</updated>
+    <updated>2016-05-29T09:09:09+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/1d1ea9f04601c18e922aa45a9b4e54c8.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
@@ -32,6 +31,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/1d1ea9f04601c18e922aa45a9b4e54c8.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
@@ -56,7 +56,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/c5ed3d2a45aea559d197edce6060f7d3.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c5ed3d2a45aea559d197edce6060f7d3.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
@@ -71,7 +71,7 @@
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/62de8ae4bd12932f6223150271ff7045.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/62de8ae4bd12932f6223150271ff7045.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
     
