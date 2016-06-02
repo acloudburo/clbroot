@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/</loc>
-    <lastmod>2016-06-01</lastmod>
+    <lastmod>2016-06-02</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -92,13 +92,13 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/05/14/feature-syntax-highlighting-themes.html</loc>
-    <lastmod>2016-06-01</lastmod>
+    <lastmod>2016-06-02</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/05/14/feature-webpage-themes.html</loc>
-    <lastmod>2016-06-01</lastmod>
+    <lastmod>2016-06-02</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -481,6 +481,18 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net/tags/siteconfig.html</loc>
+    <lastmod>2016-06-01</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/tags/themes.html</loc>
+    <lastmod>2016-06-01</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net/tags/quicktip.html</loc>
     <lastmod>2016-06-01</lastmod>
     <priority>0.9</priority>
@@ -488,12 +500,6 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/tags/howto.html</loc>
-    <lastmod>2016-06-01</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.cloudburo.net/tags/siteconfig.html</loc>
     <lastmod>2016-06-01</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
