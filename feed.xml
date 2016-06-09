@@ -5,10 +5,27 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-06-02T01:07:16Z</updated>
+  <updated>2016-06-09T18:24:05Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>The science behind shareable content</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html"/>
+    <id>https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html</id>
+    <published>2016-06-09T18:24:05Z</published>
+    <updated>2016-06-09T18:24:05+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      &lt;br/&gt;
+    &lt;a href="https://searchenginewatch.com/2016/06/08/the-science-behind-shareable-content/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Your first site is live, what’s next ?</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/02/your-first-site-is-live-whats-next.html"/>
@@ -351,75 +368,6 @@
     
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/6a30589c8aafb8c03e4fc26d2aeb7e35.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How do I set the Title of the Site ?</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html"/>
-    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html</id>
-    <published>2016-05-29T08:22:18Z</published>
-    <updated>2016-06-05T11:44:46+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The Blog Title will be shown in the top left corner your blog and is clickable (i.e. will be bring you back to the Home-/Index page your web site). During initial configuration the Title will be set to your “Site Name”. But it can be changed at any time.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/1d1ea9f04601c18e922aa45a9b4e54c8.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Via the
-       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can rename your Blog Title.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The Title shouldn’t be too long, so that the Header looks good on any device size. When having changed the name, resize your browser window to minimal size or check the your site on a mobile device. The title, as well as the “Hamburger” menu should take just one row (see below).
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/c5ed3d2a45aea559d197edce6060f7d3.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Adjust the Title Attribute in the Product Dashboard and check your site after the Publishing Bot has processed your request.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/62de8ae4bd12932f6223150271ff7045.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
     
