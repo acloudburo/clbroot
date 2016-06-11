@@ -463,6 +463,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net/2016/06/10/track-when-you-get-mentioned-in-the-internet.html</loc>
+    <lastmod>2016-06-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net/tags/feature.html</loc>
     <lastmod>2016-06-05</lastmod>
     <priority>0.9</priority>
@@ -592,6 +598,12 @@
     <loc>https://curation.cloudburo.net/2016/06.html</loc>
     <lastmod>2016-06-05</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/06/10.html</loc>
+    <lastmod>2016-06-05</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>

@@ -5,10 +5,217 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-06-09T18:24:05Z</updated>
+  <updated>2016-06-10T23:45:26Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>Track when you get mentioned in the Internet</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/10/track-when-you-get-mentioned-in-the-internet.html"/>
+    <id>https://curation.cloudburo.net/2016/06/10/track-when-you-get-mentioned-in-the-internet.html</id>
+    <published>2016-06-10T23:45:26Z</published>
+    <updated>2016-06-10T23:45:31+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        When you start your micro enterprise it’s very important that you monitor the internet and its social channels about mentioning of your company.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        For example refer to the
+       &lt;a href="https://medium.com/@RealtimeBoard/how-we-learned-to-get-into-product-hunt-top-5-the-story-of-realtimeboard-f16e51ca4b17#.4723t2xuk"&gt;following article&lt;/a&gt;, which tells the story how a startup missed the mentioning of its company on the famous Product Hunt website.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        By not getting known that your company is trending on a social channel or website you miss the huge opportunity to gain new customer or sales lead. You miss a one-time opportunity to react on comments or any other kind of engagement triggered by the publishing.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Luckily there are quite handy tools out there which allow you automate the monitoring the web for mentioning your name.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        I currently use to tools, which complement each other.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://notify.ly"&gt;&lt;u&gt;&lt;b&gt;Notify.ly&lt;/b&gt;&lt;/u&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Notify.ly will track a growing number of social media apps about a user-defined set of keywords and publish them either to your Slack or Hipchat account.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        If you serious about a startup you have to get used to Slack (which is my preferred message aggregator app) or Hipchat. The will ease you life dramatically in context of monitoring a variety of channels, be it your production machines or any kind of event channel In this article, it will get any notification event of Notify.ly.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In the example below, Notify.ly sent me a message to my Slack marketing channel only my mobile, informing me that “QRator India”, was publishing a tweet which includes my keyword “publishingbot.cloudburo.net”. Actually, QRator India was republishing a tweet originated by me. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c2c0ee453499a2dba1c22c4b184ca18c.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Notify.ly will monitor your defined set of keywords on different channels, refer to the example below, these are keywords which get tracked on twitter, producthunt, tumblr, hacker news, reddit or youtube.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d76356c073327c06e34b25b0effd6978.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The whole setup is straightforward and easy to do.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://www.google.ch/alerts#"&gt;&lt;u&gt;&lt;b&gt;Google Alerts&lt;/b&gt;&lt;/u&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The second monitoring solution which I use is provided by our big brother google. Google offers with “Google Alert” a nifty feature. It’s actually  a content change detection and notification service. What do you need more ?
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        As you can see here, I monitor the web for my company “Cloudburo”, my product “publishingbot”, as well as name.
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c28840215dbf8886d5880a15ed5823e1.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The detail window gives you the possibility to fine tune your alerting
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        At the end of the window you can see of list of matched results, obviously the alert mechanism will track only new published content in this case with the frequency “As-it-happens”.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/6897761d27b75612992290e25fb20e6a.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Important here that we deliver the result to an RSS feed, which we then integrate in the our Slack message app. Select the RSS feed url in the alert dashboard.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/333beb35a605cadf0f589cc0c131c855.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        And add it as a to be monitored RSS feed in Slack
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/bf6de5d88faecedd6244287816c3f972.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In the example below, we add it feed to our marketing channel, which gets also fed by the Notif.ly social channel monitor. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ee471c51d2552ec30c6509656164e89f.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Having done that you can relax and be sure that you will get notified immediately in Slack when you start up is moving up the internet mentioning ladder.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;BTW: This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>The science behind shareable content</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html"/>
@@ -372,51 +579,6 @@
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How do I switch my site to offlline ?</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html"/>
-    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html</id>
-    <published>2016-05-29T10:10:58Z</published>
-    <updated>2016-06-05T11:44:46+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Via the
-       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can switch off your site temporarily, i.e. it will not be reachable anymore via the internet.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/3a929aa3549458a2823842055fb19666.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You site will be not visible anymore
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/6a30589c8aafb8c03e4fc26d2aeb7e35.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
