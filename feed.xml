@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html"/>
     <id>https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html</id>
     <published>2016-06-14T20:05:20Z</published>
-    <updated>2016-06-14T20:05:22+00:00</updated>
+    <updated>2016-06-14T20:25:14+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -54,24 +54,15 @@
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
-    &lt;p&gt;&lt;/div&gt;
-      &lt;div&gt;
-        &lt;div id="vgdiv264" style="margin: 0px auto; position: relative; height: 0px; overflow: hidden; max-width: 1060px; padding-bottom: 100%;"&gt;&lt;iframe id="vgframe264" src="https://infograph.venngage.com/e3/119697/teaser-content-publishing-4-step-list?border=false" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border: 0px; overflow: hidden; max-width: 1060px;"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script&gt;!function(){var t=document.getElementById(&amp;quot;vgframe264&amp;quot;),e=document.getElementById(&amp;quot;vgdiv264&amp;quot;),n=function(){t.contentWindow.postMessage(e.offsetWidth,&amp;quot;*&amp;quot;),e.style.paddingBottom=e.offsetWidth*890/1060+&amp;quot;px&amp;quot;};window.addEventListener(&amp;quot;resize&amp;quot;,n),window.addEventListener(&amp;quot;load&amp;quot;,n)}()&lt;/script&gt;&lt;p style="padding-top: 10px; color: rgb(224, 224, 224); text-align: right; margin: 0px auto; max-width: 1060px;"&gt;&lt;a href="https://infograph.venngage.com/p/119697/teaser-content-publishing-4-step-list" style="color: rgb(221, 221, 221); text-decoration: none; font-style: italic; font-size: 12px; border-right-width: 1px; border-right-style: solid; padding-right: 5px;"&gt;Teaser Content Publishing 4 Step List&lt;/a&gt;&lt;a href="https://venngage.com" style="color: rgb(221, 221, 221); text-decoration: none; font-style: italic; font-size: 12px; padding-left: 5px;"&gt;Infographic&lt;/a&gt;&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e923caccbd52637eef4bd5057da43342.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
         Absolutely amazing is that the infographics  are just fully responsive and adjust to a mobile screen without any problem. So by publishing the graphic onto the venngage site you will get as well as a html embed code sequence, which you can integrate into your site.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The above example is integrated using the HTML embed sequence and by the way, the full article here is managed within Evernote using the Cloudburo Publishing Bot for which the infographics were created.
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
@@ -89,7 +80,7 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        The offering comes with a free plan, which allows you to experiment with the tool and features. You are  restricted in the usage of several features, as well you can’t download the graphics as picture or pdf.  Nevertheless, it allowed me to quickly design my first infographics and publish them. The premium  pricing of 19$ is reasonable but for a micro business just producing some infographics from time to time potential a little bit high for initial investing.
+        The offering comes with a free plan, which allows you to experiment with the tool and features. You are  restricted in the usage of several features, as well you can’t download the graphics as picture or pdf.  Nevertheless, it allowed me to quickly design my first infographics and publish them. The premium  pricing of 19$ is reasonable but for a micro business just producing some infographics from time to time potential a little bit high for initial investing (during its bootstrapping phase). As said in that constellation the freemium version is doing a very good job.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -105,7 +96,14 @@
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/ecb08793b5c848b92668e02638e30889.png" /&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        By the way, the full article here is managed within Evernote using the
+       &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt; for which the infographics were created.
+      &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
