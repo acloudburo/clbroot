@@ -5,10 +5,111 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-06-10T23:45:26Z</updated>
+  <updated>2016-06-14T20:05:20Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>Create easily your own compelling infographics for your content</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html"/>
+    <id>https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html</id>
+    <published>2016-06-14T20:05:20Z</published>
+    <updated>2016-06-14T20:05:22+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        For my micro business, I was looking for an easy to manage infographic creation solution. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Luckily I found very quickly the solution offered by Venngage. A browser based infographic creation frontend, which manages the content in the cloud and provides the possibility to share the created infographics on their hosted site.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://infograph.venngage.com"&gt;&lt;a href="https://infograph.venngage.com"&gt;https://infograph.venngage.com&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The overall solution is really top-notch. The creation GUI design and usability is just outstanding and serves me as a good showcase, what can be achieved by a well designed HTML 5 browser app. It’s very well crafted and a lot of attention is given to the details.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The below infographics I could create just within the first hour of using the tool, integration of icons, uploading and reusing images, resizing and adjusting of graphic assets etc. is straightforward and works from a performance point view as quickly as any native OS X app.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt;
+      &lt;div&gt;
+        &lt;div id="vgdiv264" style="margin: 0px auto; position: relative; height: 0px; overflow: hidden; max-width: 1060px; padding-bottom: 100%;"&gt;&lt;iframe id="vgframe264" src="https://infograph.venngage.com/e3/119697/teaser-content-publishing-4-step-list?border=false" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border: 0px; overflow: hidden; max-width: 1060px;"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script&gt;!function(){var t=document.getElementById(&amp;quot;vgframe264&amp;quot;),e=document.getElementById(&amp;quot;vgdiv264&amp;quot;),n=function(){t.contentWindow.postMessage(e.offsetWidth,&amp;quot;*&amp;quot;),e.style.paddingBottom=e.offsetWidth*890/1060+&amp;quot;px&amp;quot;};window.addEventListener(&amp;quot;resize&amp;quot;,n),window.addEventListener(&amp;quot;load&amp;quot;,n)}()&lt;/script&gt;&lt;p style="padding-top: 10px; color: rgb(224, 224, 224); text-align: right; margin: 0px auto; max-width: 1060px;"&gt;&lt;a href="https://infograph.venngage.com/p/119697/teaser-content-publishing-4-step-list" style="color: rgb(221, 221, 221); text-decoration: none; font-style: italic; font-size: 12px; border-right-width: 1px; border-right-style: solid; padding-right: 5px;"&gt;Teaser Content Publishing 4 Step List&lt;/a&gt;&lt;a href="https://venngage.com" style="color: rgb(221, 221, 221); text-decoration: none; font-style: italic; font-size: 12px; padding-left: 5px;"&gt;Infographic&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Absolutely amazing is that the infographics  are just fully responsive and adjust to a mobile screen without any problem. So by publishing the graphic onto the venngage site you will get as well as a html embed code sequence, which you can integrate into your site.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The above example is integrated using the HTML embed sequence and by the way, the full article here is managed within Evernote using the Cloudburo Publishing Bot for which the infographics were created.
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt;
+      &lt;div&gt;
+        I decided to embed two infographics into my landing page in order to outline the two support workflows of the Cloudburo Publishing Bot. You can find the example here
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://publishingbot.cloudburo.net/index.html#workflow"&gt;&lt;a href="https://publishingbot.cloudburo.net/index.html#workflow"&gt;https://publishingbot.cloudburo.net/index.html#workflow&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The offering comes with a free plan, which allows you to experiment with the tool and features. You are  restricted in the usage of several features, as well you can’t download the graphics as picture or pdf.  Nevertheless, it allowed me to quickly design my first infographics and publish them. The premium  pricing of 19$ is reasonable but for a micro business just producing some infographics from time to time potential a little bit high for initial investing.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Definitely, I will go on with testing the app and will update the article at a later stage.&lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ecb08793b5c848b92668e02638e30889.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Track when you get mentioned in the Internet</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/10/track-when-you-get-mentioned-in-the-internet.html"/>
@@ -542,40 +643,6 @@
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How do I disable the Create &amp; Curate Workflow</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-create-curate-workflow.html"/>
-    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-create-curate-workflow.html</id>
-    <published>2016-05-29T10:22:15Z</published>
-    <updated>2016-06-05T11:44:46+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Via the
-       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can disable the Self-Created/Curated Workflow, the Cloudburo Publishing Bot will not check your
-       &lt;i&gt;E-CurateGen&lt;/i&gt; notebook anymore for any articles.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/ccf715b6ce678a9b5591842ac616a40e.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
