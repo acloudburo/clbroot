@@ -385,12 +385,6 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.cloudburo.net/2016/05/28/how-do-i-know-when-the-publishing-of-an-article-happened.html</loc>
-    <lastmod>2016-06-05</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://curation.cloudburo.net/2016/05/28/how-to-configure-your-first-site.html</loc>
     <lastmod>2016-06-05</lastmod>
     <priority>0.7</priority>
@@ -476,6 +470,12 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html</loc>
+    <lastmod>2016-06-15</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/06/15/feature-slack-message-platform-integration.html</loc>
     <lastmod>2016-06-15</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
