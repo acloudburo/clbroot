@@ -5,10 +5,80 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-06-14T20:05:20Z</updated>
+  <updated>2016-06-15T20:13:18Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>FAQ: How will I get notified by the Cloudburo Publishing Bot ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html"/>
+    <id>https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html</id>
+    <published>2016-06-15T20:13:18Z</published>
+    <updated>2016-06-15T20:13:19+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Publishing Bot will communicate via the following channels with you:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;By default, the publishing bot will use the provided Email to get in contact with you&lt;/li&gt;
+       &lt;li&gt;Additionally you can use the very cool and handy message app &lt;a href="https://slack.com/"&gt;Slack&lt;/a&gt;. It’s our recommended app in case you want to start consolidate messages sent to you.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Cloudburo Publishing Bot will send you a message in various circumstances, as for example
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;When a site got initially configured and is ready for use&lt;/li&gt;
+       &lt;li&gt;When a change to site took place (e.g. a new article got published, or the site got regenerated due to configuration changes&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;Email Message Notification&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d5fa4691d8ac6f6ea4b3456be79ca60e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;Slack Message App Notification&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/66925c2346ccddf0677fe5168d92bc9e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Create easily your own compelling infographics for your content</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html"/>
@@ -604,46 +674,6 @@
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;&lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How do I disable the News Publishing Workflow</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html"/>
-    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html</id>
-    <published>2016-05-29T10:22:16Z</published>
-    <updated>2016-06-05T11:44:46+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Via the
-       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can disable the News Publishing Workflow, the Cloudburo Publishing Bot will not check your
-       &lt;i&gt;D-NewsGen&lt;/i&gt; notebook anymore for news articles.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/ccf715b6ce678a9b5591842ac616a40e.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
