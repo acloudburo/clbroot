@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html"/>
     <id>https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html</id>
     <published>2016-06-21T21:35:47Z</published>
-    <updated>2016-06-21T22:10:15+00:00</updated>
+    <updated>2016-06-21T22:28:23+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -64,12 +64,19 @@
         You can checkout the full article, via the link provided at the end of this article.
       &lt;/div&gt;
       &lt;div&gt;
-       &lt;p&gt; &lt;/p&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/a9f140fc4ca1c333fe1451bfbdf46798.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-a9f140fc4ca1c333fe1451bfbdf46798.png" /&gt;&lt;/a&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/a9f140fc4ca1c333fe1451bfbdf46798.png" /&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; &lt;/p&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="http://www.copyblogger.com/cdn-origin/images/650/anatomy-of-a-meaningful-marketing-story.pdf"&gt;Downloadable PDF.&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
