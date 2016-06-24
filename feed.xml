@@ -5,10 +5,58 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-06-21T21:35:47Z</updated>
+  <updated>2016-06-24T11:41:41Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>How to install the Slack Publishing Bot App</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/24/how-to-install-the-slack-publishing-bot-app.html"/>
+    <id>https://curation.cloudburo.net/2016/06/24/how-to-install-the-slack-publishing-bot-app.html</id>
+    <published>2016-06-24T11:41:41Z</published>
+    <updated>2016-06-24T11:41:41+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Publishing Bot comes with its own Slack App, which integrates the Cloudburo Publishing Bot will the Slack messaging app.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        This is work in progress and will be updated in near-term.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In the current version, the Cloudburo Bots Platform already is providing notification messages sent to Slack. Refer to the following
+       &lt;a href="https://curation.cloudburo.net/2016/06/15/feature-slack-message-platform-integration.html"&gt;article&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>The Amazingly Simple Anatomy of a Meaningful Marketing Story</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html"/>
@@ -98,7 +146,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/15/feature-slack-message-platform-integration.html"/>
     <id>https://curation.cloudburo.net/2016/06/15/feature-slack-message-platform-integration.html</id>
     <published>2016-06-15T20:33:08Z</published>
-    <updated>2016-06-16T19:23:24+00:00</updated>
+    <updated>2016-06-24T11:41:39+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -587,70 +635,6 @@
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>The science behind shareable content</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html"/>
-    <id>https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html</id>
-    <published>2016-06-09T18:24:05Z</published>
-    <updated>2016-06-16T19:23:24+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/41178d5ed1547a3718fbed1e0b63ae29.jpeg" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-        This is very interesting article which shares the insights of a presentation given by Kholben Vodden founder of StoryScience.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        By referring  to various studies, the article drills down into the topics of
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;how ideas spread&lt;/li&gt;
-       &lt;li&gt;motivations for sharing content&lt;/li&gt;
-       &lt;li&gt;Influencing the sharing decision&lt;/li&gt;
-       &lt;li&gt;writing emotional headlines&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        If you are interested in the science of shareable content is definitely a very worthwhile reading.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You can find the full article here.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;a href="https://searchenginewatch.com/2016/06/08/the-science-behind-shareable-content/"&gt;Link&lt;/a&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
