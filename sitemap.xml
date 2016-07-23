@@ -493,6 +493,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net/2016/07/23/feature-login-with-your-slack-account.html</loc>
+    <lastmod>2016-07-23</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net/tags/feature.html</loc>
     <lastmod>2016-06-16</lastmod>
     <priority>0.9</priority>
@@ -622,6 +628,18 @@
     <loc>https://curation.cloudburo.net/2016.html</loc>
     <lastmod>2016-06-16</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/07.html</loc>
+    <lastmod>2016-06-16</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/07/23.html</loc>
+    <lastmod>2016-06-16</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
