@@ -140,7 +140,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/05/20/getting-started-the-content-site-in-a-nutshell.html</loc>
-    <lastmod>2016-06-16</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -200,7 +200,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/06/06/content-publishing-guidelines-and-community-rules.html</loc>
-    <lastmod>2016-06-16</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -272,19 +272,19 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html</loc>
-    <lastmod>2016-06-16</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/10/01/basic-concepts-and-features-of-the-cloudburo-curation-platform.html</loc>
-    <lastmod>2016-06-16</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html</loc>
-    <lastmod>2016-06-16</lastmod>
+    <lastmod>2016-07-23</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -547,7 +547,7 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.cloudburo.net/tags/gettingstarted.html</loc>
+    <loc>https://curation.cloudburo.net/tags/gettingstarted-pubbot.html</loc>
     <lastmod>2016-06-16</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -602,6 +602,12 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/tags/accountconfig.html</loc>
+    <lastmod>2016-06-16</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/tags/gettingstarted.html</loc>
     <lastmod>2016-06-16</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
