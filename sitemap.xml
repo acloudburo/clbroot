@@ -577,12 +577,6 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.cloudburo.net/tags/xtopic-inspiration.html</loc>
-    <lastmod>2016-06-16</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://curation.cloudburo.net/tags/pubbot-education.html</loc>
     <lastmod>2016-06-16</lastmod>
     <priority>0.9</priority>
