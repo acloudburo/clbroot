@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/05/14/feature-responsive-mobile-optimized-curation-website.html</loc>
-    <lastmod>2016-07-23</lastmod>
+    <lastmod>2016-07-24</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -272,7 +272,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html</loc>
-    <lastmod>2016-07-23</lastmod>
+    <lastmod>2016-07-24</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -308,7 +308,7 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html</loc>
-    <lastmod>2016-07-23</lastmod>
+    <lastmod>2016-07-24</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -517,12 +517,6 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.cloudburo.net/tags/video.html</loc>
-    <lastmod>2016-06-16</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://curation.cloudburo.net/tags/pubbot-siteconfig.html</loc>
     <lastmod>2016-06-16</lastmod>
     <priority>0.9</priority>
@@ -589,6 +583,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net/tags/pubbot-education.html</loc>
+    <lastmod>2016-06-16</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net/tags/platform-admingui.html</loc>
     <lastmod>2016-06-16</lastmod>
     <priority>0.9</priority>
@@ -608,12 +608,6 @@
   </url>
   <url>
     <loc>https://curation.cloudburo.net/tags/pubbot-faq.html</loc>
-    <lastmod>2016-06-16</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.cloudburo.net/tags/pubbot-education.html</loc>
     <lastmod>2016-06-16</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
