@@ -298,7 +298,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/23/feature-login-with-your-slack-account.html"/>
     <id>https://curation.cloudburo.net/2016/07/23/feature-login-with-your-slack-account.html</id>
     <published>2016-07-23T07:08:37Z</published>
-    <updated>2016-07-23T08:05:24+00:00</updated>
+    <updated>2016-07-24T07:07:04+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -565,11 +565,11 @@
 &lt;/div&gt;</content>
   </entry>
   <entry>
-    <title>Feature: Slack Message Platform Integration</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/15/feature-slack-message-platform-integration.html"/>
-    <id>https://curation.cloudburo.net/2016/06/15/feature-slack-message-platform-integration.html</id>
-    <published>2016-06-15T20:33:08Z</published>
-    <updated>2016-07-23T08:05:20+00:00</updated>
+    <title>FAQ: How will I get notified by the Cloudburo Publishing Bot ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html"/>
+    <id>https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html</id>
+    <published>2016-06-15T20:13:18Z</published>
+    <updated>2016-07-23T13:02:34+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -578,94 +578,48 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt;
-        By default the Cloudburo Publishing Bot will communicate to you via the Email channel.
+        The Cloudburo Publishing Bot will communicate via the following channels with you:
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
-      &lt;div&gt;
-        You will be notified by the Publishing Bot in various circumstances, refer to the following article.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        We assume that you are a Slack user and know the various integration options of the message app, otherwise check out the tutorials of the Slack site
-      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;By default, the publishing bot will use the provided Email to get in contact with you&lt;/li&gt;
+       &lt;li&gt;Additionally you can use the very cool and handy message app &lt;a href="https://slack.com/"&gt;Slack&lt;/a&gt;. It’s our recommended app in case you want to start consolidate messages sent to you.&lt;/li&gt;
+      &lt;/ul&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-       &lt;u&gt;&lt;b&gt;Configure a Custom Integrations - Incoming WebHook&lt;/b&gt;&lt;/u&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The Cloudburo Publishing Bot will communicate with you via a Slack Incoming WebHook
+        The Cloudburo Publishing Bot will send you a message in various circumstances, as for example
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;When a site got initially configured and is ready for use&lt;/li&gt;
+       &lt;li&gt;When a change to site took place (e.g. a new article got published, or the site got regenerated due to configuration changes&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;Email Message Notification&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/00080582ac0ac3bbf35979eeaad8c80e.png" /&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d5fa4691d8ac6f6ea4b3456be79ca60e.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
-       &lt;br&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
       &lt;/div&gt;
       &lt;div&gt;
-       &lt;u&gt;&lt;b&gt;Configure the link in the Cloudburo Bot Memberzone&lt;/b&gt;&lt;/u&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        In the example above we configured a WebHook to the channel #random. Click on the Pencil Button and copy the Webhook URL, which you will register in the Cloudburo Bot Memberzone user configuration.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/c095e3212241b43657205564455c825d.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Log in to the Cloudburo Bot Memberzone and go to the User Profile and paste the URL to the “Link Slack Message Channel” input field.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/88c214fcef26df523a5b71f8edcc4b93.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-        Having saved the information, you will get a test message sent by Cloudburo Publishing Bot
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/7521e9d0b56c3355825e9645cf3a7efa.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        So you know that the channel communication is working ( we will stop sending you the message via the Email Channel). From now on you will get the notification (e.g. when a new article got published via Slack)
+       &lt;u&gt;&lt;b&gt;Slack Message App Notification&lt;/b&gt;&lt;/u&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -675,13 +629,7 @@
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/66925c2346ccddf0677fe5168d92bc9e.png" /&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
