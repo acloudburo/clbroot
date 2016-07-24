@@ -5,16 +5,34 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-07-24T04:07:57Z</updated>
+  <updated>2016-07-24T12:06:35Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>A developer blog with nice code formatting published out from Evernote</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html"/>
+    <id>https://curation.cloudburo.net/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html</id>
+    <published>2016-07-24T12:06:35Z</published>
+    <updated>2016-07-24T12:06:35+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;&lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How to Power Social Media Productivity with Evernote</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html"/>
     <id>https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html</id>
     <published>2016-07-24T04:07:57Z</published>
-    <updated>2016-07-24T09:06:36+00:00</updated>
+    <updated>2016-07-24T12:06:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -82,6 +100,213 @@
       &lt;/div&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;a href="https://blog.evernote.com/blog/2016/05/02/how-to-power-social-media-productivity-with-evernote/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Track when you get mentioned in the Internet</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/track-when-you-get-mentioned-in-the-internet.html"/>
+    <id>https://curation.cloudburo.net/2016/07/24/track-when-you-get-mentioned-in-the-internet.html</id>
+    <published>2016-07-24T03:02:51Z</published>
+    <updated>2016-07-24T12:06:30+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        When you start your micro enterprise it’s very important that you monitor the internet and its social channels about mentioning of your company.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        For example refer to the
+       &lt;a href="https://medium.com/@RealtimeBoard/how-we-learned-to-get-into-product-hunt-top-5-the-story-of-realtimeboard-f16e51ca4b17#.4723t2xuk"&gt;following article&lt;/a&gt;, which tells the story how a startup missed the mentioning of its company on the famous Product Hunt website.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        By not getting known that your company is trending on a social channel or website you miss the huge opportunity to gain new customer or sales lead. You miss a one-time opportunity to react on comments or any other kind of engagement triggered by the publishing.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Luckily there are quite handy tools out there which allow you automate the monitoring the web for mentioning your name.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        I currently use two tools, which complement each other.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://notify.ly"&gt;&lt;u&gt;&lt;b&gt;Notify.ly&lt;/b&gt;&lt;/u&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Notify.ly will track a growing number of social media apps about a user-defined set of keywords and publish them either to your Slack or Hipchat account.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        If you serious about a startup you have to get used to Slack (which is my preferred message aggregator app) or Hipchat. The will ease you life dramatically in context of monitoring a variety of channels, be it your production machines or any kind of event channel In this article, it will get any notification event of Notify.ly.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In the example below, Notify.ly sent me a message to my Slack marketing channel only my mobile, informing me that “QRator India”, was publishing a tweet which includes my keyword “publishingbot.cloudburo.net”. Actually, QRator India was republishing a tweet originated by me. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c2c0ee453499a2dba1c22c4b184ca18c.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Notify.ly will monitor your defined set of keywords on different channels, refer to the example below, these are keywords which get tracked on twitter, producthunt, tumblr, hacker news, reddit or youtube.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d76356c073327c06e34b25b0effd6978.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The whole setup is straightforward and easy to do.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://www.google.ch/alerts#"&gt;&lt;u&gt;&lt;b&gt;Google Alerts&lt;/b&gt;&lt;/u&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The second monitoring solution which I use is provided by our big brother google. Google offers with “Google Alert” a nifty feature. It’s actually  a content change detection and notification service. What do you need more ?
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        As you can see here, I monitor the web for my company “Cloudburo”, my product “publishingbot”, as well as name.
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c28840215dbf8886d5880a15ed5823e1.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The detail window gives you the possibility to fine tune your alerting
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        At the end of the window you can see of list of matched results, obviously the alert mechanism will track only new published content in this case with the frequency “As-it-happens”.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/6897761d27b75612992290e25fb20e6a.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Important here that we deliver the result to an RSS feed, which we then integrate in the our Slack message app. Select the RSS feed url in the alert dashboard.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/333beb35a605cadf0f589cc0c131c855.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        And add it as a to be monitored RSS feed in Slack
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/bf6de5d88faecedd6244287816c3f972.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In the example below, we add it feed to our marketing channel, which gets also fed by the Notif.ly social channel monitor. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ee471c51d2552ec30c6509656164e89f.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Having done that you can relax and be sure that you will get notified immediately in Slack when you start up is moving up the internet mentioning ladder.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;BTW: This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
@@ -278,7 +503,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html"/>
     <id>https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html</id>
     <published>2016-06-21T21:35:47Z</published>
-    <updated>2016-07-24T08:26:16+00:00</updated>
+    <updated>2016-07-24T12:06:26+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -353,175 +578,6 @@
       &lt;/div&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;a href="http://www.copyblogger.com/meaningful-marketing-story/"&gt;Link&lt;/a&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>FAQ: How will I get notified by the Cloudburo Publishing Bot ?</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html"/>
-    <id>https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html</id>
-    <published>2016-06-15T20:13:18Z</published>
-    <updated>2016-07-23T13:02:34+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The Cloudburo Publishing Bot will communicate via the following channels with you:
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;By default, the publishing bot will use the provided Email to get in contact with you&lt;/li&gt;
-       &lt;li&gt;Additionally you can use the very cool and handy message app &lt;a href="https://slack.com/"&gt;Slack&lt;/a&gt;. It’s our recommended app in case you want to start consolidate messages sent to you.&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The Cloudburo Publishing Bot will send you a message in various circumstances, as for example
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;When a site got initially configured and is ready for use&lt;/li&gt;
-       &lt;li&gt;When a change to site took place (e.g. a new article got published, or the site got regenerated due to configuration changes&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;u&gt;&lt;b&gt;Email Message Notification&lt;/b&gt;&lt;/u&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/d5fa4691d8ac6f6ea4b3456be79ca60e.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;u&gt;&lt;b&gt;Slack Message App Notification&lt;/b&gt;&lt;/u&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/66925c2346ccddf0677fe5168d92bc9e.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Create easily your own compelling infographics for your content</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html"/>
-    <id>https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html</id>
-    <published>2016-06-14T20:05:20Z</published>
-    <updated>2016-07-24T08:26:13+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        For my micro business, I was looking for an easy to manage infographic creation solution. 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Luckily I found very quickly the solution offered by Venngage. A browser based infographic creation frontend, which manages the content in the cloud and provides the possibility to share the created infographics on their hosted site.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;a href="https://infograph.venngage.com"&gt;&lt;a href="https://infograph.venngage.com"&gt;https://infograph.venngage.com&lt;/a&gt;&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The overall solution is really top-notch. The creation GUI design and usability is just outstanding and serves me as a good showcase, what can be achieved by a well designed HTML 5 browser app. It’s very well crafted and a lot of attention is given to the details.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The below infographics I could create just within the first hour of using the tool, integration of icons, uploading and reusing images, resizing and adjusting of graphic assets etc. is straightforward and works from a performance point view as quickly as any native OS X app.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/e923caccbd52637eef4bd5057da43342.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Absolutely amazing is that the infographics  are just fully responsive and adjust to a mobile screen without any problem. So by publishing the graphic onto the venngage site you will get as well as a html embed code sequence, which you can integrate into your site.
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;/div&gt;
-      &lt;div&gt;
-        I decided to embed two infographics into my landing page in order to outline the two support workflows of the Cloudburo Publishing Bot. You can find the example here
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;a href="https://publishingbot.cloudburo.net/index.html#workflow"&gt;&lt;a href="https://publishingbot.cloudburo.net/index.html#workflow"&gt;https://publishingbot.cloudburo.net/index.html#workflow&lt;/a&gt;&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The offering comes with a free plan, which allows you to experiment with the tool and features. You are  restricted in the usage of several features, as well you can’t download the graphics as picture or pdf.  Nevertheless, it allowed me to quickly design my first infographics and publish them. The premium  pricing of 19$ is reasonable but for a micro business just producing some infographics from time to time potential a little bit high for initial investing (during its bootstrapping phase). As said in that constellation the freemium version is doing a very good job.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Definitely, I will go on with testing the app and will update the article at a later stage.&lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/ecb08793b5c848b92668e02638e30889.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        By the way, the full article here is managed within Evernote using the
-       &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt; for which the infographics were created.
-      &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
