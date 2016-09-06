@@ -5,10 +5,87 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-09-05T20:44:56Z</updated>
+  <updated>2016-09-06T22:06:02Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>How to revoke Cloudburo’s permission to your Evernote Account</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html"/>
+    <id>https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html</id>
+    <published>2016-09-06T22:06:02Z</published>
+    <updated>2016-09-06T22:06:06+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        There are two ways to revoke access given to the Cloudburo Publishing Bot.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;Directly in Evernote&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        At any time you can revoke access to your Evernote Account by clicking onto the following link
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://www.evernote.com/AuthorizedServices.action"&gt;&lt;a href="https://www.evernote.com/AuthorizedServices.action"&gt;https://www.evernote.com/AuthorizedServices.action&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You will be directed to the Applications Authorization Page. You will see on the list of authorized applications the “Cloudburo Curation Platform”. Press “Revoke Access”, which will invalidate the security token given to the Cloudburo Publishing Bot. The Publishing Bot will not work anymore.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/314af2b15c0583ef79fb48b51e3baceb.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;Via the Cloudburo Bots Platform&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Login to the Cloudburo Bots Platform and head over to the User Config page. Press the “UNLINK” button of the column “Link Evernote Account”. This will delete the Evernote Token from our platform.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/f37dbd48e927faa7746b1aea08ba02d8.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How To: Connect the Cloudburo Slack Bot</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html"/>
@@ -568,90 +645,6 @@
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>The Amazingly Simple Anatomy of a Meaningful Marketing Story</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html"/>
-    <id>https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html</id>
-    <published>2016-06-21T21:35:47Z</published>
-    <updated>2016-09-03T08:13:48+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        When it comes to excellent stories about content curation and content marketing,
-       &lt;a href="http://www.copyblogger.com"&gt;copyblogger.com&lt;/a&gt;  is one of our favourite sites.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        It provides a source of articles, tutorials and guidelines how you can build your authority with powerful effective content marketing.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        As an inspiring example checkout the below infographic, which outlines the ingredients for telling a compelling story which will grab the attention of his readers and communities.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        As the point out in the article:
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        “
-       &lt;i&gt;Tell the right story any you can capture attention, entertain, enlighten and persuade all in the course of just a few minutes.&amp;ldquo;&lt;/i&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Media designer Lauren Mancke created the following infographic around the topic “How to structure your marketing story&amp;rdquo;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You can checkout the full article, via the link provided at the end of this article.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/a9f140fc4ca1c333fe1451bfbdf46798.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;a href="http://www.copyblogger.com/cdn-origin/images/650/anatomy-of-a-meaningful-marketing-story.pdf"&gt;Downloadable PDF.&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;a href="http://www.copyblogger.com/meaningful-marketing-story/"&gt;Link&lt;/a&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
