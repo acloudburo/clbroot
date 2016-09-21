@@ -403,6 +403,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html</loc>
+    <lastmod>2016-09-21</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html</loc>
     <lastmod>2016-09-15</lastmod>
     <priority>0.7</priority>
@@ -634,6 +640,12 @@
     <loc>https://curation.cloudburo.net/2016/09.html</loc>
     <lastmod>2016-09-15</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/09/21.html</loc>
+    <lastmod>2016-09-15</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
