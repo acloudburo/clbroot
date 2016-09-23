@@ -5,16 +5,83 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-09-21T19:48:19Z</updated>
+  <updated>2016-09-23T19:37:56Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>Bots Platform doesn't load when using Internet Explorer</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html"/>
+    <id>https://curation.cloudburo.net/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html</id>
+    <published>2016-09-23T19:37:56Z</published>
+    <updated>2016-09-23T19:37:58+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Bots Platform is based on Websocket Technology and unfortunately there are some incompatibilities when you use the Internet Explorer in combination with out content delivery network provider.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        I.e it could be that the loading of bots.cloudburo.net will not complete when accessing the site with an Internet Explorer.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You will see the following Warning on our login site
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d406c3d182ab3a39ce88bdfe0c1ac56e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Please use the alternate URL provided in the link, which will bypass our content delivery network and works for Internet Explorer. We expect that this issue can be fixed in a future setup.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How to connect the Publishing Bot by keeping notebook privacy</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html"/>
     <id>https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html</id>
     <published>2016-09-21T19:48:19Z</published>
-    <updated>2016-09-21T19:48:24+00:00</updated>
+    <updated>2016-09-22T22:54:21+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -151,7 +218,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/18/content-curation-tools.html"/>
     <id>https://curation.cloudburo.net/2016/09/18/content-curation-tools.html</id>
     <published>2016-09-18T11:54:04Z</published>
-    <updated>2016-09-18T11:54:05+00:00</updated>
+    <updated>2016-09-22T22:54:21+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -219,7 +286,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html"/>
     <id>https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html</id>
     <published>2016-09-06T22:06:02Z</published>
-    <updated>2016-09-15T22:17:19+00:00</updated>
+    <updated>2016-09-22T22:54:21+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -308,7 +375,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html"/>
     <id>https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html</id>
     <published>2016-09-05T20:44:56Z</published>
-    <updated>2016-09-15T22:17:19+00:00</updated>
+    <updated>2016-09-22T22:54:21+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -440,7 +507,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html"/>
     <id>https://curation.cloudburo.net/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html</id>
     <published>2016-07-24T12:06:35Z</published>
-    <updated>2016-09-18T13:30:06+00:00</updated>
+    <updated>2016-09-22T22:54:21+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -487,83 +554,6 @@
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How to Power Social Media Productivity with Evernote</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html"/>
-    <id>https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html</id>
-    <published>2016-07-24T04:07:57Z</published>
-    <updated>2016-09-15T22:17:19+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div style=""&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The following article by Lolitta Gevorkova shows you some strategies how you can use Evernote to power you social media productivity.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        She describes quite nicely, why she likes  working in the Evernote One Workspace
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;i&gt;&amp;ldquo;I’m a visual woman and love to work in organized, and aesthetically pleasing environments. This is the case for my home, physical workspace, and &lt;a href="https://blog.evernote.com/blog/2016/03/19/spring-cleaning-your-digital-spaces-the-evernote-way/"&gt;digital workspace&lt;/a&gt;. And without a doubt, it’s something that’s invaluable when it comes to making sure that my job’s responsibilities are well organised.&amp;rdquo;&lt;/i&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/77e9ea8d13bd7e05aacac61814d520ce.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Refer to the article to get known her  five ways that Evernote can help you stay on top of your game when it comes to Social Media Productivity:
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;Create a Content Calendar&lt;/li&gt;
-       &lt;li&gt;Manage a Creative Asset Library&lt;/li&gt;
-       &lt;li&gt;Organize Influencer Correspondence&lt;/li&gt;
-       &lt;li&gt;Build Your Resource Library&lt;/li&gt;
-       &lt;li&gt;Plan a Social Media Strategy&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div style=""&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;a href="https://blog.evernote.com/blog/2016/05/02/how-to-power-social-media-productivity-with-evernote/"&gt;Link&lt;/a&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
