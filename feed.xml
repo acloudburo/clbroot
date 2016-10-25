@@ -5,16 +5,40 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-09-23T19:47:57Z</updated>
+  <updated>2016-10-25T22:03:44Z</updated>
   <author>
     <name>Felix K?stahler</name>
   </author>
+  <entry>
+    <title>Is Your Data Safe in Evernote?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/10/25/is-your-data-safe-in-evernote.html"/>
+    <id>https://curation.cloudburo.net/2016/10/25/is-your-data-safe-in-evernote.html</id>
+    <published>2016-10-25T22:03:44Z</published>
+    <updated>2016-10-25T22:03:45+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      As with every cloud-based product, which reliefs you from the burden of managing your data locally, you have to ask the question “how safte your data” are. &lt;br/&gt;
+    &lt;br/&gt;
+    You want to be sure that in case of defaulting of the company you still have the data available. Furthermore it must be clear that you are the owner of the data.&lt;br/&gt;
+    &lt;br/&gt;
+    In context of Evernote Michal Hyatt outlines the various aspects around this topic and concludes the data are safe for the following six reasons.&lt;br/&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    You can find all the details to the six point in his blog article.&lt;br/&gt;
+    &lt;a href="http://michaelhyatt.com/is-your-data-safe-in-evernote.html"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How do I solve failures when trying to link Evernote or Slack ?</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/23/how-do-i-solve-failures-when-trying-to-link-evernote-or-slack.html"/>
     <id>https://curation.cloudburo.net/2016/09/23/how-do-i-solve-failures-when-trying-to-link-evernote-or-slack.html</id>
     <published>2016-09-23T19:47:57Z</published>
-    <updated>2016-09-23T19:47:58+00:00</updated>
+    <updated>2016-10-07T08:01:28+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -95,7 +119,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html"/>
     <id>https://curation.cloudburo.net/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html</id>
     <published>2016-09-23T19:37:56Z</published>
-    <updated>2016-09-23T19:37:58+00:00</updated>
+    <updated>2016-10-07T08:01:28+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -162,7 +186,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html"/>
     <id>https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html</id>
     <published>2016-09-21T19:48:19Z</published>
-    <updated>2016-09-22T22:54:21+00:00</updated>
+    <updated>2016-10-07T08:01:28+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -299,7 +323,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/18/content-curation-tools.html"/>
     <id>https://curation.cloudburo.net/2016/09/18/content-curation-tools.html</id>
     <published>2016-09-18T11:54:04Z</published>
-    <updated>2016-09-22T22:54:21+00:00</updated>
+    <updated>2016-10-07T08:01:28+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -367,7 +391,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html"/>
     <id>https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html</id>
     <published>2016-09-06T22:06:02Z</published>
-    <updated>2016-09-22T22:54:21+00:00</updated>
+    <updated>2016-10-07T08:01:28+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -446,138 +470,6 @@
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How To: Connect the Cloudburo Slack Bot</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html"/>
-    <id>https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html</id>
-    <published>2016-09-05T20:44:56Z</published>
-    <updated>2016-09-22T22:54:21+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The primary interaction and command channel for the Cloudburo Bots Member Zone is via
-       &lt;a href="https://slack.com"&gt;Slack&lt;/a&gt;, which is one of the best messaging app available. You can
-       &lt;a href="https://slack.com/is"&gt;check out a tour here&lt;/a&gt;.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        If you are new to Slack, we strongly advise you to open an account (which is in the basic setup free), so that you can easily establish a team with our Cloudburo Slack Bot. You can directly communicate with him (will be released soon), as well as we send you any kind of notification to you preferred Slack channel.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        When you have a Slack Account and Team setup, you can link it with our Cloudburo Slack Bot.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Head over the User Profile site and click on the “Link Slack App” Button.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/7023b544e677820e692a13b150230b41.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        When you click on the “Link Slack App” button, the “Authorize access to your account” pop up of Slack will be shown (you are now communicating with Slack and not Cloudburo anymore). Refer to the screenshot below.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Slack will ask you if you want to provide Cloudburo access to your Slack Account, so that we and you can communicate via the Cloudburo Slack Bot.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;ul&gt;
-       &lt;li&gt;We ask the right to integrate our “commands”, i.e. they will allow you to control and manage your Cloudburo Bots Member Zone account directly out of Slack.&lt;/li&gt;
-       &lt;li&gt;We ask the right to send you notifications to a channel, which you have chosen (in the screenshot below we will send you notifications to the “general” channel&lt;/li&gt;
-       &lt;li&gt;We ask the right to add our slack bot to your account, which is called @cloudburobot&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/26fdbe5f3561f59ee2801325bdb5be71.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-        When you press the “Authorize” button in the Slack popup, you will be redirected to our page and the Slack integration will be completed. The button status will be changed to “LINKED”.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/07590518e39632c3b6203decf6d8430d.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-        If you head over to your Slack Team Account you will see, that a new Slack Bot “cloudburobot&amp;quot; has joined your team
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/54f181582028065fce56296e27fe936e.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;/div&gt;
-      &lt;div&gt;
-        Congratulation, all our notification and communication with you may be happen now via Slack.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        For example in the following screen shot you see messages by the Publishing Bot informing the user about the completion of a site publishing. taks.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/57471f7b6e6deffcb36116614d9fcdae.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
