@@ -1,5 +1,5 @@
-<!doctype html> 
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible" />
@@ -9,517 +9,402 @@
       (function(d,e,j,h,f,c,b){d.GoogleAnalyticsObject=f;d[f]=d[f]||function(){(d[f].q=d[f].q||[]).push(arguments)},d[f].l=1*new Date();c=e.createElement(j),b=e.getElementsByTagName(j)[0];c.async=1;c.src=h;b.parentNode.insertBefore(c,b)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-35696879-2", location.hostname);ga("send","pageview");
     </script>
     <link href="/favicon.png" rel="icon" type="image/png" />
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+    <!--HTML5 shiv for IE8 support--><!--[if lt IE 9]
+    | <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script-->
   </head>
   <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button class="navbar-toggle collapsed" data-target=".navbar-ex1-collapse" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/">doc@cloudburo</a>
+    <div class="col-sm-3 sidebar" id="secondary" style="display: none;">
+      <aside>
+        <div class="about">
+          <h4>
+            <a class="sidebarlink" href="/"><i class="fa fa-chevron-right"></i>    Home     <i class="fa fa-home"></i></a>
+          </h4>
+          <h4>
+            <a class="sidebarlink" href="/blog.html"><i class="fa fa-chevron-right"></i>    Articles   </a>
+          </h4>
+          <h4>
+            <a class="sidebarlink" href="/menu1.html"><i class="fa fa-chevron-right"></i>    About   </a>
+          </h4>
+          <h4>
+            <a class="sidebarlink" href="/menu2.html"><i class="fa fa-chevron-right"></i>    Support   </a>
+          </h4>
         </div>
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-          <ul class="nav navbar-nav">
-            <li>
-              <a href="/blog.html"> Articles  </a>
-            </li>
-            <li>
-              <a href="/menu1.html"> About  </a>
-            </li>
-            <li>
-              <a href="/menu2.html"> Support  </a>
-            </li>
-            <li class="dropdown">
-              <a aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Categories <span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li>
-                  <a href="/tags/faq.html">faq (2)</a>
-                </li>
-                <li>
-                  <a href="/tags/platform-admingui.html">platform.admingui (10)</a>
-                </li>
-                <li>
-                  <a href="/tags/platform-errors.html">platform.errors (2)</a>
-                </li>
-                <li>
-                  <a href="/tags/platform-howto.html">platform.howto (9)</a>
-                </li>
-                <li>
-                  <a href="/tags/platform-slack.html">platform.slack (2)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-analytics.html">pubbot.analytics (2)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-editnotes.html">pubbot.editnotes (6)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-education.html">pubbot.education (7)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-evernote.html">pubbot.evernote (4)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-faq.html">pubbot.faq (9)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-feature.html">pubbot.feature (4)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-getstarted.html">pubbot.getstarted (6)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-howto.html">pubbot.howto (4)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-integration.html">pubbot.integration (2)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-quicktip.html">pubbot.quicktip (3)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-showcase.html">pubbot.showcase (5)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-siteconfig.html">pubbot.siteconfig (13)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-themes.html">pubbot.themes (2)</a>
-                </li>
-                <li>
-                  <a href="/tags/pubbot-workflow.html">pubbot.workflow (2)</a>
-                </li>
-              </ul>
-            </li>
-            <ul class="list-unstyled list-inline nav navbar-nav navbar-right"></ul>
-            <li><a href="https://twitter.com/talfco">
-                        <i class="fa fa-lg fa-inverse fa-twitter-square"></i></a>
-            </li>
-            <li><a href="https://plus.google.com/u/1/b/102868953630532463137/+CloudburoCh/posts">
-                        <i class="fa fa-lg fa-inverse fa-google-plus-square"></i></a>
-            </li>
+        <div class="tags">
+          <h4>
+            Categories
+          </h4>
+          <ul class="list-unstyled">
+            <a class="label label-default" href="/tags/faq.html">faq (2)</a>
+            <a class="label label-default" href="/tags/platform-admingui.html">platform.admingui (10)</a>
+            <a class="label label-default" href="/tags/platform-errors.html">platform.errors (2)</a>
+            <a class="label label-default" href="/tags/platform-howto.html">platform.howto (9)</a>
+            <a class="label label-default" href="/tags/platform-slack.html">platform.slack (2)</a>
+            <a class="label label-default" href="/tags/pubbot-analytics.html">pubbot.analytics (2)</a>
+            <a class="label label-default" href="/tags/pubbot-editnotes.html">pubbot.editnotes (6)</a>
+            <a class="label label-default" href="/tags/pubbot-education.html">pubbot.education (7)</a>
+            <a class="label label-default" href="/tags/pubbot-evernote.html">pubbot.evernote (4)</a>
+            <a class="label label-default" href="/tags/pubbot-faq.html">pubbot.faq (9)</a>
+            <a class="label label-default" href="/tags/pubbot-feature.html">pubbot.feature (4)</a>
+            <a class="label label-default" href="/tags/pubbot-getstarted.html">pubbot.getstarted (6)</a>
+            <a class="label label-default" href="/tags/pubbot-howto.html">pubbot.howto (4)</a>
+            <a class="label label-default" href="/tags/pubbot-integration.html">pubbot.integration (2)</a>
+            <a class="label label-default" href="/tags/pubbot-quicktip.html">pubbot.quicktip (3)</a>
+            <a class="label label-default" href="/tags/pubbot-showcase.html">pubbot.showcase (5)</a>
+            <a class="label label-default" href="/tags/pubbot-siteconfig.html">pubbot.siteconfig (13)</a>
+            <a class="label label-default" href="/tags/pubbot-themes.html">pubbot.themes (2)</a>
+            <a class="label label-default" href="/tags/pubbot-workflow.html">pubbot.workflow (2)</a>
           </ul>
         </div>
-      </div>
-    </nav>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-9 col-md-9">
-          <h1>
-            Getting Started: The Content Site in a nutshell
-          </h1>
-          <small class="label label-default">pubbot.getstarted</small>
-          <hr />
-          <p>
-            <span class="glyphicon glyphicon-time"></span> Posted on May 20
-          </p>
-          <hr />
-          <div class="row">
-            <div class="article">
-              <p><span/></p>
-              
-              <p><div>
-                  The Content Site has a blog structure setup which is concentrated around your published articles. the site is based on a
-                 <a href="https://curation.cloudburo.net/">responsive design</a> in order to provide a optimal reading experience on different devices.
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  The four main pages steering your content are:
-                </div>
-                <div>
-                 <br>
-                </div>
-                <ul>
-                 <li>The Article List Page</li>
-                 <li>The Single Article Page</li>
-                 <li>The Category List Page</li>
-                 <li>The ByYear List Page</li>
-                </ul>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  Beside these four main pages, you are free to define additional  simple pages which can be linked into the Header- or Footer area.
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                 <u><b><span style="font-size: 24px;">The Article List Page</span></b></u>
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  The article list page is by default the index (entry) page of your content site. It will list all articles in chronological together with a short excerpt of the article. The „Read More“ button will open the Single Article Page when pressed.
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div></p>
-              
-            </div>
-            <img class="img-responsive img-thumbnail article" src="/images/43f1655913c38cc8285556b30e71a51b.png" />
-            <div class="article">
-              <p><span/>        </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  As a side-information: You may chose to define a dedicated index page by your own. In this case the Article List Page will be available via the HEADER menu.
-                </div>
-                <div>
-                 <span style="font-size: 24px;"><br></span>
-                </div>
-                <div>
-                 <u><b><span style="font-size: 24px;">The  Single Article Page</span></b></u>
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  The Single Article Page is the main page and will visualize your Evernote note content. 
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div></p>
-              
-            </div>
-            <img class="img-responsive img-thumbnail article" src="/images/ca7af949b2d0d648a9da4d17f174032b.png" />
-            <div class="article">
-              <p><span/>        </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  The page consists of the following structural areas.
-                </div>
-                <div>
-                 <b><span style="font-size: 18px;"><br></span></b>
-                </div>
-                <div>
-                 <b><span style="font-size: 18px;">HEADER AREA</span></b>
-                </div>
-                <div>
-                  Consists of the Home Link-, Menu- and Social Media Icons sections. All elements are user configurable during your site setup.
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div></p>
-              
-            </div>
-            <img class="img-responsive img-thumbnail article" src="/images/12ed211db4c0f1f9c519cd026683a282.png" />
-            <div class="article">
-              <p><span/>        </div>
-                <div>
-                 <br>
-                </div>
-                <ul>
-                 <li>By clicking on the „Home Link“ you will go back to the index page.</li>
-                 <li>By default there is a „Categories“ and „ByYear“ menu which groups your published content.</li>
-                 <li>Additional user defined menus will be added (up to 4), e.g link to an About or Contact page.</li>
-                 <li>&ldquo;Social Media Icons&rdquo;, allows you to link to your Social media accounts. Clicking on on an icon will open your social media home page. (Twitter, Facebook, Linkedin, Google Plus and GitHub are supported)</li>
-                </ul>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  Below another Header Example with the „zurich4u&quot; Home Link, two user defined menu entries to an „About“ and „Contact“ page, two default menu entries for grouping your content by categories or year, as well as a Facebook Social Media Icon.
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div></p>
-              
-            </div>
-            <img class="img-responsive img-thumbnail article" src="/images/4c3cfe8777f80c13bffccd63cab6cce0.png" />
-            <div class="article">
-              <p><span/>        </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  The menu is responsive and will collapse to the „Hamburger“ style in case the device screen is too small to display the full menu.
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div></p>
-              
-            </div>
-            <img class="img-responsive img-thumbnail article" src="/images/01a0e4a0e28eea15113d0a7276b7ca41.png" />
-            <div class="article">
-              <p><span/>        </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  By clicking on the „Hamburger“ icon, the menu will be opened vertically, providing optimal user guidance on mobile devices.
-                </div>
-                <div>
-                 <b><span style="font-size: 18px;"><br></span></b>
-                </div>
-                <div>
-                 <b><span style="font-size: 18px;">CONTENT AREA (LEFT TOP SIDE)</span></b>
-                </div>
-                <div>
-                  The Content Area consists from top to bottom
-                </div>
-                <ul>
-                 <li>of the Article Title</li>
-                 <li>a list of Categories  allocated to the Article</li>
-                 <li>the Article Content itself.</li>
-                </ul>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  In case your Evernote note has the URL attribute set,
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div></p>
-              
-            </div>
-            <img class="img-responsive img-thumbnail article" src="/images/66131b9d339153362873f1772d3e5411.png" />
-            <div class="article">
-              <p><span/>        </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  the  article content will have at the end an „Link“ element defined, which allows you to transfer to the external site.
-                </div>
-                <div>
-                 <b><br></b>
-                </div>
-                <div>
-                 <b><span style="font-size: 18px;"><br></span></b>
-                </div>
-                <div>
-                 <b><span style="font-size: 18px;">SUPPORT AREA (LEFT BOTTOM SIDE)</span></b>
-                </div>
-                <div>
-                  The Support Area below the Content Area, may have the following „article“ supporting elements
-                </div>
-                <ul>
-                 <li><a href="https://disqus.com/websites/">Disqus</a> Collaboration Platform integration (optional), allows your reader community  to discuss the content of the article. (<a href="https://curation.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html">Feature Description</a>)</li>
-                 <li>Recent Article list, as a teaser for the reader to stay on your site and read on</li>
-                </ul>
-                <div>
-                 <br>
-                </div>
-                <div>
-                 <b><span style="font-size: 18px;"><br></span></b>
-                </div>
-                <div>
-                 <b><span style="font-size: 18px;">GROUPING AREA (RIGHT SIDE)</span></b>
-                </div>
-                <div>
-                  Will contain all list of all your defined Categories, as well as a list of articles grouped by year.
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                 <b><span style="font-size: 18px;"><br></span></b>
-                </div>
-                <div>
-                 <b><span style="font-size: 18px;">FOOTER AREA </span></b>
-                </div>
-                <div>
-                  Will contain copyright section, as well as user definable links to simple pages (e.g. in case you want to define a disclaimer page or similar).
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                 <u><b><span style="font-size: 24px;"><br></span></b></u>
-                </div>
-                <div>
-                 <u><b><span style="font-size: 24px;">Category List Page / By Year List Page</span></b></u>
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  By clicking on a category link the Category List Page will be displayed. The same mechanism applies when clicking a year, which results in the opening of the Year List Page.
-                </div>
-                <div></p>
-              
-            </div>
-            <img class="img-responsive img-thumbnail article" src="/images/48460c1abaf51bdcc768fcac97f89322.png" />
-            <div class="article">
-              <p><span/>        </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                 <u><b><span style="font-size: 24px;">Simple Pages</span></b></u>
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div>
-                  A user is free to add additional pages which be linked either in the Header or Footer Menu.These are simple pages (only content no left side bar). As an example the „About“ page of the zurich4u.ch page. Obviously you will handle also this content in Evernote.
-                </div>
-                <div>
-                 <br>
-                </div>
-                <div></p>
-              
-            </div>
-            <img class="img-responsive img-thumbnail article" src="/images/b07fd4d86bfcc526a4f403f4ca74b124.png" />
-            <div class="article">
-              <p><span/>        </div></p>
-              
-            </div>
+        <div class="timeline">
+          <h4>
+            By year
+          </h4>
+          <ul class="list-unstyled">
+            <a class="label label-primary" href="/2016.html">2016 (41)</a>
+            <a class="label label-primary" href="/2015.html">2015 (36)</a>
+          </ul>
+        </div>
+      </aside>
+    </div>
+    <!--/#secondary-->
+    <div class="col-sm-12" id="primary">
+      <div class="content">
+        <header class="header">
+          <hgroup class="pull-left">
+            <h1 class="site-title">
+              <a href="/">doc@cloudburo</a>
+            </h1>
+          </hgroup>
+          <div class="btn btn-primary pull-right" id="togglesidebar">
+            <i class="fa fa-bars"></i>
           </div>
-          <hr />
-          <div id="disqus_thread"></div>
-          <script type="text/javascript">
-          //<![CDATA[
-                            var disqus_shortname = 'dev1cloudburo';
-                    
-              (function() {
-                  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-                  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-              })();
-          //]]>
-          </script>
-          <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-          <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-          <script type="text/javascript">
-          //<![CDATA[
-              var disqus_shortname = 'dev1cloudburo';
-              (function () {
-                  var s = document.createElement('script'); s.async = true;
-                  s.type = 'text/javascript';
-                  s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-                  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-              }());
-          //]]>
-          </script>
-          
-          <aside>
-            <h3>
-              Recent Articles
-            </h3>
-            <ol>
-              <li>
-                <a href="/2016/10/25/is-your-data-safe-in-evernote.html">Is Your Data Safe in Evernote?</a> <span>Oct 25</span> 
-              </li>
-              <li>
-                <a href="/2016/09/23/how-do-i-solve-failures-when-trying-to-link-evernote-or-slack.html">How do I solve failures when trying to link Evernote or Slack ?</a> <span>Sep 23</span> 
-              </li>
-              <li>
-                <a href="/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html">Bots Platform doesn't load when using Internet Explorer</a> <span>Sep 23</span> 
-              </li>
-              <li>
-                <a href="/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html">How to connect the Publishing Bot by keeping notebook privacy</a> <span>Sep 21</span> 
-              </li>
-              <li>
-                <a href="/2016/09/18/content-curation-tools.html">Content Curation Tools</a> <span>Sep 18</span> 
-              </li>
-              <li>
-                <a href="/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html">How to revoke Cloudburo’s permission to your Evernote Account</a> <span>Sep  6</span> 
-              </li>
-              <li>
-                <a href="/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html">How To: Connect the Cloudburo Slack Bot</a> <span>Sep  5</span> 
-              </li>
-              <li>
-                <a href="/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html">A developer blog with nice code formatting published out from Evernote</a> <span>Jul 24</span> 
-              </li>
-              <li>
-                <a href="/2016/07/24/how-to-power-social-media-productivity-with-evernote.html">How to Power Social Media Productivity with Evernote</a> <span>Jul 24</span> 
-              </li>
-              <li>
-                <a href="/2016/07/24/track-when-you-get-mentioned-in-the-internet.html">Track when you get mentioned in the Internet</a> <span>Jul 24</span> 
-              </li>
-            </ol>
-          </aside>
-          <hr>
-            <p class="text-center">
-              ©2016 <a href="/">doc@cloudburo</a> <br /><span class="small">Powered by<a href="https://cloudburo.net/docs/products.html"> Cloudburo Curation Engine</a></span>
+        </header>
+        <section class="post">
+          <header class="entry-header">
+            <h2 class="entry-title">
+              <a href="/2015/05/20/getting-started-the-content-site-in-a-nutshell.html">Getting Started: The Content Site in a nutshell</a>
+            </h2>
+            <p class="entry-meta">
+              Posted on  20.May 2015 | Tags <a class="label label-primary" href="/tags/pubbot-getstarted.html">pubbot.getstarted</a> 
             </p>
-          </hr>
-        </div>
-        <div class="col-lg-3 col-md-3">
-          <div class="well">
-            <h4>
-              Categories
-            </h4>
-            <ul class="list-unstyled">
-              <li>
-                <a href="/tags/faq.html">faq</a> (2)
-              </li>
-              <li>
-                <a href="/tags/platform-admingui.html">platform.admingui</a> (10)
-              </li>
-              <li>
-                <a href="/tags/platform-errors.html">platform.errors</a> (2)
-              </li>
-              <li>
-                <a href="/tags/platform-howto.html">platform.howto</a> (9)
-              </li>
-              <li>
-                <a href="/tags/platform-slack.html">platform.slack</a> (2)
-              </li>
-              <li>
-                <a href="/tags/pubbot-analytics.html">pubbot.analytics</a> (2)
-              </li>
-              <li>
-                <a href="/tags/pubbot-editnotes.html">pubbot.editnotes</a> (6)
-              </li>
-              <li>
-                <a href="/tags/pubbot-education.html">pubbot.education</a> (7)
-              </li>
-              <li>
-                <a href="/tags/pubbot-evernote.html">pubbot.evernote</a> (4)
-              </li>
-              <li>
-                <a href="/tags/pubbot-faq.html">pubbot.faq</a> (9)
-              </li>
-              <li>
-                <a href="/tags/pubbot-feature.html">pubbot.feature</a> (4)
-              </li>
-              <li>
-                <a href="/tags/pubbot-getstarted.html">pubbot.getstarted</a> (6)
-              </li>
-              <li>
-                <a href="/tags/pubbot-howto.html">pubbot.howto</a> (4)
-              </li>
-              <li>
-                <a href="/tags/pubbot-integration.html">pubbot.integration</a> (2)
-              </li>
-              <li>
-                <a href="/tags/pubbot-quicktip.html">pubbot.quicktip</a> (3)
-              </li>
-              <li>
-                <a href="/tags/pubbot-showcase.html">pubbot.showcase</a> (5)
-              </li>
-              <li>
-                <a href="/tags/pubbot-siteconfig.html">pubbot.siteconfig</a> (13)
-              </li>
-              <li>
-                <a href="/tags/pubbot-themes.html">pubbot.themes</a> (2)
-              </li>
-              <li>
-                <a href="/tags/pubbot-workflow.html">pubbot.workflow</a> (2)
-              </li>
-            </ul>
+          </header>
+          <div class="entry-description">
+            <div class="row">
+              <div class="article">
+                <p><span/></p>
+                
+                <p><div>
+                    The Content Site has a blog structure setup which is concentrated around your published articles. the site is based on a
+                   <a href="https://curation.cloudburo.net/">responsive design</a> in order to provide a optimal reading experience on different devices.
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    The four main pages steering your content are:
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <ul>
+                   <li>The Article List Page</li>
+                   <li>The Single Article Page</li>
+                   <li>The Category List Page</li>
+                   <li>The ByYear List Page</li>
+                  </ul>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    Beside these four main pages, you are free to define additional  simple pages which can be linked into the Header- or Footer area.
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   <u><b><span style="font-size: 24px;">The Article List Page</span></b></u>
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    The article list page is by default the index (entry) page of your content site. It will list all articles in chronological together with a short excerpt of the article. The „Read More“ button will open the Single Article Page when pressed.
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div></p>
+                
+              </div>
+              <img class="img-responsive img-thumbnail article" src="/images/43f1655913c38cc8285556b30e71a51b.png" />
+              <div class="article">
+                <p><span/>        </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    As a side-information: You may chose to define a dedicated index page by your own. In this case the Article List Page will be available via the HEADER menu.
+                  </div>
+                  <div>
+                   <span style="font-size: 24px;"><br></span>
+                  </div>
+                  <div>
+                   <u><b><span style="font-size: 24px;">The  Single Article Page</span></b></u>
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    The Single Article Page is the main page and will visualize your Evernote note content. 
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div></p>
+                
+              </div>
+              <img class="img-responsive img-thumbnail article" src="/images/ca7af949b2d0d648a9da4d17f174032b.png" />
+              <div class="article">
+                <p><span/>        </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    The page consists of the following structural areas.
+                  </div>
+                  <div>
+                   <b><span style="font-size: 18px;"><br></span></b>
+                  </div>
+                  <div>
+                   <b><span style="font-size: 18px;">HEADER AREA</span></b>
+                  </div>
+                  <div>
+                    Consists of the Home Link-, Menu- and Social Media Icons sections. All elements are user configurable during your site setup.
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div></p>
+                
+              </div>
+              <img class="img-responsive img-thumbnail article" src="/images/12ed211db4c0f1f9c519cd026683a282.png" />
+              <div class="article">
+                <p><span/>        </div>
+                  <div>
+                   <br>
+                  </div>
+                  <ul>
+                   <li>By clicking on the „Home Link“ you will go back to the index page.</li>
+                   <li>By default there is a „Categories“ and „ByYear“ menu which groups your published content.</li>
+                   <li>Additional user defined menus will be added (up to 4), e.g link to an About or Contact page.</li>
+                   <li>&ldquo;Social Media Icons&rdquo;, allows you to link to your Social media accounts. Clicking on on an icon will open your social media home page. (Twitter, Facebook, Linkedin, Google Plus and GitHub are supported)</li>
+                  </ul>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    Below another Header Example with the „zurich4u&quot; Home Link, two user defined menu entries to an „About“ and „Contact“ page, two default menu entries for grouping your content by categories or year, as well as a Facebook Social Media Icon.
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div></p>
+                
+              </div>
+              <img class="img-responsive img-thumbnail article" src="/images/4c3cfe8777f80c13bffccd63cab6cce0.png" />
+              <div class="article">
+                <p><span/>        </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    The menu is responsive and will collapse to the „Hamburger“ style in case the device screen is too small to display the full menu.
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div></p>
+                
+              </div>
+              <img class="img-responsive img-thumbnail article" src="/images/01a0e4a0e28eea15113d0a7276b7ca41.png" />
+              <div class="article">
+                <p><span/>        </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    By clicking on the „Hamburger“ icon, the menu will be opened vertically, providing optimal user guidance on mobile devices.
+                  </div>
+                  <div>
+                   <b><span style="font-size: 18px;"><br></span></b>
+                  </div>
+                  <div>
+                   <b><span style="font-size: 18px;">CONTENT AREA (LEFT TOP SIDE)</span></b>
+                  </div>
+                  <div>
+                    The Content Area consists from top to bottom
+                  </div>
+                  <ul>
+                   <li>of the Article Title</li>
+                   <li>a list of Categories  allocated to the Article</li>
+                   <li>the Article Content itself.</li>
+                  </ul>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    In case your Evernote note has the URL attribute set,
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div></p>
+                
+              </div>
+              <img class="img-responsive img-thumbnail article" src="/images/66131b9d339153362873f1772d3e5411.png" />
+              <div class="article">
+                <p><span/>        </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    the  article content will have at the end an „Link“ element defined, which allows you to transfer to the external site.
+                  </div>
+                  <div>
+                   <b><br></b>
+                  </div>
+                  <div>
+                   <b><span style="font-size: 18px;"><br></span></b>
+                  </div>
+                  <div>
+                   <b><span style="font-size: 18px;">SUPPORT AREA (LEFT BOTTOM SIDE)</span></b>
+                  </div>
+                  <div>
+                    The Support Area below the Content Area, may have the following „article“ supporting elements
+                  </div>
+                  <ul>
+                   <li><a href="https://disqus.com/websites/">Disqus</a> Collaboration Platform integration (optional), allows your reader community  to discuss the content of the article. (<a href="https://curation.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html">Feature Description</a>)</li>
+                   <li>Recent Article list, as a teaser for the reader to stay on your site and read on</li>
+                  </ul>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   <b><span style="font-size: 18px;"><br></span></b>
+                  </div>
+                  <div>
+                   <b><span style="font-size: 18px;">GROUPING AREA (RIGHT SIDE)</span></b>
+                  </div>
+                  <div>
+                    Will contain all list of all your defined Categories, as well as a list of articles grouped by year.
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   <b><span style="font-size: 18px;"><br></span></b>
+                  </div>
+                  <div>
+                   <b><span style="font-size: 18px;">FOOTER AREA </span></b>
+                  </div>
+                  <div>
+                    Will contain copyright section, as well as user definable links to simple pages (e.g. in case you want to define a disclaimer page or similar).
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   <u><b><span style="font-size: 24px;"><br></span></b></u>
+                  </div>
+                  <div>
+                   <u><b><span style="font-size: 24px;">Category List Page / By Year List Page</span></b></u>
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    By clicking on a category link the Category List Page will be displayed. The same mechanism applies when clicking a year, which results in the opening of the Year List Page.
+                  </div>
+                  <div></p>
+                
+              </div>
+              <img class="img-responsive img-thumbnail article" src="/images/48460c1abaf51bdcc768fcac97f89322.png" />
+              <div class="article">
+                <p><span/>        </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   <u><b><span style="font-size: 24px;">Simple Pages</span></b></u>
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                    A user is free to add additional pages which be linked either in the Header or Footer Menu.These are simple pages (only content no left side bar). As an example the „About“ page of the zurich4u.ch page. Obviously you will handle also this content in Evernote.
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div></p>
+                
+              </div>
+              <img class="img-responsive img-thumbnail article" src="/images/b07fd4d86bfcc526a4f403f4ca74b124.png" />
+              <div class="article">
+                <p><span/>        </div></p>
+                
+              </div>
+            </div>
+            <div class="comments">
+              <div id="disqus_thread">
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                //<![CDATA[
+                                  var disqus_shortname = 'dev1cloudburo';
+                          
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                //]]>
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+                <script type="text/javascript">
+                //<![CDATA[
+                    var disqus_shortname = 'dev1cloudburo';
+                    (function () {
+                        var s = document.createElement('script'); s.async = true;
+                        s.type = 'text/javascript';
+                        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+                        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+                    }());
+                //]]>
+                </script>
+                
+              </div>
+            </div>
           </div>
-        </div>
+        </section><footer class="footer">
+          <p>
+          </p>
+          <div class="socials-footer"><a class="btn btn-twitter" href="https://twitter.com/talfco">
+                <i class="fa fa-twitter"></i></a><a class="btn btn-google-plus" href="https://plus.google.com/u/1/b/102868953630532463137/+CloudburoCh/posts">
+                <i class="fa fa-google-plus"></i></a>
+          </div>
+          <p>
+            © 2016 All rights reserved 
+          </p>
+        </footer>
       </div>
     </div>
     <script src="../../../js/all.js" type="text/javascript"></script>
