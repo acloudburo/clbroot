@@ -397,7 +397,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html"/>
     <id>https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html</id>
     <published>2016-09-06T22:06:02Z</published>
-    <updated>2016-10-07T08:01:28+00:00</updated>
+    <updated>2016-10-29T08:01:07+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -406,16 +406,18 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt;
-        There are two ways to revoke access given to the Cloudburo Publishing Bot.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;u&gt;&lt;b&gt;Directly in Evernote&lt;/b&gt;&lt;/u&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
+       &lt;div&gt;
+         There are two ways to revoke access given to the Cloudburo Publishing Bot.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;u&gt;&lt;b&gt;Directly in Evernote&lt;/b&gt;&lt;/u&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
       &lt;/div&gt;
       &lt;div&gt;
         At any time you can revoke access to your Evernote Account by clicking onto the following link
@@ -424,58 +426,60 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-       &lt;a href="https://www.evernote.com/AuthorizedServices.action"&gt;&lt;a href="https://www.evernote.com/AuthorizedServices.action"&gt;https://www.evernote.com/AuthorizedServices.action&lt;/a&gt;&lt;/a&gt;
+       &lt;a href="https://www.evernote.com/AuthorizedServices.action"&gt;Evernote Link&lt;/a&gt;
       &lt;/div&gt;
       &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You will be directed to the Applications Authorization Page. You will see on the list of authorized applications the “Cloudburo Curation Platform”. Press “Revoke Access”, which will invalidate the security token given to the Cloudburo Publishing Bot. The Publishing Bot will not work anymore.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         You will be directed to the Applications Authorization Page. You will see on the list of authorized applications the “Cloudburo Curation Platform”. Press “Revoke Access”, which will invalidate the security token given to the Cloudburo Publishing Bot. The Publishing Bot will not work anymore.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/314af2b15c0583ef79fb48b51e3baceb.png" /&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;u&gt;&lt;b&gt;Via the Cloudburo Bots Platform&lt;/b&gt;&lt;/u&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Login to the Cloudburo Bots Platform and head over to the User Config page. Press the “UNLINK” button of the column “Link Evernote Account”. This will delete the Evernote Token from our platform.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;u&gt;&lt;b&gt;Via the Cloudburo Bots Platform&lt;/b&gt;&lt;/u&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         Login to the Cloudburo Bots Platform and head over to the User Config page. Press the “UNLINK” button of the column “Link Evernote Account”. This will delete the Evernote Token from our platform.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/f37dbd48e927faa7746b1aea08ba02d8.png" /&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
