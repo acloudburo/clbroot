@@ -397,7 +397,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html"/>
     <id>https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html</id>
     <published>2016-09-06T22:06:02Z</published>
-    <updated>2016-10-29T08:01:07+00:00</updated>
+    <updated>2016-11-23T20:29:05+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -407,7 +407,7 @@
     
     &lt;p&gt;&lt;div&gt;
        &lt;div&gt;
-         There are two ways to revoke access given to the Cloudburo Publishing Bot.
+         There are two ways to revoke access given to the Cloudburo Publishing Bot. 
        &lt;/div&gt;
        &lt;div&gt;
         &lt;br&gt;
@@ -446,7 +446,8 @@
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/314af2b15c0583ef79fb48b51e3baceb.png" /&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+    &lt;p&gt;&lt;span/&gt;          &lt;br&gt;
+       &lt;/div&gt;
        &lt;div&gt;
         &lt;br&gt;
        &lt;/div&gt;
@@ -467,7 +468,8 @@
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/f37dbd48e927faa7746b1aea08ba02d8.png" /&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+    &lt;p&gt;&lt;span/&gt;          &lt;br&gt;
+       &lt;/div&gt;
        &lt;div&gt;
         &lt;br&gt;
        &lt;/div&gt;
@@ -480,6 +482,9 @@
        &lt;div&gt;
         &lt;br&gt;
        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
