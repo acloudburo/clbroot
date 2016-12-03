@@ -145,6 +145,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html</loc>
+    <lastmod>2016-12-03</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html</loc>
     <lastmod>2016-11-27</lastmod>
     <priority>0.7</priority>
@@ -613,13 +619,13 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.cloudburo.net/tags/pubbot-evernote.html</loc>
+    <loc>https://curation.cloudburo.net/tags/pubbot-getstarted.html</loc>
     <lastmod>2016-11-27</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.cloudburo.net/tags/pubbot-getstarted.html</loc>
+    <loc>https://curation.cloudburo.net/tags/pubbot-evernote.html</loc>
     <lastmod>2016-11-27</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -658,6 +664,18 @@
     <loc>https://curation.cloudburo.net/2016.html</loc>
     <lastmod>2016-11-27</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/12.html</loc>
+    <lastmod>2016-11-27</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://curation.cloudburo.net/2016/12/03.html</loc>
+    <lastmod>2016-11-27</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>

@@ -5,10 +5,66 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-10-25T22:03:44Z</updated>
+  <updated>2016-12-03T09:25:36Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Subscription: Publishing Bot Basic Subscription</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html"/>
+    <id>https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html</id>
+    <published>2016-12-03T09:25:36Z</published>
+    <updated>2016-12-03T09:25:36+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;i&gt;A powerful, intuitive content publishing approach aimed at startups, micro businesses, small enterprises, freelancers as well as hobbyists bloggers. You will use the power of Evernote’s One Workspace to manage and collect great sharing content, to compile it and then leave the task to the Publishing Bot, to deliver the content to your nicely, mobile-friendly designed Web site.&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The
+       &lt;b&gt;Basic Subscription &lt;/b&gt;allows you to manage one content site as well as using our basic website templates.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You can manage
+       &lt;b&gt;one site&lt;/b&gt; with this subscription by using our
+       &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-webpage-themes.html"&gt;basic website themes&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        An overview of the product features can be found
+       &lt;a href="https://publishingbot.cloudburo.net/#feature"&gt;here&lt;/a&gt;, as well as the overall documentation
+       &lt;a href="https://curation.cloudburo.net"&gt;here&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Is Your Data Safe in Evernote?</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/10/25/is-your-data-safe-in-evernote.html"/>
@@ -387,104 +443,6 @@
        &lt;div&gt;
         &lt;br&gt;
        &lt;/div&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How to revoke Cloudburo’s permission to your Evernote Account</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html"/>
-    <id>https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html</id>
-    <published>2016-09-06T22:06:02Z</published>
-    <updated>2016-11-27T22:17:18+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-       &lt;div&gt;
-         There are two ways to revoke access given to the Cloudburo Publishing Bot. 
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;u&gt;&lt;b&gt;Directly in Evernote&lt;/b&gt;&lt;/u&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        At any time you can revoke access to your Evernote Account by clicking onto the following link:
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;a href="https://www.evernote.com/AuthorizedServices.action"&gt;Evernote Link&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-         You will be directed to the Applications Authorization Page. You will see on the list of authorized applications the “Cloudburo Curation Platform”. Press “Revoke Access”, which will invalidate the security token given to the Cloudburo Publishing Bot. The Publishing Bot will not work anymore.
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/314af2b15c0583ef79fb48b51e3baceb.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;          &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;u&gt;&lt;b&gt;Via the Cloudburo Bots Platform&lt;/b&gt;&lt;/u&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-         Login to the Cloudburo Bots Platform and head over to the User Config page. Press the “UNLINK” button of the column “Link Evernote Account”. This will delete the Evernote Token from our platform.
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/f37dbd48e927faa7746b1aea08ba02d8.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;          &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
