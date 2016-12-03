@@ -72,7 +72,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html</id>
     <published>2016-12-03T09:25:36Z</published>
-    <updated>2016-12-03T10:06:26+00:00</updated>
+    <updated>2016-12-03T10:17:18+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -102,9 +102,21 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        An overview of the product features can be found
-       &lt;a href="https://publishingbot.cloudburo.net/#feature"&gt;here&lt;/a&gt;, as well as the overall documentation
-       &lt;a href="https://curation.cloudburo.net"&gt;here&lt;/a&gt;.
+        Additional Resources:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html"&gt;How to test a subscription&lt;/a&gt; &lt;/li&gt;
+        &lt;li&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"&gt;How to buy a subscription&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="https://publishingbot.cloudburo.net/#feature"&gt;Subscription feature overview&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="https://curation.cloudburo.net"&gt;User Documentation&lt;/a&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
