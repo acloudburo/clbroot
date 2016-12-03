@@ -283,6 +283,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-premium-subscription.html</loc>
+    <lastmod>2016-12-03</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://curation.cloudburo.net/2016/07/24/track-when-you-get-mentioned-in-the-internet.html</loc>
     <lastmod>2016-11-27</lastmod>
     <priority>0.7</priority>
