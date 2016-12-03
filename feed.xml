@@ -5,10 +5,40 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2016-12-03T10:10:36Z</updated>
+  <updated>2016-12-03T10:21:23Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>Feature: Premium Webpage Themes</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html"/>
+    <id>https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html</id>
+    <published>2016-12-03T10:21:23Z</published>
+    <updated>2016-12-03T10:21:23+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The below listed Themes are part of the
+       &lt;a href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-premium-subscription.html"&gt;Publishing Bot Premium Subscription&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;i&gt;This page will be updated soon.&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Subscription: Publishing Bot Premium Subscription</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-premium-subscription.html"/>
@@ -320,143 +350,6 @@
        &lt;/div&gt;
        &lt;div&gt;
         &lt;br&gt;
-       &lt;/div&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How to connect the Publishing Bot by keeping notebook privacy</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html"/>
-    <id>https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html</id>
-    <published>2016-09-21T19:48:19Z</published>
-    <updated>2016-11-27T21:50:23+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The following approach describes a setup which allows you to use the Cloudburo Publishing Bot, without exposing your notebooks of your primary Evernote account.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-         The Publishing Bot requires read and write access to your Evernote account in order to create  five fresh new notebooks for each publishing site (
-        &lt;a href="https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html"&gt;as described here&lt;/a&gt;).
-       &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-       &lt;div&gt;
-         The Publishing Bot will work exclusively within this notebooks and will NEVER read or write out-side of these notebooks. 
-       &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The Publishing Bot will be triggered when YOU  move content into three of the five notebooks. So you are in full control here, when to trigger Publishing Bot activities.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Unfortunately the Evernote authorisation process isn’t enough flexible to restrict access just to these subset of notebooks (refer to the screenshot by clicking on it)
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/ae6524d353deeb11ab981e4723a49349.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-ae6524d353deeb11ab981e4723a49349.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        This could cause some uncomfortability by certain users that all his notebooks are exposed. Luckily there is an easy workaround, which doesn’t expose any of your other notebooks to the Publishing Bot.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The approach requires the opening of another free Evernote Account (
-       &lt;a href="https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html"&gt;which can be done within minutes&lt;/a&gt;). The prerequisite is having an Email Address - which isn’t used yet by Evernote - for this new setup.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        You can request a &amp;ldquo;virtual email&amp;rdquo; from us for free (email &lt;a href="mailto:support@cloudburo.net"&gt;support@cloudburo.net&lt;/a&gt;). I.e. we will setup an Email on our side (&lt;a href="mailto:yourName@cloudburo.net"&gt;yourName@cloudburo.net&lt;/a&gt;) which will route  any email to the one which you used during the Cloudburo registration process.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        With this fresh Email you now can create a free Evernote account. Use this new Evernote account to connect with the Publishing Bot (
-       &lt;a href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"&gt;as described here&lt;/a&gt;).
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The Publishing Bot will create in this new account its set of Notebooks.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Finally share the Pulbishing Bot created Evernote Notebooks with your primary Evernote account, as described below 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        On your new create notebooks select the “Share Notebook” feature. In the screenshot below we select the notebook for “felixblog” 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/631ae24b8373aadcc9b1c3106da97e54.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-631ae24b8373aadcc9b1c3106da97e54.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The Share Notebook dialog will pop up for the selected Notebook, make sure that option “Can edit” is selected (1), select the Email of your Primary Evernote Account, to which you want to share (2) and press Share (3).
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;a data-toggle="lightbox" href="/images/b781c5fcfd7135ed0feeac4cb9ffd7d8.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-b781c5fcfd7135ed0feeac4cb9ffd7d8.png" /&gt;&lt;/a&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Done!, you now can write articles in your primary Evernote Account move them to the corresponding shared notebook, which will trigger the publishing process.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;div&gt;
-        &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
        &lt;/div&gt;
       &lt;/div&gt;&lt;/p&gt;
     
