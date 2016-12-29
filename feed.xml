@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html</id>
     <published>2016-12-03T10:21:23Z</published>
-    <updated>2016-12-03T11:26:29+00:00</updated>
+    <updated>2016-12-29T09:18:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -140,7 +140,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-premium-subscription.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-premium-subscription.html</id>
     <published>2016-12-03T10:10:36Z</published>
-    <updated>2016-12-03T15:58:31+00:00</updated>
+    <updated>2016-12-29T09:18:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -204,7 +204,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html</id>
     <published>2016-12-03T09:25:36Z</published>
-    <updated>2016-12-03T10:17:18+00:00</updated>
+    <updated>2016-12-29T09:18:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -279,7 +279,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/10/25/is-your-data-safe-in-evernote.html"/>
     <id>https://curation.cloudburo.net/2016/10/25/is-your-data-safe-in-evernote.html</id>
     <published>2016-10-25T22:03:44Z</published>
-    <updated>2016-11-27T21:50:23+00:00</updated>
+    <updated>2016-12-29T09:18:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -309,7 +309,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/23/how-do-i-solve-failures-when-trying-to-link-evernote-or-slack.html"/>
     <id>https://curation.cloudburo.net/2016/09/23/how-do-i-solve-failures-when-trying-to-link-evernote-or-slack.html</id>
     <published>2016-09-23T19:47:57Z</published>
-    <updated>2016-11-27T21:50:23+00:00</updated>
+    <updated>2016-12-29T09:18:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -390,7 +390,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html"/>
     <id>https://curation.cloudburo.net/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html</id>
     <published>2016-09-23T19:37:56Z</published>
-    <updated>2016-11-27T21:50:23+00:00</updated>
+    <updated>2016-12-29T09:18:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -447,6 +447,4396 @@
        &lt;div&gt;
         &lt;br&gt;
        &lt;/div&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to connect the Publishing Bot by keeping notebook privacy</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html"/>
+    <id>https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html</id>
+    <published>2016-09-21T19:48:19Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The following approach describes a setup which allows you to use the Cloudburo Publishing Bot, without exposing your notebooks of your primary Evernote account.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         The Publishing Bot requires read and write access to your Evernote account in order to create  five fresh new notebooks for each publishing site (
+        &lt;a href="https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html"&gt;as described here&lt;/a&gt;).
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         The Publishing Bot will work exclusively within this notebooks and will NEVER read or write out-side of these notebooks. 
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Publishing Bot will be triggered when YOU  move content into three of the five notebooks. So you are in full control here, when to trigger Publishing Bot activities.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Unfortunately the Evernote authorisation process isn’t enough flexible to restrict access just to these subset of notebooks (refer to the screenshot by clicking on it)
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/ae6524d353deeb11ab981e4723a49349.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-ae6524d353deeb11ab981e4723a49349.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        This could cause some uncomfortability by certain users that all his notebooks are exposed. Luckily there is an easy workaround, which doesn’t expose any of your other notebooks to the Publishing Bot.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The approach requires the opening of another free Evernote Account (
+       &lt;a href="https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html"&gt;which can be done within minutes&lt;/a&gt;). The prerequisite is having an Email Address - which isn’t used yet by Evernote - for this new setup.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You can request a &amp;ldquo;virtual email&amp;rdquo; from us for free (email &lt;a href="mailto:support@cloudburo.net"&gt;support@cloudburo.net&lt;/a&gt;). I.e. we will setup an Email on our side (&lt;a href="mailto:yourName@cloudburo.net"&gt;yourName@cloudburo.net&lt;/a&gt;) which will route  any email to the one which you used during the Cloudburo registration process.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        With this fresh Email you now can create a free Evernote account. Use this new Evernote account to connect with the Publishing Bot (
+       &lt;a href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"&gt;as described here&lt;/a&gt;).
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Publishing Bot will create in this new account its set of Notebooks.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Finally share the Pulbishing Bot created Evernote Notebooks with your primary Evernote account, as described below 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        On your new create notebooks select the “Share Notebook” feature. In the screenshot below we select the notebook for “felixblog” 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/631ae24b8373aadcc9b1c3106da97e54.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-631ae24b8373aadcc9b1c3106da97e54.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Share Notebook dialog will pop up for the selected Notebook, make sure that option “Can edit” is selected (1), select the Email of your Primary Evernote Account, to which you want to share (2) and press Share (3).
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/b781c5fcfd7135ed0feeac4cb9ffd7d8.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-b781c5fcfd7135ed0feeac4cb9ffd7d8.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Done!, you now can write articles in your primary Evernote Account move them to the corresponding shared notebook, which will trigger the publishing process.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Content Curation Tools</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/09/18/content-curation-tools.html"/>
+    <id>https://curation.cloudburo.net/2016/09/18/content-curation-tools.html</id>
+    <published>2016-09-18T11:54:04Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;div&gt;
+         If you want to get an overview about various tools which can support your content curation process I suggest the following slideshare presentation of Robin Good, given at the international journalism festival 2015 in Perugia.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="http://www.slideshare.net/RobinGood/content-curation-tools-international-journalism-festival-2015"&gt;&lt;a href="http://www.slideshare.net/RobinGood/content-curation-tools-international-journalism-festival-2015"&gt;http://www.slideshare.net/RobinGood/content-curation-tools-international-journalism-festival-2015&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Robin Good runs the excellent
+       &lt;a href="http://www.masternewmedia.org/"&gt;&lt;a href="http://www.masternewmedia.org/"&gt;http://www.masternewmedia.org/&lt;/a&gt;&lt;/a&gt; Website, which covers various topics around content curation and communication.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The presentation will showcase a short selection of some useful tools, which he discovered during his work. This includes tools for
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Learning paths &amp;amp; courses&lt;/li&gt;
+       &lt;li&gt;Websites collections&lt;/li&gt;
+       &lt;li&gt;News radars&lt;/li&gt;
+       &lt;li&gt;Video compilations&lt;/li&gt;
+       &lt;li&gt;Newsletter emails&lt;/li&gt;
+       &lt;li&gt;Visual Catalogs&lt;/li&gt;
+       &lt;li&gt;Directories of tools or resources&lt;/li&gt;
+       &lt;li&gt;Quotes Collection&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to revoke Cloudburo’s permission to your Evernote Account</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html"/>
+    <id>https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html</id>
+    <published>2016-09-06T22:06:02Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;div&gt;
+         There are two ways to revoke access given to the Cloudburo Publishing Bot. 
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;u&gt;&lt;b&gt;Directly in Evernote&lt;/b&gt;&lt;/u&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        At any time you can revoke access to your Evernote Account by clicking onto the following link:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://www.evernote.com/AuthorizedServices.action"&gt;Evernote Link&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         You will be directed to the Applications Authorization Page. You will see on the list of authorized applications the “Cloudburo Curation Platform”. Press “Revoke Access”, which will invalidate the security token given to the Cloudburo Publishing Bot. The Publishing Bot will not work anymore.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/314af2b15c0583ef79fb48b51e3baceb.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;          &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;u&gt;&lt;b&gt;Via the Cloudburo Bots Platform&lt;/b&gt;&lt;/u&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         Login to the Cloudburo Bots Platform and head over to the User Config page. Press the “UNLINK” button of the column “Link Evernote Account”. This will delete the Evernote Token from our platform.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/f37dbd48e927faa7746b1aea08ba02d8.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;          &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How To: Connect the Cloudburo Slack Bot</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html"/>
+    <id>https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html</id>
+    <published>2016-09-05T20:44:56Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The primary interaction and command channel for the Cloudburo Bots Member Zone is via
+       &lt;a href="https://slack.com"&gt;Slack&lt;/a&gt;, which is one of the best messaging app available. You can
+       &lt;a href="https://slack.com/is"&gt;check out a tour here&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        If you are new to Slack, we strongly advise you to open an account (which is in the basic setup free), so that you can easily establish a team with our Cloudburo Slack Bot. You can directly communicate with him (will be released soon), as well as we send you any kind of notification to you preferred Slack channel.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        When you have a Slack Account and Team setup, you can link it with our Cloudburo Slack Bot.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Head over the User Profile site and click on the “Link Slack App” Button.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/7023b544e677820e692a13b150230b41.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        When you click on the “Link Slack App” button, the “Authorize access to your account” pop up of Slack will be shown (you are now communicating with Slack and not Cloudburo anymore). Refer to the screenshot below.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Slack will ask you if you want to provide Cloudburo access to your Slack Account, so that we and you can communicate via the Cloudburo Slack Bot.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;We ask the right to integrate our “commands”, i.e. they will allow you to control and manage your Cloudburo Bots Member Zone account directly out of Slack.&lt;/li&gt;
+       &lt;li&gt;We ask the right to send you notifications to a channel, which you have chosen (in the screenshot below we will send you notifications to the “general” channel&lt;/li&gt;
+       &lt;li&gt;We ask the right to add our slack bot to your account, which is called @cloudburobot&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/26fdbe5f3561f59ee2801325bdb5be71.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+        When you press the “Authorize” button in the Slack popup, you will be redirected to our page and the Slack integration will be completed. The button status will be changed to “LINKED”.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/07590518e39632c3b6203decf6d8430d.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+        If you head over to your Slack Team Account you will see, that a new Slack Bot “cloudburobot&amp;quot; has joined your team
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/54f181582028065fce56296e27fe936e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt;
+      &lt;div&gt;
+        Congratulation, all our notification and communication with you may be happen now via Slack.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        For example in the following screen shot you see messages by the Publishing Bot informing the user about the completion of a site publishing. taks.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/57471f7b6e6deffcb36116614d9fcdae.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>A developer blog with nice code formatting published out from Evernote</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html"/>
+    <id>https://curation.cloudburo.net/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html</id>
+    <published>2016-07-24T12:06:35Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Evernote Publishing Bot is used for the developer blog of the founder, which can be found under the link
+       &lt;a href="https://dev.cloudburo.net"&gt;&lt;a href="https://dev.cloudburo.net"&gt;https://dev.cloudburo.net&lt;/a&gt;&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The blog is covering various technical aspects and will also document code samples. Therefore it’s important that code blocks are nicely formatted and rendered in the Website.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Publishing Bot is offering a
+       &lt;a href="https://curation.cloudburo.net/2015/05/24/feature-syntax-highlighting.html"&gt;code documenting feature&lt;/a&gt; with various
+       &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-syntax-highlighting-themes.html"&gt;syntax themes&lt;/a&gt; and ensures a good visual looking of the code fragments.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Refer to the example below.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/bff6163a99818e1b26abd0183e486b67.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to Power Social Media Productivity with Evernote</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html"/>
+    <id>https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html</id>
+    <published>2016-07-24T04:07:57Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div style=""&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The following article by Lolitta Gevorkova shows you some strategies how you can use Evernote to power you social media productivity.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        She describes quite nicely, why she likes  working in the Evernote One Workspace
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;i&gt;&amp;ldquo;I’m a visual woman and love to work in organized, and aesthetically pleasing environments. This is the case for my home, physical workspace, and &lt;a href="https://blog.evernote.com/blog/2016/03/19/spring-cleaning-your-digital-spaces-the-evernote-way/"&gt;digital workspace&lt;/a&gt;. And without a doubt, it’s something that’s invaluable when it comes to making sure that my job’s responsibilities are well organised.&amp;rdquo;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/77e9ea8d13bd7e05aacac61814d520ce.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Refer to the article to get known her  five ways that Evernote can help you stay on top of your game when it comes to Social Media Productivity:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Create a Content Calendar&lt;/li&gt;
+       &lt;li&gt;Manage a Creative Asset Library&lt;/li&gt;
+       &lt;li&gt;Organize Influencer Correspondence&lt;/li&gt;
+       &lt;li&gt;Build Your Resource Library&lt;/li&gt;
+       &lt;li&gt;Plan a Social Media Strategy&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div style=""&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;a href="https://blog.evernote.com/blog/2016/05/02/how-to-power-social-media-productivity-with-evernote/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Track when you get mentioned in the Internet</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/track-when-you-get-mentioned-in-the-internet.html"/>
+    <id>https://curation.cloudburo.net/2016/07/24/track-when-you-get-mentioned-in-the-internet.html</id>
+    <published>2016-07-24T03:02:51Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        When you start your micro enterprise it’s very important that you monitor the internet and its social channels about mentioning of your company.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        For example refer to the
+       &lt;a href="https://medium.com/@RealtimeBoard/how-we-learned-to-get-into-product-hunt-top-5-the-story-of-realtimeboard-f16e51ca4b17#.4723t2xuk"&gt;following article&lt;/a&gt;, which tells the story how a startup missed the mentioning of its company on the famous Product Hunt website.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        By not getting known that your company is trending on a social channel or website you miss the huge opportunity to gain new customer or sales lead. You miss a one-time opportunity to react on comments or any other kind of engagement triggered by the publishing.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Luckily there are quite handy tools out there which allow you automate the monitoring the web for mentioning your name.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        I currently use two tools, which complement each other.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://notify.ly"&gt;&lt;u&gt;&lt;b&gt;Notify.ly&lt;/b&gt;&lt;/u&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Notify.ly will track a growing number of social media apps about a user-defined set of keywords and publish them either to your Slack or Hipchat account.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        If you serious about a startup you have to get used to Slack (which is my preferred message aggregator app) or Hipchat. The will ease you life dramatically in context of monitoring a variety of channels, be it your production machines or any kind of event channel In this article, it will get any notification event of Notify.ly.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In the example below, Notify.ly sent me a message to my Slack marketing channel only my mobile, informing me that “QRator India”, was publishing a tweet which includes my keyword “publishingbot.cloudburo.net”. Actually, QRator India was republishing a tweet originated by me. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c2c0ee453499a2dba1c22c4b184ca18c.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Notify.ly will monitor your defined set of keywords on different channels, refer to the example below, these are keywords which get tracked on twitter, producthunt, tumblr, hacker news, reddit or youtube.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d76356c073327c06e34b25b0effd6978.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The whole setup is straightforward and easy to do.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://www.google.ch/alerts#"&gt;&lt;u&gt;&lt;b&gt;Google Alerts&lt;/b&gt;&lt;/u&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The second monitoring solution which I use is provided by our big brother google. Google offers with “Google Alert” a nifty feature. It’s actually  a content change detection and notification service. What do you need more ?
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        As you can see here, I monitor the web for my company “Cloudburo”, my product “publishingbot”, as well as name.
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c28840215dbf8886d5880a15ed5823e1.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The detail window gives you the possibility to fine tune your alerting
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        At the end of the window you can see of list of matched results, obviously the alert mechanism will track only new published content in this case with the frequency “As-it-happens”.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/6897761d27b75612992290e25fb20e6a.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Important here that we deliver the result to an RSS feed, which we then integrate in the our Slack message app. Select the RSS feed url in the alert dashboard.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/333beb35a605cadf0f589cc0c131c855.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        And add it as a to be monitored RSS feed in Slack
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/bf6de5d88faecedd6244287816c3f972.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In the example below, we add it feed to our marketing channel, which gets also fed by the Notif.ly social channel monitor. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ee471c51d2552ec30c6509656164e89f.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Having done that you can relax and be sure that you will get notified immediately in Slack when you start up is moving up the internet mentioning ladder.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;BTW: This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Feature: Login with your Slack Account</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/07/23/feature-login-with-your-slack-account.html"/>
+    <id>https://curation.cloudburo.net/2016/07/23/feature-login-with-your-slack-account.html</id>
+    <published>2016-07-23T07:08:37Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        You can login to the Cloudburo Bots Member Zone with your Slack Account and getting rid of providing every time your user name and password for logging in.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In order to do so, press the “SIGN IN WITH SLACK” button, as shown in the below screen shot (available on the “SIGN IN” or “REGISTER” page).
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e92a850f1f8215082b9934fc24eb378e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The &amp;ldquo;Authorize Access to your Account” confirmation of Slack will pop up. It will ask you for allowance that we can get your identity (full name) of you, as well as the email which you used for the logging in to Slack.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        It’s important to know that we only requiring the additional token provided by Slack and will not get the password or any sensitive information (apart from the Email-Address) to log you in on our side. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        By pressing the “Show More” button, Slack explain what you will exchange with us. By the way you can revoke at any time this access right within the Slack application.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/98b26d5356ae2a10068bb049a382ac14.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        When you press “Authorize” the information and token transfer will start.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;In case you don&amp;rsquo;t have already an account with us with the same Email Address you will be immediately logged in.&lt;/li&gt;
+       &lt;li&gt;In case you have already an account with us with the same Email Address (as used in Slack) your existing account will be enhanced for the automatic Slack sign in process. You will be presented with a screen as shown below and you will have to re-login once again, as well as to &lt;a href="https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"&gt;revalidate you Email Address&lt;/a&gt;. This additional step is necessary only once.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/16db14c29a03c8d9dbce49fe92489a28.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Additionally Slack will send you an Email, which informs you that “Cloudburo” has now access to your Slack Team (in our example this is “Cloudburo Test” team). 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        It will also provide you with a link how you can revoke this access right, in case you don’t want to do so.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/0ee53c536841982e496e994f7f1f377e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>The Amazingly Simple Anatomy of a Meaningful Marketing Story</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html"/>
+    <id>https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html</id>
+    <published>2016-06-21T21:35:47Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        When it comes to excellent stories about content curation and content marketing,
+       &lt;a href="http://www.copyblogger.com"&gt;copyblogger.com&lt;/a&gt;  is one of our favourite sites.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        It provides a source of articles, tutorials and guidelines how you can build your authority with powerful effective content marketing.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        As an inspiring example checkout the below infographic, which outlines the ingredients for telling a compelling story which will grab the attention of his readers and communities.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        As the point out in the article:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        “
+       &lt;i&gt;Tell the right story any you can capture attention, entertain, enlighten and persuade all in the course of just a few minutes.&amp;ldquo;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Media designer Lauren Mancke created the following infographic around the topic “How to structure your marketing story&amp;rdquo;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You can checkout the full article, via the link provided at the end of this article.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/a9f140fc4ca1c333fe1451bfbdf46798.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="http://www.copyblogger.com/cdn-origin/images/650/anatomy-of-a-meaningful-marketing-story.pdf"&gt;Downloadable PDF.&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;a href="http://www.copyblogger.com/meaningful-marketing-story/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>FAQ: How will I get notified by the Cloudburo Publishing Bot ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html"/>
+    <id>https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html</id>
+    <published>2016-06-15T20:13:18Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Publishing Bot will communicate via the following channels with you:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;By default, the publishing bot will use the provided Email to get in contact with you&lt;/li&gt;
+       &lt;li&gt;Additionally you can use the very cool and handy message app &lt;a href="https://slack.com/"&gt;Slack&lt;/a&gt;. It’s our recommended app in case you want to start consolidate messages sent to you.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Cloudburo Publishing Bot will send you a message in various circumstances, as for example
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;When a site got initially configured and is ready for use&lt;/li&gt;
+       &lt;li&gt;When a change to site took place (e.g. a new article got published, or the site got regenerated due to configuration changes&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;Email Message Notification&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d5fa4691d8ac6f6ea4b3456be79ca60e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;Slack Message App Notification&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/66925c2346ccddf0677fe5168d92bc9e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Create easily your own compelling infographics for your content</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html"/>
+    <id>https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html</id>
+    <published>2016-06-14T20:05:20Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        For my micro business, I was looking for an easy to manage infographic creation solution. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Luckily I found very quickly the solution offered by Venngage. A browser based infographic creation frontend, which manages the content in the cloud and provides the possibility to share the created infographics on their hosted site.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://infograph.venngage.com"&gt;&lt;a href="https://infograph.venngage.com"&gt;https://infograph.venngage.com&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The overall solution is really top-notch. The creation GUI design and usability is just outstanding and serves me as a good showcase, what can be achieved by a well designed HTML 5 browser app. It’s very well crafted and a lot of attention is given to the details.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The below infographics I could create just within the first hour of using the tool, integration of icons, uploading and reusing images, resizing and adjusting of graphic assets etc. is straightforward and works from a performance point view as quickly as any native OS X app.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e923caccbd52637eef4bd5057da43342.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Absolutely amazing is that the infographics  are just fully responsive and adjust to a mobile screen without any problem. So by publishing the graphic onto the venngage site you will get as well as a html embed code sequence, which you can integrate into your site.
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt;
+      &lt;div&gt;
+        I decided to embed two infographics into my landing page in order to outline the two support workflows of the Cloudburo Publishing Bot. You can find the example here
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://publishingbot.cloudburo.net/index.html#workflow"&gt;&lt;a href="https://publishingbot.cloudburo.net/index.html#workflow"&gt;https://publishingbot.cloudburo.net/index.html#workflow&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The offering comes with a free plan, which allows you to experiment with the tool and features. You are  restricted in the usage of several features, as well you can’t download the graphics as picture or pdf.  Nevertheless, it allowed me to quickly design my first infographics and publish them. The premium  pricing of 19$ is reasonable but for a micro business just producing some infographics from time to time potential a little bit high for initial investing (during its bootstrapping phase). As said in that constellation the freemium version is doing a very good job.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Definitely, I will go on with testing the app and will update the article at a later stage.&lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ecb08793b5c848b92668e02638e30889.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        By the way, the full article here is managed within Evernote using the
+       &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt; for which the infographics were created.
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>The science behind shareable content</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html"/>
+    <id>https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html</id>
+    <published>2016-06-09T18:24:05Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/41178d5ed1547a3718fbed1e0b63ae29.jpeg" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+        This is very interesting article which shares the insights of a presentation given by Kholben Vodden founder of StoryScience.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        By referring  to various studies, the article drills down into the topics of
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;how ideas spread&lt;/li&gt;
+       &lt;li&gt;motivations for sharing content&lt;/li&gt;
+       &lt;li&gt;Influencing the sharing decision&lt;/li&gt;
+       &lt;li&gt;writing emotional headlines&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        If you are interested in the science of shareable content is definitely a very worthwhile reading.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You can find the full article here.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;a href="https://searchenginewatch.com/2016/06/08/the-science-behind-shareable-content/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Your first site is live, what’s next ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/06/02/your-first-site-is-live-whats-next.html"/>
+    <id>https://curation.cloudburo.net/2016/06/02/your-first-site-is-live-whats-next.html</id>
+    <published>2016-06-02T01:07:16Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;span style="color: rgb(255, 38, 0);"&gt;&lt;span style="font-size: 18px;"&gt;Congratulation !&lt;/span&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        the Cloudburo Publishing Bot reached out to you via Email or Slack and informed you that the first site is ready. You are now ready to start your first article.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Now what’s next ?
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Ok, there are various options now, one of them is described below.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Check the published site first, it will look - dependent on the theme - similar like this (you can click on the image)
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/362f1540794045d0c3024af97ef2f1bf.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-362f1540794045d0c3024af97ef2f1bf.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Write a first article&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Best is to write a first article, to get used to the content creation workflow:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;&lt;a href="https://curation.cloudburo.net/tags/workflow.html"&gt;These videos&lt;/a&gt; explain the two workflows which speeds up the writing of articles in Evernote&lt;/li&gt;
+       &lt;li&gt;you may jump to the two videos at the end of this page, which gives a quick intro from 2-3 minutes.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Wait until the article got published (you will be informed by email again) and check the result.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Check out how you can enrich an article in Evernote&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Experiment with some of the features available for during article creation process, be it
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;&lt;a href="https://curation.cloudburo.net/2015/06/01/feature-customziable-article-categorization.html"&gt;Article Categorization&lt;/a&gt;&lt;/li&gt;
+       &lt;li&gt;&lt;a href="https://curation.cloudburo.net/2015/05/14/feature-picture-handling-in-evernote-notes.html"&gt;Working with Images&lt;/a&gt;&lt;/li&gt;
+       &lt;li&gt;&lt;a href="https://curation.cloudburo.net/2015/05/18/feature-video-handling-in-evernote-notes-youtube.html"&gt;Working with Videos&lt;/a&gt;&lt;/li&gt;
+       &lt;li&gt;&lt;a href="https://curation.cloudburo.net/2015/05/24/feature-syntax-highlighting.html"&gt;Syntax Code Highlighting&lt;/a&gt; &lt;/li&gt;
+       &lt;li&gt;All the editing features can be found here: &lt;a href="https://curation.cloudburo.net/tags/editingfeature.html"&gt;Goto the Editing Feature Doc&lt;/a&gt; &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Up to now you should have  a good understanding how you can edit and enrich your articles during the writing process.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Check out how you can configure your Site in Bots Member Zone&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        It’s time to move over to the Clouburo Bots Member Zone, where you now can tweak and change the overall setup of your site. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;An overview of the Member Zone GUI can be found &lt;a href="https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html"&gt;here&lt;/a&gt;. A lot of configuration options exists.&lt;/li&gt;
+       &lt;li&gt;You can delete articles, introduce an index page, extend header or footer menu, enhance the menu by social icons, change the theme, embed Google Tracking ID and and and&lt;/li&gt;
+       &lt;li&gt;All the site config features can be found here: &lt;a href="https://curation.cloudburo.net/tags/siteconfig.html"&gt;Goto the Site Configuration Doc&lt;/a&gt; &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;In a hurry ?  Check out the two minutes Intro&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        A one minute intro to the Publishing Bot, will give you a glance about our approach for curated or self-created content.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ORjTjR5T858?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+         As a second workflow we support the so-called news publishing approach, which normally starts in a news aggregation app, as for example
+        &lt;a href="https://feedly.com/"&gt;feedly&lt;/a&gt;. Check it out in two minutes, how easy a news styled blog can be managed with Feedly, Evernote and the Cloudburo Publishing Bot.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/IvqxV3tjx5I?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 36px;"&gt;Have Fun !&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Don’t put unnecessary Carriage Returns at end of a Line</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/dont-put-unnecessary-carriage-returns-at-end-of-a-line.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/dont-put-unnecessary-carriage-returns-at-end-of-a-line.html</id>
+    <published>2016-05-29T11:11:50Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        When you write in Evernote an article don’t insert unnecessary “Carriage Returns” (Line Feed) in order to go to a new line. You should keep writing and leave the new line switch to Evernote. The below formatting (taken into consideration the unnecessary carriage return) will result in a bad formatting on your site.
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/7b4a62b686fe0ec38b1af4a86a1b89b0.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;You may introduce a new line (by pressing carriage return) when you want to introduce a new section. As in the below example after the frist section, as well as the second section before the link. That will result in a nicely rendered format
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/859fef695d53907a3f790a470f78ef0f.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;&lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How do I disable the News Publishing Workflow</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html</id>
+    <published>2016-05-29T10:22:16Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can disable the News Publishing Workflow, the Cloudburo Publishing Bot will not check your
+       &lt;i&gt;D-NewsGen&lt;/i&gt; notebook anymore for news articles.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ccf715b6ce678a9b5591842ac616a40e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How do I disable the Create &amp; Curate Workflow</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-create-curate-workflow.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-create-curate-workflow.html</id>
+    <published>2016-05-29T10:22:15Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can disable the Self-Created/Curated Workflow, the Cloudburo Publishing Bot will not check your
+       &lt;i&gt;E-CurateGen&lt;/i&gt; notebook anymore for any articles.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ccf715b6ce678a9b5591842ac616a40e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How do I switch my site to offlline ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html</id>
+    <published>2016-05-29T10:10:58Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can switch off your site temporarily, i.e. it will not be reachable anymore via the internet.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/3a929aa3549458a2823842055fb19666.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You site will be not visible anymore
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/6a30589c8aafb8c03e4fc26d2aeb7e35.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How do I set the Title of the Site ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html</id>
+    <published>2016-05-29T08:22:18Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Blog Title will be shown in the top left corner your blog and is clickable (i.e. will be bring you back to the Home-/Index page your web site). During initial configuration the Title will be set to your “Site Name”. But it can be changed at any time.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/1d1ea9f04601c18e922aa45a9b4e54c8.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can rename your Blog Title.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Title shouldn’t be too long, so that the Header looks good on any device size. When having changed the name, resize your browser window to minimal size or check the your site on a mobile device. The title, as well as the “Hamburger” menu should take just one row (see below).
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c5ed3d2a45aea559d197edce6060f7d3.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Adjust the Title Attribute in the Product Dashboard and check your site after the Publishing Bot has processed your request.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/62de8ae4bd12932f6223150271ff7045.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Feature: Google Analytics Tracking Key Integration</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/feature-google-analytics-tracking-key-integration.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/feature-google-analytics-tracking-key-integration.html</id>
+    <published>2016-05-29T01:03:13Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can configure your Google Analytics Tracking Key, which will be injected into every site page.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/1c086f981b671e317bdf319010119330.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Tracking Key you will find via the Google Analytics Admin Console
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ed1335a803e17a3fe161d5856f3a1bbf.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Feature: Social Icons in your Site Header</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html</id>
+    <published>2016-05-29T01:03:10Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        You can define the following social icons in your site header, which will link to your corresponding social account
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Facebook&lt;/li&gt;
+       &lt;li&gt;Twitter&lt;/li&gt;
+       &lt;li&gt;Google Plus&lt;/li&gt;
+       &lt;li&gt;Linkedin&lt;/li&gt;
+       &lt;li&gt;Github&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Via the
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;Memberzone Dashboard (Setup Tab)&lt;/a&gt; you can provide the URL’s for each site
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/2bae4a8afe165271504d39d2a72f0bac.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The icons will then be shown in the header.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/dfe79a2b95ee7f6fcad3feb5c073f279.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How is the curation.space domain protected and accelerated by Cloudflare CDN ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html"/>
+    <id>https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html</id>
+    <published>2016-05-29T01:03:08Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        In front of our Content site we have the
+       &lt;a href="https://www.cloudflare.com/overview"&gt;Cloudflare Content Delivery Network&lt;/a&gt;.  As part of the CloudFlare community, our web traffic is routed through their intelligent global network. Cloudflare automatically optimize the delivery of our web pages so your visitors get the fastest page load times and best performance. They also block threats and limit abusive bots and crawlers from wasting our bandwidth and server resources. The result: CloudFlare-powered websites see a significant improvement in performance and a decrease in spam and other attacks.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         By using Cloudflare we also enabled by default the secure https:// protocol (the new de facto standard for websites).
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/9b7d138fb4c04b9f03ce91c2dbc0fa39.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         We are leveraging for the content site publishing the global Web backbone of github.io (via their gh-pages facility). 
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        This allows us good performance and high availability of the content sites.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d32c04d93400ef6804281acf90e62330.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to configure your first Site</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/how-to-configure-your-first-site.html"/>
+    <id>https://curation.cloudburo.net/2016/05/28/how-to-configure-your-first-site.html</id>
+    <published>2016-05-28T22:10:38Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Publishing Bot will guide you through the first site configuration, in order that you get used to the necessary mandatory configuration steps. Depending on your subscription package you may have the possibility to configure multiple sites. The following video, gives a short overivew
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/W93CidWum4Q?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You will presented with the following screen after you either have
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html"&gt;acquired a trial subscription&lt;/a&gt; or you
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"&gt;purchased a monthly-/yearly subscription&lt;/a&gt; and are logged in to the
+       &lt;a href="https://bots.cloudburo.net"&gt;member zone&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/147a6d431aac5188452022954a02e507.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The screen shows you the three mandatory steps, which are required in order to trigger the creation of you publishing site. By pressing the “?” Button, a short description of the step will be shown.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Step 1: Verify Email Address&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You have to verify your Email Address via a Link we have sent you by Email. In case you didn’t got the Email, you can trigger from here a resend  of the Email, be pressing the green “RESEND” button. For more  information refer to the following
+       &lt;a href="https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"&gt;How To.&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        After successful Email verification, the step will be marked as completed.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/027b3c2765bcb607596281558da32736.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Step 2: Link your Evernote Account&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Obviously the Publishing Bot requires a linked Evernote Account, where he will grab your article which you want to publish to your online community. Clicking on the green “LINK” button which will initiate the authentication process directly with Evernote.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        An Evernote Pop up window will appear, where you have to Sign In. Be aware that this process is fully managed by Evernote, we will not get hold of the password. Evernote will provide us - after a successful approval by you- a token to get hold of the articles, which you write.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You can revoke at any time within Evernote the “authorisation” which you have gave us. This means that the Publishing Bot, will stop to work for you.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/77f99bfb904f48f5f53311896cce6b4d.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        After you have signed in, Evernote will show which rights we are asking for.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/44868dbc283b94a69395d36927e4ac13.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Publishing Bot will create a set of new Notebooks in your Evernote Account, which are used for the communication between You and our Publishing Bot. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        For example, by placing an Evernote note  in a dedicated Notebook, the Publishing Bot will be advised to read the note and publishing it on your web site. After the steps he will move the note in another Notebook.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Therefore we require rights to Create, Update, List or Retrieve notes from your Evernote Account.
+       &lt;a href="https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html"&gt;Refer to the following page&lt;/a&gt; in order to get an overview about the created Notebooks.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        After successful linking of your Evernote Account, the step will be marked as completed
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/2ac47d2b256503e64c3dec667bde5003.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        It will enable Step 3, where you now can enter a unique site name.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Step 3: Provide a Unique Site Name&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In this step provide a unique site name. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/dbd62126b95fe5270f81e7a257005f68.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Click on the “yourSiteName” field, which will open the input box. Provide the name for your site, e.g. “felixblog”. The name must be unique within the Cloudburo Bots Platform. The name will be used for defining the final URL, which is constructed as follows “https://&amp;lt;sitename&amp;gt;.curation.space”. In our example it will be &amp;ldquo;&lt;a href="https://felixblog.curation.space."&gt;https://felixblog.curation.space.&lt;/a&gt;&amp;rdquo;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/b72347c7565b01f06fcbe253d870ae92.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        As one can see, all three steps were completed successfully. The “EVERYHTING SETUP, PROCEED” switch to the green colour and got enabled. You now can go on.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Cloudburo Publishing Bot will be activated and creates the necessary Evernote notebooks, as well as the default empty site.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/cb72d5abbed04dfea38010a39b6fcefe.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You are ready to start publishing notes.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You can go on and customize your web entry via the following
+       &lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;How To&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How do I know when the publishing of an article happened ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/how-do-i-know-when-the-publishing-of-an-article-happened.html"/>
+    <id>https://curation.cloudburo.net/2016/05/28/how-do-i-know-when-the-publishing-of-an-article-happened.html</id>
+    <published>2016-05-28T19:41:29Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        After initial site configuration, as well as every time an article gets published, you will receive an Email by the Cloudburo Publishing Bot.
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Which Evernote Notebooks are created by the Publishing Bot ?</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html"/>
+    <id>https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html</id>
+    <published>2016-05-28T17:06:17Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Publishing Bot requires for the communication with Evernote a set of Evernote Notebooks per configured site. Additionally the Publishing Bot will create a set of tags which allows you to control the site publishing process.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        These notebooks - as well as the tags - will be created during the initial site configuration steps. Additionally the publishing bot will check before each process run, the availability of the Notebooks and Tags in your Evernote Account and would kick off a recreation, in case you deleted or removed notebooks or tags accidentally.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Notebooks created by the Publishing Bot&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/0deb3823a1a5d4bbfae48a7612ee3ffe.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Publishing Bot will create for each site - in this example you would have chosen the name 
+       &lt;i&gt;&lt;b&gt;blogtest&lt;/b&gt;&lt;/i&gt; during site configuration - 5 new Evernote Notebooks. They start with the the prefix 
+       &lt;b&gt;&lt;i&gt;blog-&lt;/i&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;&lt;b&gt;&lt;i&gt;A-Fetch&lt;/i&gt;:&lt;/b&gt; Is a notebook required by the News Publishing Workflow. Any article place here will be full text extracted and moved to the &lt;i&gt;B-Prepare&lt;/i&gt;  notebook by the Publishing Bot. For details refer to the following &lt;a href="https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html"&gt;How To&lt;/a&gt;.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;B-Prepare:&lt;/b&gt;&lt;/i&gt; Is used by News Publishing Workflow, as well as can be seen as the notebook where you store your draft articles you are working on (this is optional, obviously you can work on a note in any kind of notebook). The Publishing bot isn&amp;rsquo;t  doing anything with this notebook.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;D-NewsGen:&lt;/b&gt;&lt;/i&gt; Move your ready-to-publish notes which are following the News Workflow to this Notebook. For details refer to the following &lt;a href="https://curation.cloudburo.net/2015/06/06/news-publishing-workflow-in-3-simple-steps.html"&gt;How To&lt;/a&gt;. The Publishing Bot will fetch periodically the articles and publishes them, you will be informed by email when the publishing completed.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;E-CurateGen:&lt;/b&gt;&lt;/i&gt; Move your ready-to-publish notes which are self-created or curation to this Notebook. For details refer to the following &lt;a href="https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html"&gt;How To&lt;/a&gt;. The Publishing Bot will fetch periodically the articles and publishes them, you will be informed by email when the publishing completed.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;Z-Archive:&lt;/b&gt;&lt;/i&gt; All published notes will be moved to this note book. In case you want to update some notes. Go here, update the content and move it back to the &lt;i&gt;D-NewsGen&lt;/i&gt; or &lt;i&gt;E-CurateGen&lt;/i&gt; notebook, dependent on the article style.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;span style="font-size: 18px;"&gt;&lt;b&gt;Tags created by the Publishing Bot&lt;/b&gt;&lt;/span&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ee28faba53853845e8e4fca4cc206528.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Publishing Bot will create a set of Tags required for its working, they all start with the prefix
+       &lt;i&gt;&lt;b&gt;clb-&lt;/b&gt;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;clb-footer&amp;lt;#&amp;gt;, clb-menu&amp;lt;#&amp;gt;&lt;/b&gt;&lt;/i&gt; allows you to control the Menu- and Footer area of your site. Refer to the following &lt;a href="https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html"&gt;How To&lt;/a&gt;.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;clb-index&lt;/b&gt;&lt;/i&gt; is used to identify a page, which used as your customised index page. Refer to the following &lt;a href="https://curation.cloudburo.net/2015/05/22/feature-customizable-content-site-index-page.html"&gt;How To&lt;/a&gt;.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;clb-image-*&lt;/b&gt;&lt;/i&gt; allows you to control how pictures are rendered in your site. Refer to the following &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-picture-handling-in-evernote-notes.html"&gt;How To&lt;/a&gt;.&lt;/li&gt;
+       &lt;li&gt;&lt;i&gt;&lt;b&gt;clb-processed&lt;/b&gt;&lt;/i&gt; will be allocated to each Evernote note, which got published on a site.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;&lt;u&gt;&lt;b&gt;Tags created by You&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You can create any tags starting with your site name
+       &lt;i&gt;&amp;lt;sitename&amp;gt;-&lt;/i&gt;. When associated with a notes, they will be converted in a blog category, refer to the following
+       &lt;a href="https://curation.cloudburo.net/2015/06/01/feature-customziable-article-categorization.html"&gt;How To&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/cef689d88d45b0c6d86e71d9a61a0f0b.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Customizable Site Header and Footer Menus</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html"/>
+    <id>https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html</id>
+    <published>2016-05-28T16:01:57Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        You can customize the Header and Footer Menu of a site. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        By default, the index page will show the published articles, complemented by a Header Menu “Categories” and “By Year”.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/8929b86d7e753f3bf36a09eb6600c6cf.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You have now the possibility to define 4 additional Header, as well as 4 additional Footer menus. In the following example there are two additional menus defined: “About” and “Contact”.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/2339279b8398935a87d392c42f17dfa7.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The additional menus are defined via the site configuration in the
+       &lt;a href="https://bots.cloudburo.net/dashboard"&gt;Memberzone Dashboard&lt;/a&gt; area (Setup Tab). Select the relevant site configuration.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/3d20fd7d50f4b68b4d7972f693c6ce93.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Scroll down to
+       &lt;i&gt;Main Menu&lt;/i&gt; and
+       &lt;i&gt;Footer Menu&lt;/i&gt; area. And change the name from
+       &lt;i&gt;Empty&lt;/i&gt; (i.e. no menu entry is shown) to your menu name. In the example below, we have chosen to add to Main Menu entries called “
+       &lt;i&gt;About”&lt;/i&gt; and 
+       &lt;i&gt;“Contact&lt;/i&gt;&amp;ldquo;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/a447b06c6f1066fb3b0eed6f7c9b2394.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Publishing Bot, will create in its next run, two main menus (see the screenshot) on the published site, as well as create corresponding pages and tags (
+       &lt;i&gt;clb-menu1, clb-menu2)&lt;/i&gt; in your Evernote account. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/5bc11ebd3e3636c9f379f9b2906f4fa3.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You now can customize the pages, to your need. In the example below, the
+       &lt;i&gt;About&lt;/i&gt; page is shown (with its associated tag
+       &lt;i&gt;clb-menu1&lt;/i&gt;). Move it to your notebook
+       &lt;i&gt;&lt;b&gt;*-E-CurateGen&lt;/b&gt;&lt;/i&gt; in order to get it generated. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/0b8eb5b935ee4a22eed47de4575c0c2e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Showcase: Full Product Documentation Website managed by the Evernote Publishing Bot</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html"/>
+    <id>https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html</id>
+    <published>2016-05-19T23:10:44Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        This is a special showcase due to the fact that
+       &lt;u&gt;&lt;b&gt;this site which you are looking at is actually the showcase itself&lt;/b&gt;&lt;/u&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        I.e. the full documentation site of the publishing bot, enriched with images, videos and detailed content is edited in Evernote and published via the publishing bot.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Actually, we are following the principle &amp;lsquo;eat your own dogfood&amp;rsquo; within Cloudburo, i.e. we are using our own product for content publishing. This allows us to constantly fine-tune the offering and improve its usability and efficiency.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Stroll around on our site and check out some pages to get a feeling how a full-fledged site could look like. Best is to start on the
+       &lt;a href="https://curation.cloudburo.net/"&gt;home page&lt;/a&gt;, which gives you a detailed overview.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        More
+       &lt;a href="https://curation.cloudburo.net/tags/showcase.html"&gt;Cloudburo Publishing Bot Showcases&lt;/a&gt; or
+       &lt;a href="https://publishingbot.cloudburo.net"&gt;Subscribe for a Trial&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to buy a subscription product</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"/>
+    <id>https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html</id>
+    <published>2016-05-16T21:16:51Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; or
+       &lt;a href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"&gt;Sign up&lt;/a&gt; to the memberzone and follow the steps shown in the video tutorial.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Our credit card handling is done via Stripe, which is PCI Level 1 certified (highest security standard). You can find out more details how we manage credit card payments in the following
+       &lt;a href="https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html"&gt;article&lt;/a&gt;. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/8G-_iNBo5DA?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        More
+       &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to purchase a trial subscription</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html"/>
+    <id>https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html</id>
+    <published>2016-05-16T17:10:25Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; or
+       &lt;a href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"&gt;Sign up&lt;/a&gt; to the memberzone and follow the steps shown in the video tutorial. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/9XPbKLXWtAs?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        More
+       &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to configure the Website Publishing Bot</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"/>
+    <id>https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html</id>
+    <published>2016-05-16T12:11:24Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Via the Clouburo Bots Member Zone you have the possibility to fine tune and configure the publishing process, as well as the look- and feel of your site. Each of your web site may be adjusted to its need.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; the memberzone and follow the steps shown in the video tutorial. Each configurable parameter/attribute of the publishing bot, is backed up by some detailed online help (as shown in the video).
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/fhBJJAq7uKw?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+         More
+        &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to delete a published article</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html"/>
+    <id>https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html</id>
+    <published>2016-05-16T11:28:38Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Deleting an already published article can be done via a control function in the Clouburo Bots Member Zone. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; the memberzone and follow the steps shown in the video tutorial.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/4kdPLODDNgc?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+         More
+        &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Cloudburo Bots Memberzone Overview</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html"/>
+    <id>https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html</id>
+    <published>2016-05-16T01:02:15Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;div&gt;
+         The Cloudburo Bot Member Zone with its integrated Product Dashboard is your primary site, when it comes down to manage your Product/Bot subscriptions, in order for billing, configuration or control of your bot services.
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You have your personal user account for accessing the various services and functions. As a first step when acquiring a subscription for trial or purchase you will have to
+       &lt;a href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"&gt;register for an account&lt;/a&gt; or sign-in (
+       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;&lt;a href="https://bots.cloudburo.net/sign-in"&gt;https://bots.cloudburo.net/sign-in&lt;/a&gt;&lt;/a&gt;).
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Only an Email address (which will be verified via a verification Email) is required for signing up. After signing in and your initial product/bot election, you will be presented with the following screen:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/bf0df6536bfb80c6b3b8fd807a4cc70a.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The member zone consist of the Product Dashboard, as well as the User Profile section, which are described below.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;Product Dashboard&lt;/b&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;Our offerings&lt;/span&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Click on the
+       &lt;b&gt;Products&lt;/b&gt; menu entry on the top-left, which will switch to the Product Dashboard.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The first tab of the Product Dashboard shows the
+       &lt;b&gt;available product offerings&lt;/b&gt;. You can purchase or test a product from here. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        For the details about the trial or purchase process go
+       &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html"&gt;here&lt;/a&gt;.&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/0a430e78c517ab829bc261eb403f0458.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;My Products&lt;/span&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The second tab shows 
+       &lt;b&gt;your&lt;/b&gt; 
+       &lt;b&gt;purchased/trialled  products.&lt;/b&gt; In case of a trial subscription you can trigger the
+       &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"&gt;buy process&lt;/a&gt;.&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/b798e85d84b384058c8b5fa0f6b88cda.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;Setup&lt;/span&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The third tab is the entry point to
+       &lt;b&gt;setup products or bots&lt;/b&gt;, which are configurable, find details
+       &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"&gt;here&lt;/a&gt;&lt;/b&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/382526c6875d844f4d5babb46146b298.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;span style="font-size: 18px;"&gt;Control&lt;/span&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The fourth tab is the entry point to
+       &lt;b&gt;control commands,&lt;/b&gt; for products or bots which offer this feature. You can find a sample
+       &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html"&gt;here&lt;/a&gt;&lt;/b&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d024d11582ca075ebbd2c3f6c2304c76.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 24px;"&gt;&lt;b&gt;User Profile&lt;/b&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Click on the
+       &lt;b&gt;Person Icon&lt;/b&gt; menu entry on the top-left and select
+       &lt;b&gt;User Profile.&lt;/b&gt; The main functions here
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Changing or &lt;a href="https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"&gt;Verifying an Email Address&lt;/a&gt;&lt;/li&gt;
+       &lt;li&gt;Provide a name&lt;/li&gt;
+       &lt;li&gt;Provide your language&lt;/li&gt;
+       &lt;li&gt;Provide your time zone (which is used as a default for the publishing scheduler)&lt;/li&gt;
+       &lt;li&gt;&lt;a href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"&gt;Link your Evernote Account&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You will see and modify the General Account Settings of the Clouds Bot Platform. Additionally you can
+       &lt;i&gt;Change Password&lt;/i&gt; or
+       &lt;i&gt;Sign Out&lt;/i&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/21430b3a400007a3cfa56b646628279a.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to sign up for the Cloudburo Bots Member Zone</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"/>
+    <id>https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html</id>
+    <published>2016-05-15T23:07:35Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Creating a user account is straightforward via the link 
+       &lt;a href="https://bots.cloudburo.net/sign-up"&gt;&lt;/a&gt;
+       &lt;a href="https://bots.cloudburo/sign-up"&gt;&lt;/a&gt;
+       &lt;a href="https://bots.cloudburo/sign-up"&gt;&lt;/a&gt;
+       &lt;a href="https://bots.cloudburo.net/sign-up"&gt;&lt;a href="https://bots.cloudburo.net/sign-up"&gt;https://bots.cloudburo.net/sign-up&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        For the creation of an account only your Email is required, as well as a Password.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/49368db1ee20185f5d19f02f5fc04d02.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        An Email will be sent to the provided Email Address and you will be asked to verify it. It’s mandatory that you validate your Email Address otherwise you cannot use any services.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/8d8763261deaea0039a402afbfbc0021.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Open the Email and press the Link 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/ddadaf4d9eae6a41dc7ee69990530202.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You will be redirected to Cloudburo Bots Platform Memberzone and a short message will be shown that the Email got verified. Pressing the Home button will redirect you to the Product Offering page.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/95367e9fb403c46f623df13cbc41b79c.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Clicking on the “GO TO PRODUCT OFFERING” button will bring you to our Product Offering. You can go on here:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html"&gt;How to acquire a trial product&lt;/a&gt;&lt;/li&gt;
+       &lt;li&gt;&lt;a href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"&gt;How to buy a product&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+         More
+        &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Showcase: With the Evernote Publishing Bot in 115 days around the world</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html"/>
+    <id>https://curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html</id>
+    <published>2016-05-11T22:14:38Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/77a728725047aae47fc1d96b8a73cbf2.jpeg" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        During the beta phase of the
+       &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt; I had the opportunity to equip one of my good friends Bruno with our Evernote Publishing Bot.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Publishing Bot accompanied Bruno and his wife during 115 days on a cruising trip (with the famous
+       &lt;a href="http://brunosblog.curation.space/menu1.html"&gt;Silver Whisper&lt;/a&gt;) round the world (
+       &lt;a href="http://brunosblog.curation.space/menu2.html"&gt;28’000 sea miles&lt;/a&gt;). The Publishing Bot allowed him to easily assemble an up-to-date “World Cruise 2016” travel blog.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Having Evernote as his primary tool to collect photos and text - be it on board during cruising time  (using the Mac OSX Version) or during an excursion (using the handy mobile version) - the content creation process was straightforward.  He managed to provide an update on a daily base from any location on land or sea and that during 115 consecutive days!
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The blog can be found here:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="http://brunosblog.curation.space/"&gt;&lt;/a&gt;
+       &lt;a href="http://brunosblog.curation.space/"&gt;&lt;a href="http://brunosblog.curation.space/"&gt;http://brunosblog.curation.space/&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The blog was complemented with an automated weekly Mailchimp Newsletter (check out
+       &lt;a href="https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html"&gt;how-to-guide&lt;/a&gt;) , which kept his friends and family back in cold Switzerland up-to-date (with an over time growing reader community). 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The testing under various conditions allowed me to tweak and fine tune the publishing bot. The positive feedback how easy it was to produce content with the tool set was complemented by an amazing reading adventure.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        More
+       &lt;a href="https://curation.cloudburo.net/tags/showcase.html"&gt;Cloudburo Publishing Bot Showcases&lt;/a&gt; or
+       &lt;a href="https://publishingbot.cloudburo.net"&gt;Subscribe for a Trial&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to link your Evernote Account</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"/>
+    <id>https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html</id>
+    <published>2016-02-28T00:10:09Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Cloudburo Bots Platform requires a linkage with your Evernote Account, where you write and curate your stories. The following steps are necessary to connect your Evernote Account with the Cloudburo Bots Platform. It will register the Cloudburo Bots Platform with your Evernote account in order to create, write and move articles.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        It is important to note a Third Party Application (= Cloudburo Bots Platform) needs your expressed permission in order to access your Evernote account. Evernote will not transfer your email address to a Third Party Application without your permission, and will never transfer your password to any Third Party Application (as for example us).
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Cloudburo Bots Platform use the standard Evernote process called “OAuth” to obtain permission to access your Evernote account. The OAuth process allows you to authorize Evernote to give a specified Third Party Application (= Cloudburo Curation Platform) a token which in turn allows the Third Party Application to access your account without needing your Evernote username and password.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Follow these steps to grant access:
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Login to the Cloudburo Bots Platform member zone&lt;/li&gt;
+       &lt;li&gt;Head over to the “General Account Settings”  (Top right Menu - User Profile)&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/48a250e6ee614ab2e27e61216dbadd60.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;You will find there the entry “Link Evernote Account&amp;quot;&lt;/li&gt;
+       &lt;li&gt;Click on the “LINK” button which will initiate the Evernote Account Linking&lt;/li&gt;
+       &lt;li&gt;A popup of Evernote will be opened, asking you to login to Evernote (as you can see in the pop up, the URL is a “www.evernote.com” one, which ensures that you are logging to Evernote.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d75b4737e0580c327955815167febd4c.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;Having logged in, Evernote will ask you for permission that the Cloudburo Curation Platform (i.e. our Publishing Bot) may communicate with your notebooks&lt;/li&gt;
+        &lt;li&gt;The Account Access will be granted for one year, but may be canceled by your side anytime&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d3aec4fcef475e0052926e400595cb90.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Click the “Authorize” button to grant access to your Evernote account (in the example the button is called “Re-authorize”, but the normal case is an initial “Authorize&amp;quot;&lt;/li&gt;
+       &lt;li&gt;After having granted access, the “Link Evernote Account” will show the actual link status, together with its expiry date &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/d7c06a11e10ae82ac974937f10f24570.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;You are done and have  successfully connected your Evernote Account with the Cloudburo Bots Platform&lt;/li&gt;
+       &lt;li&gt;The cloud icon changed to colour “Green&amp;quot;&lt;/li&gt;
+       &lt;li&gt;Ready to set it up for site publishing&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e008c886b9adfe5428d18639b594cdb2.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;Finally you will get an Email from Evernote which will confirm the linkage&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/959dabbd79458802e4ace8537cfa3078.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+         More
+        &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Error: You didn’t link your Evernote Account yet</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html"/>
+    <id>https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html</id>
+    <published>2016-02-27T23:04:49Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;This Error message may be shown, when you hover or click on the cloud icon, which doesn’t have the colour green.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/815521ccb4f7711f48fb8f337be1f81a.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;It means, that there is a missing link to an Evernote account, where you are writing and mastering your articles&lt;/li&gt;
+       &lt;li&gt;Refer to the following &lt;b&gt;&lt;a href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"&gt;HowTo&lt;/a&gt;&lt;/b&gt; for the necessary steps to connect your Evernote account.&lt;/li&gt;
+      &lt;/ul&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to buy or test a product</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html"/>
+    <id>https://curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html</id>
+    <published>2016-02-27T12:16:20Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        In this “
+       &lt;b&gt;HowTo&lt;/b&gt;&amp;ldquo; we will show the steps in order to test or purchase a product. Be aware that the listed products could look differently in your member zone. We will show the steps which were necessary 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;first to test the product&lt;/li&gt;
+       &lt;li&gt;second to purchase the product&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You could bypass the testing step and purchase a product immediately.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="color: rgb(255, 38, 0);"&gt;&lt;i&gt;Click on the picture to get a bigger image.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Login to the Cloudburo Bots Platform Memberzone and switch to the Products Page (top menu right)&lt;/li&gt;
+       &lt;li&gt;The Tab ‘Our Offerings’ will show all ‘Available Products&amp;#39; &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;i&gt;&lt;br&gt;&lt;/i&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/a00110cf404c1984c6ff6fb3f3508cdc.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-a00110cf404c1984c6ff6fb3f3508cdc.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Products with a ‘Cloud’ Icon are subscription products which will be charged weekly, monthly or yearly&lt;/li&gt;
+       &lt;li&gt;Products with a ‘Box’ Icon are one-off products which will be charged once&lt;/li&gt;
+       &lt;li&gt;Pressing the ‘MORE’ button will provide you a description about the product.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/30d461fc103a1ad69f925de3db3fe26e.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-30d461fc103a1ad69f925de3db3fe26e.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Certain Products only have a ‘MORE’ button and no ‘TEST IT’ and ‘BUY IT’ one. In this case the products only get purchasable in case another product was purchase beforehand. I.e. in the example above ‘Curation Platform Basic Subscription’ must be purchased before any additional subscription prodcut is available.&lt;/li&gt;
+       &lt;li&gt;By clicking the ‘TEST IT’ button, the product will be added to the ‘My Products’ Tab&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/55814e2f6552fa8e79cfef0a08c4c7f5.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-55814e2f6552fa8e79cfef0a08c4c7f5.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Switch over to the ‘My Products’ tab, which list all your Products.&lt;/li&gt;
+       &lt;li&gt;In our sample you have one Trial Subscriptions.&lt;/li&gt;
+       &lt;li&gt;The Expiry Date is listed as well.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/40933553b5c5a92f4320523fbc79760e.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-40933553b5c5a92f4320523fbc79760e.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;The cloud icon shows it’s current status. I.e. in case the cloud color isn’t green, there are some outstanding configuration/setup steps necessary in order to get it fully functional.&lt;/li&gt;
+       &lt;li&gt;Hover over the cloud icon, to get a description what is missing (we will not cover the setup step here).&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/815521ccb4f7711f48fb8f337be1f81a.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-815521ccb4f7711f48fb8f337be1f81a.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;The ‘SETUP’ step will be described in an own article, which can be found here &amp;lt;TODO&amp;gt;&lt;/li&gt;
+       &lt;li&gt;The ‘MORE’ button will display details about your purchase&lt;/li&gt;
+       &lt;li&gt;Now we go on and buy the Product by pressing the ‘BUY IT’ button, which will open the Purchase screen.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/2ed8b85fc881297e1c80eab322d70377.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-2ed8b85fc881297e1c80eab322d70377.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Provide your Credit Card Payment Details.&lt;/li&gt;
+       &lt;li&gt;The form will check your entries and inform in case of any wrong input&lt;/li&gt;
+       &lt;li&gt;We are using Stripe as our Payment Provider for handling any kind of credit card transaction.&lt;/li&gt;
+       &lt;li&gt;Stripe is a leading and trusted payment processor in the internet space.&lt;/li&gt;
+       &lt;li&gt;We will not store any sensitive credit card information on our server. &lt;/li&gt;
+       &lt;li&gt;You can read the details about the security mechanism in this &lt;a href="https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html"&gt;article&lt;/a&gt;.&lt;/li&gt;
+       &lt;li&gt;After pressing ‘PAY NOW’ the purchase process will be executed and if everything works out, the Success Screen will be shown&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/4db5bcd481d3dbddc1a15a1ff384914b.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-4db5bcd481d3dbddc1a15a1ff384914b.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Switch over to the Products Screen and select the ‘My Products’ tab&lt;/li&gt;
+       &lt;li&gt;You can see now the product in the ‘Subsriptions Section&amp;#39;&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/528dfac7f1f5e0e39ec6ad73734afcfa.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-528dfac7f1f5e0e39ec6ad73734afcfa.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;Pressing the ‘MORE’ button will display the details, as well as the possibility to stop your subscription&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/b2e28b076a4acfc049c2e2efca4eeeed.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-b2e28b076a4acfc049c2e2efca4eeeed.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;You will also get an Email, which confirms your purchase and provides the details of the transaction.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/905d7973adb806f91932293ecbfa623a.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-905d7973adb806f91932293ecbfa623a.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;It will show you the purchase details and provides a link to our Terms of Services.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/af73d5ab28eaba81190d24f624e1087e.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-af73d5ab28eaba81190d24f624e1087e.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+         More
+        &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Error: Your Email isn’t verified</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/error-your-email-isnt-verified.html"/>
+    <id>https://curation.cloudburo.net/2016/02/27/error-your-email-isnt-verified.html</id>
+    <published>2016-02-27T09:13:53Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        This error happens when you want to test or buy a product but you didn’t verify your Email after the initial creation of your account.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/a937a4fdf1458471529b6f1866c0ceb1.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 18px;"&gt;Check out the following &lt;a href="https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"&gt;How-To Guide&lt;/a&gt;.&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to verify your Email Address</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"/>
+    <id>https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html</id>
+    <published>2016-02-27T09:00:37Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        When you create a new account the Cloudburo Bots Platform sends you an Email with the request to verify your Email. In case you missed it or didn&amp;rsquo;t click the verify link, you have to repeat the following steps.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; or
+       &lt;a href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"&gt;Sign up&lt;/a&gt; to the memberzone and follow the steps shown in the video tutorial. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ia_L8QXHXBU?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        More
+       &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>The importance of owning your blog - Best Practices</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/11/18/the-importance-of-owning-your-blog-best-practices.html"/>
+    <id>https://curation.cloudburo.net/2015/11/18/the-importance-of-owning-your-blog-best-practices.html</id>
+    <published>2015-11-18T22:27:13Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The article describes the importance of keeping control over your content real estate and how this will be ensured by the&lt;br&gt;
+       &lt;a href="https://curationplatform.cloudburo.net/"&gt;Cloudburo Bots Platform&lt;/a&gt;. Additionally you will get some best practices to ensure that the blog will generate website traffic from which your main website can benefit.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; Due to the static nature of the business content of a normal website, your website will not change very often after it’s initial setup. It may be that there are certain dynamic parts (e.g. a daily menu page on a restaurant website) but the major part of the overall content will stay the same for a long time.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;b&gt;Blogs Bring Targeted Website Traffic&lt;/b&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; When you start content marketing and establish your own blog it will act as an important dynamic element to bring in website traffic.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; When creating blog posts you’ll incorporate keyword rich content that your target customers want to find and read. By constantly producing fresh content you will be recognized by search engines and will improve your search ranking over time. Ultimately you will  get be found by users which are searching with keywords for your content topic.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; Once they are reading your blog they are already very close to your Webpage and that’s what you want to achieve.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; So you need to blog and blog often as well as  ensure that your blog is associated very closely with your own website.
+       &lt;br&gt;&lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Therefore many online marketing experts are giving the following advices which can be easily achieved by using the Cloudburo Bots Platform.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;b&gt;Use your own Domain&lt;/b&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; You should use the same top level domain for your blogging as you use for your business website.  So for example if your domain name for your main web page is „myrestaurant.com“, you should use for example for your blog the subdomain „blog.myrestaurant.com“.&lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Cloudburo Publishing Bot allows you to configure your own subdomain for a blog as described
+       &lt;a href="https://curation.cloudburo.net/2015/06/13/feature-custom-domain-support-and-cloudflare-cdn-integration.html"&gt;here&lt;/a&gt;. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; Via About and Contact pages you now can reference your main web page(s) for easy switch over. Make it clear who is the owner of the blog and what is you core business.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/ef6d344792fe14f13e3dbba4236ae93f.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-ef6d344792fe14f13e3dbba4236ae93f.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt; Click on pictures to get a bigger view.
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/f9f88c94b4a0361b859f810df3486463.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-f9f88c94b4a0361b859f810df3486463.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+       &lt;b&gt;Keep Control over your Content Real Estate &lt;/b&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; This is a very important point you should consider. A lot of free blogs or hosted content provider will control you content real estate in their dynamic systems. You will manage the content in some blogging web application and the content will be dynamically generated to your online community. You may use your own domain as described above, but you don’t have control over your content. For instance your provider can delete your content any time they want, in the worst case you will loose your content.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; Our approach here is a little bit different. We use a static Website Generator (actually middleman) which will produce nice, clean static HTML pages complemented by Javascript and CSS only. 
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; There is no dynamic magic or server side blogging engine required for the online publishing. A simple Webserver is required to present your content.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; Pure static websites means, that they are easy cacheable and have excellent response times.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; Your static website will published - beside the website - in a git version controlled directory, which you can access at any time and allows the download of the full content real estate.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; So the content real estate is under your control and you could walk away at any time from our service, taking the generated HTML pages with you and publish and manage it on your own webserver.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;b&gt;Blogs Are Great Ways to Share Information&lt;/b&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; Visitors to your website should be able to subscribe to your blog, as it’s a great way to push out information to your customers and potential customers. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In order to do that you should establish a periodic newsletter. This can be achieved easily within the Cloudburo Bots Platform by integrating via Mailchimp. A short tutorial you can find
+       &lt;a href="https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html"&gt;here&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;a data-toggle="lightbox" href="/images/a5b124ec7bc8f45a12b3e74d8e9fb45f.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-a5b124ec7bc8f45a12b3e74d8e9fb45f.png" /&gt;&lt;/a&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+       &lt;b&gt;Blogs Are Engaging and Interactive&lt;/b&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt; One of the best ways in which you can increase traffic to your website through your blog is by opening up the comments section. Then ask your audience open ended questions that they can answer right on your blog (in the comments section). This is called user-generated content, and user-generated content can cause a firestorm of website traffic when encouraged and the right questions are asked and answered.
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Also here the Cloudburo Publishing Bot allows an easy integration of the Disqus comment feature. The feature is described
+       &lt;a href="https://curation.cloudburo.net/2015/05/20/feature-disqus-article-comment-platform-integration.html"&gt;here&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;b&gt;Bear in Mind: Successful Websites are dynamic&lt;/b&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;i&gt;A good website today is dynamic and ever changing, if you don’t update your website’s content on a regular basis, Google will not crawl your website on a regular basis and thus your search engine rankings will drop over time and be lower, than those websites that do. This is the same for all search engine technology, no matter what search engine your customers use. A blog is a simple way to update your website as often as possible with engaging, interesting, keyword-rich and relevant content. It’ll keep the search engines interested and more importantly it’ll maintain the interest of your target audience.&lt;/i&gt; -
+       &lt;span style="font-size:10px;"&gt; &lt;/span&gt;
+       &lt;a href="https://website-designs.com/online-marketing/content-marketing/your-blog-should-be-on-your-own-website/"&gt;&lt;span style="font-size:10px;"&gt;Steve Cartwright / Website-designs.com&lt;/span&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        So head off and start creating and curating your content in Evernote and publish it with the help of the&lt;br&gt;
+       &lt;a href="https://curationplatform.cloudburo.net/"&gt;Cloudburo Publishing Bot&lt;/a&gt; to your online community in a hassle free manner.
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Integrate: Mailchimp for Periodic Newsletter Publishing</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html"/>
+    <id>https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html</id>
+    <published>2015-11-18T21:52:18Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Visitors to your website should be able to subscribe to your blog, as it’s a great way to push out information to your customers and potential customers. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Such a Newsletter Subscription Automation can be easily achieved within the Cloudburo Content Curation Platform by integrating the marketing service by Mailchimp (you can use the free account for a start).
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        This is achieved via the RSS Campaign mechanism within Mailchimp. Your content site will offer a
+       &lt;a href="https://curation.cloudburo.net/2015/05/19/feature-w3c-atom-1-0-valid-rss-feed.html"&gt;W3C Atom 1.0 valid RSS Feed&lt;/a&gt;, which is used by Mailchimp for its newsletter generation.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        RSS Campaigns use merge tags to pull in RSS (Real Simple Syndication) content from a blog feed. When an RSS feed is updated with a new blog post, MailChimp will pull that content into the campaign and send it to your subscribers on a daily, weekly, or monthly schedule.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        How this one is setup in Mailchimp can be found
+       &lt;a href="http://kb.mailchimp.com/campaigns/rss-in-campaigns/create-an-rss-campaign"&gt;here&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Refer to our
+       &lt;a href="https://curation.cloudburo.net/2015/05/25/showcase-dog-news-site-for-the-german-market.html"&gt;dognews showcase&lt;/a&gt; which describes the Newsletter integration in a live Cloudburo Curation Platform site.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Tutorial: Sign up for an Evernote account within a minute</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html"/>
+    <id>https://curation.cloudburo.net/2015/10/23/tutorial-sign-up-for-an-evernote-account-within-a-minute.html</id>
+    <published>2015-10-23T22:12:02Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        For using the Cloudburo Curation Platform you require an Evernote account, which can be easily opened within a minute. The basic offering is free and allows you easily to test out the Cloudburo Curation Platform.&lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Look to the following video and head over then to
+       &lt;a href="https://evernote.com"&gt;&lt;a href="https://evernote.com"&gt;https://evernote.com&lt;/a&gt;&lt;/a&gt; or the
+       &lt;a href="https://help.evernote.com/hc/en-us/articles/208314458-Quick-start"&gt;Quick Start Guide&lt;/a&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/DxBiyBVh59E?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Basic concepts and features of the Cloudburo Curation Platform</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/10/01/basic-concepts-and-features-of-the-cloudburo-curation-platform.html"/>
+    <id>https://curation.cloudburo.net/2015/10/01/basic-concepts-and-features-of-the-cloudburo-curation-platform.html</id>
+    <published>2015-10-01T21:47:55Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/e9bd865085742ba4d3a52b3c8740babc.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+         The article describes the basic concepts and capability  of the Cloudburo Publishing Bot  in a narrative way. It will allow you to get a good overview what is offered by the bot.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;u&gt;&lt;b&gt;An Online Content site for your community&lt;/b&gt;&lt;/u&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         The 
+        &lt;b&gt;Cloudburo Publishing Bot Platform&lt;/b&gt; is managing content sites of multiple 
+        &lt;b&gt;users&lt;/b&gt;.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         A Cloudburo 
+        &lt;b&gt;content&lt;/b&gt;
+        &lt;b&gt;site&lt;/b&gt; consists of multiple 
+        &lt;b&gt;articles&lt;/b&gt; which were transformed from Evernote 
+        &lt;b&gt;notes&lt;/b&gt; stored in dedicated Evernote 
+        &lt;b&gt;notebooks.&lt;/b&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         A content site is offering the articles in a
+        &lt;b&gt;responsive mobile friendly HTML format&lt;/b&gt; to the online audience which provides in an optimized reading experience on any device size.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         A content site is represented by a unique user chosen 
+        &lt;b&gt;site identifier&lt;/b&gt; 
+        &lt;b&gt;(SID)&lt;/b&gt; within the Cloudburo Publishing Bot Platform. You may manage multiple sites from one Evernote account.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         By default the content side of a user is reachable via
+        &lt;i&gt; https://&amp;lt;yourSiteId&amp;gt;.curation.space. &lt;/i&gt;You may choose to use your own  domain.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         A blog
+        &lt;b&gt;article&lt;/b&gt; may be originated from a
+        &lt;b&gt;note&lt;/b&gt; which was placed in one of two Evernote
+        &lt;b&gt;transfer&lt;/b&gt; 
+        &lt;b&gt;notebooks&lt;/b&gt;.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;A set of Evernote Notebooks will manage the content creation process&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;Notes which are &lt;b&gt;self-created or curated&lt;/b&gt;,  that means they are formatted and structured according to the authors desire. These notes should be placed into the &lt;b&gt;Curation Transfer  Notebook.&lt;/b&gt; It has the name &lt;i&gt;&amp;lt;yourSiteId&amp;gt;-E-CurateGen.&lt;/i&gt;&lt;/li&gt;
+        &lt;li&gt;Notes which consist of a short news &lt;b&gt;headline paragraph in bold&lt;/b&gt; complemented with a link to the full article on a third party website should be placed into the &lt;b&gt;News Transfer Notebook.&lt;/b&gt; It has the name &lt;i&gt;&amp;lt;yourSiteId&amp;gt;-D-NewsGen&lt;/i&gt;.&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;b&gt;Notes in the transfer notebooks will be periodically fetched&lt;/b&gt; by your Cloudburo Publishing Bot, converted to articles and published on the users content site.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         After the note is published it will be moved to the  Evernote 
+        &lt;b&gt;Archive &lt;/b&gt;
+        &lt;b&gt;Notebook&lt;/b&gt; with the name 
+        &lt;i&gt;&amp;lt;yourSiteId-Z-Archiv&lt;/i&gt;&amp;gt;. The note will be marked with the tag 
+        &lt;b&gt;clb-processed&lt;/b&gt;.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        For the news style content kind of notes a
+       &lt;b&gt;text expander convience feature&lt;/b&gt; is provided
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;Any news notes (with a external link) placed in the notebook &lt;i&gt;&amp;lt;yourSiteId&amp;gt;-A-NewsGen&lt;/i&gt; will trigger a full content fetch by the publishing bot  from the provided notes link.&lt;/li&gt;
+        &lt;li&gt;the extracted content will be stored in plain text as the note content&lt;/li&gt;
+        &lt;li&gt;finally the note will be moved into the notebook &lt;i&gt;&amp;lt;yourSiteId&amp;gt;-B-Prepare&lt;/i&gt;.&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         This feature will allow you to speed up article publishing on news site, refer to the
+        &lt;a href="https://curation.cloudburo.net/tags/workflow.html"&gt;workflow description&lt;/a&gt; for details
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;u&gt;&lt;b&gt;Evernote notes are the foundation of your published articles&lt;/b&gt;&lt;/u&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         The Evernote note 
+        &lt;b&gt;creation&lt;/b&gt;
+        &lt;b&gt;date&lt;/b&gt; as well as the note 
+        &lt;b&gt;title&lt;/b&gt; must be treated as immutable after the initial article generation step. These two attributes are part of the article URL and will uniquely identify the article in your content site.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         Changing these two fields will result in a new article entry. Otherwise an change on a processed note and moving it back into the Transfer Notebook will result in an updated article.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         A generated article can be removed from the content site, by attaching the 
+        &lt;b&gt;clb-delete &lt;/b&gt;tag and move it to one of the Transfer Notebooks. The note will be fetched and the corresponding article will be removed from the content site. The note itself will be moved to the Archive Notebook and the clb-delete tag will be unattached.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         A note may have
+        &lt;b&gt;dedicated tags attached&lt;/b&gt; with a prefix of &amp;ldquo;&amp;lt;site identifier&amp;gt;-&amp;lt;category&amp;gt;&amp;rdquo;. The tags will be used to categorize the articles on the content site.  The content site will offer a
+        &lt;b&gt;category menu which lists all used categories&lt;/b&gt; in oder to get a list of articles by category entty.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;u&gt;&lt;b&gt;Fine tune the publishing periodicity according to your needs&lt;/b&gt;&lt;/u&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        A content site is operated in a user chosen 
+       &lt;b&gt;time zone&lt;/b&gt; and  notes in the Transfer notebooks are members of the 
+       &lt;b&gt;article publishing queue.&lt;/b&gt; The article publishing queue has a article 
+       &lt;b&gt;publishing scheduler&lt;/b&gt;, which defines (user chosen)
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;at &lt;b&gt;which week days&lt;/b&gt;&lt;/li&gt;
+       &lt;li&gt;in &lt;b&gt;which time window&lt;/b&gt; in the defined time zone&lt;/li&gt;
+       &lt;li&gt;&lt;b&gt;how many  articles&lt;/b&gt; per hour&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+         should be published on the content site.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         If the publish scheduler triggers a  generation event,  the above described transfer notebooks will be checked for available notes. If available the scheduler will fetch the oldest note (creation date) and generate the corresponding content site article.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         For notes with the tag clb-processed or clb-delete attached the scheduler doesn&amp;rsquo;t apply - i.e. they will be updated or deleted in the next publishing cycle.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;u&gt;&lt;b&gt;Embed various kind of rich content artifacts&lt;/b&gt;&lt;/u&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        You may include various kind of content which will be nicely formatted in a resposnive manner in your content site
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;Images&lt;/li&gt;
+        &lt;li&gt;Youtube Videos&lt;/li&gt;
+        &lt;li&gt;Code Synax Highlighting&lt;/li&gt;
+        &lt;li&gt;HTML direct Embed. To be used in cases you want to include any kind of HTML code fragements. I.e. in case you want include a Mailchimp form for your newsletter&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;u&gt;&lt;b&gt;Control content site menu and footer, as well as social media icon links&lt;/b&gt;&lt;/u&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         Additional Header- as well as Footer menus, as well as optionally a customized entry (index) page, may be defined in dedicated Evernote notes. Socia media icons to link to your social media sites are available.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;u&gt;&lt;b&gt;A rich set of integration options exists to further customize and extend your content site&lt;/b&gt;&lt;/u&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Various possibilities exist to integrate your content site with other capabilities, as for example
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;Google Analytics&lt;/li&gt;
+        &lt;li&gt;Disqus Comment and Collaboration feature&lt;/li&gt;
+        &lt;li&gt;RSS Feed support&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The following naming conventions apply for the above mentioned Evernote Notebooks, they will be automatically created (as well as any required tag) during the initial setup of a site.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;blog-&amp;lt;site identifier&amp;gt;-A-Fetch&lt;/li&gt;
+       &lt;li&gt;blog-&amp;lt;site identifier&amp;gt;-B-Prepare&lt;/li&gt;
+       &lt;li&gt;blog-&amp;lt;site identifier&amp;gt;-D-NewsGen&lt;/li&gt;
+       &lt;li&gt;blog-&amp;lt;side identifier&amp;gt;-E-CurateGen&lt;/li&gt;
+       &lt;li&gt;blog-&amp;lt;side identifier&amp;gt;-Z-Archive&lt;/li&gt;
+      &lt;/ul&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Introduction to Evernote</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html"/>
+    <id>https://curation.cloudburo.net/2015/09/09/introduction-to-evernote.html</id>
+    <published>2015-09-09T23:05:06Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Evernote One Workplace solution is the center application into which the Cloudburo Curation Platform hooks into.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Some videos may help you to get started with it, in case you are new to Evernote.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Evernote is supported on various devices and browsers.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Check out the following movie to get an understanding of their new Web User Interface
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/_3VHEDgQdIs?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        If you download the native Evernote Mac App check out the most important feature here
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/X-NRMJE_x1c?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Or you can work directly from your mobile device, for example Android 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/yrQ87l3AwL8?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Credit Card Payments Handling at Cloudburo</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html"/>
+    <id>https://curation.cloudburo.net/2015/08/24/credit-card-payments-handling-at-cloudburo.html</id>
+    <published>2015-08-24T19:34:51Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Security is one of our biggest consideration, when it comes down to charge our client for our services via Credit or Debit Card.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Therefore Cloudburo choses
+       &lt;a href="http://www.stripe.com"&gt;Stripe&lt;/a&gt; as our Payment provider for handling any kind of credit card transaction. Stripe is a leading and trusted payment processor in the internet space.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Stripe has been audited by a PCI-certified auditor, and is certified to
+       &lt;a href="http://www.visa.com/splisting/searchGrsp.do?companyNameCriteria=stripe"&gt;PCI Service Provider Level 1&lt;/a&gt;. This is the most stringent level of certification available.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        We use Stripe.js on our website to collect the necessary credit card data in your browser. The entered data in the form is
+       &lt;u&gt;&lt;b&gt;never sent to our server&lt;/b&gt;&lt;/u&gt;, instead they are sent directly to Stripe. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Why is this so important?
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;ul&gt;
+       &lt;li&gt;More secure because a breach of our servers won&amp;rsquo;t result in any stolen credit card data. They are only hold in the highly secure vaults of Stripe,  which fully complies to the PCI standard.&lt;/li&gt;
+       &lt;li&gt;Therefore we are automatically also PCI compliant &lt;u&gt;&lt;b&gt;because we don&amp;rsquo;t handle any sensitive credit card data on our servers&lt;/b&gt;&lt;/u&gt;.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Serving you with a premium service experience and ensuring highest protection of your sensitive data.
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Showcase: Visitor Tips for Hotel Guest</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html"/>
+    <id>https://curation.cloudburo.net/2015/08/15/showcase-visitor-tips-for-hotel-guest.html</id>
+    <published>2015-08-15T10:04:20Z</published>
+    <updated>2016-12-29T09:18:29+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The Website
+       &lt;a href="https://zurich4u.ch"&gt;zurich4u.ch&lt;/a&gt; is used by the owners of a small but fine Swiss boutique and design hotel chain in Zurich/Switzerland (
+       &lt;a href="http://townhouse.ch/"&gt;Townhouse&lt;/a&gt;,
+       &lt;a href="http://plattenhof.ch/"&gt;Plattenhof&lt;/a&gt; ) to offer mobile optimized content around Zurich for their hotel clientele. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/e5c823291a1d82df87a5c3c960e5d8da.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The Website is concentrating around quick tips what to do in Zurich grouped by the categories
+       &lt;i&gt;shopping&lt;/i&gt;,
+       &lt;i&gt;restaurant&lt;/i&gt;,
+       &lt;i&gt;leisure&lt;/i&gt;,
+       &lt;i&gt;coffee&amp;amp;bar&lt;/i&gt;, as well as
+       &lt;i&gt;art&lt;/i&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The owner can produce these personalized recommendation quickly just by using Evernote on any kind of device, whenever there is a free time slot. Be it in the office, at home or visiting one of its hotels or restaurants.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/4846c10d44ec1d6729668f0c36e978a4.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Aiming a hotel guests and tourists strolling through the city, it’s key that the content is mobile site optimized.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/f9719f827879546877594422ab55e858.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Having - beside the official hotel web sites - an additional self curated content site with tips around the travel destination (which gets updated regularly with fresh content), helps in attracting new prospects and clients in the Internet in a indirect way.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        As for example: „Grieder Bar“ is a new and hype place in Zurich which attracts people living or visiting Zurich. The hotel owner of zurich4u was publishing a small article on its Website about this trendy place.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Now checking google search shows that this article is already shown on the first search page!
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/bdc68fde1a551785a9997ecc21eb3855.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        This will lead people first to the content Website and from there potentially to the Hotel Websites, which ultimately may result in new clients and new revenue. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        An easy solution in order to establish a presence in the Content Marketing space, affordable and manageable for any kind of companies.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        More
+       &lt;a href="https://curation.cloudburo.net/tags/showcase.html"&gt;Cloudburo Publishing Bot Showcases&lt;/a&gt; or
+       &lt;a href="https://publishingbot.cloudburo.net"&gt;Subscribe for a Trial&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
