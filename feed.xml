@@ -92,7 +92,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html</id>
     <published>2016-12-03T10:21:23Z</published>
-    <updated>2017-01-09T22:29:54+00:00</updated>
+    <updated>2017-01-09T23:29:20+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -143,8 +143,17 @@
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/f3ee431215e2f9a74f62510007bff870.png" /&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;              &lt;/div&gt;
+    &lt;p&gt;&lt;span/&gt;               &lt;br&gt;
+            &lt;/div&gt;
            &lt;/div&gt;&lt;/td&gt;
+          &lt;td style=""&gt;
+           &lt;div&gt;
+             Template Theme: “Von”  (based on the
+            &lt;a href="https://wrapbootstrap.com/search?q=Von"&gt;wrapbootstrap “Von&amp;quot; template&lt;/a&gt;)
+            &lt;br&gt;
+           &lt;/div&gt;&lt;/td&gt;
+         &lt;/tr&gt;
+         &lt;tr&gt;
           &lt;td style=""&gt;
            &lt;div&gt;&lt;/p&gt;
     
@@ -152,14 +161,6 @@
   &lt;img class="img-responsive img-thumbnail article" src="/images/27dcc01a6f837edf32f7b0889788c17f.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;              &lt;br&gt;
-           &lt;/div&gt;&lt;/td&gt;
-         &lt;/tr&gt;
-         &lt;tr&gt;
-          &lt;td style=""&gt;
-           &lt;div&gt;
-             Template Theme: “Von”  (based on the
-            &lt;a href="https://wrapbootstrap.com/search?q=Von"&gt;wrapbootstrap “Von&amp;quot; template&lt;/a&gt;)
-            &lt;br&gt;
            &lt;/div&gt;&lt;/td&gt;
           &lt;td style=""&gt;
            &lt;div&gt;
