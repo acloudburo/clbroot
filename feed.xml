@@ -724,7 +724,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html"/>
     <id>https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html</id>
     <published>2016-09-21T19:48:19Z</published>
-    <updated>2017-01-03T13:50:52+00:00</updated>
+    <updated>2017-01-12T20:50:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -749,20 +749,21 @@
         &lt;br&gt;
        &lt;/div&gt;
        &lt;div&gt;
-         The Publishing Bot will work exclusively within this notebooks and will NEVER read or write out-side of these notebooks. 
+         The Publishing Bot will work exclusively within these notebooks and
+        &lt;u&gt;will &lt;b&gt;NEVER&lt;/b&gt; read or write out-side of these newly create notebooks&lt;/u&gt;. 
        &lt;/div&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        The Publishing Bot will be triggered when YOU  move content into three of the five notebooks. So you are in full control here, when to trigger Publishing Bot activities.
+       &lt;u&gt;The Publishing Bot will be triggered when &lt;b&gt;YOU&lt;/b&gt;  move content into three of the five notebooks&lt;/u&gt;. So you are in full control here, when to trigger Publishing Bot activities.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        Unfortunately the Evernote authorisation process isn’t enough flexible to restrict access just to these subset of notebooks (refer to the screenshot by clicking on it)
+        Unfortunately the Evernote authorisation process isn’t enough flexible to restrict access just to these subset of notebooks. In the screenshot below (press on the thumbnail to get a bigger image), you can see which rights we are requesting. As you can see don’t have the right to delete notes or notebooks. 
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -772,12 +773,13 @@
   &lt;/div&gt;
   &lt;a data-toggle="lightbox" href="/images/ae6524d353deeb11ab981e4723a49349.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-ae6524d353deeb11ab981e4723a49349.png" /&gt;&lt;/a&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        This could cause some uncomfortability by certain users that all his notebooks are exposed. Luckily there is an easy workaround, which doesn’t expose any of your other notebooks to the Publishing Bot.
+        Nevertheless the granted rights may cause some uncomfortability by certain users that all his notebooks are exposed. Luckily there is an easy workaround, which only exposes our new created notebooks and doesn’t expose any of your other notebooks to the Publishing Bot.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -790,7 +792,7 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        You can request a &amp;ldquo;virtual email&amp;rdquo; from us for free (email &lt;a href="mailto:support@cloudburo.net"&gt;support@cloudburo.net&lt;/a&gt;). I.e. we will setup an Email on our side (&lt;a href="mailto:yourName@cloudburo.net"&gt;yourName@cloudburo.net&lt;/a&gt;) which will route  any email to the one which you used during the Cloudburo registration process.
+        You can request a &amp;ldquo;virtual email&amp;rdquo; from us for free (email &lt;a href="mailto:support@cloudburo.net"&gt;support@cloudburo.net&lt;/a&gt;). I.e. we will setup an Email on our side (&lt;a href="mailto:yourName@curation.space"&gt;yourName@curation.space&lt;/a&gt;) which will route  any email to your primary email address (the one which you used during the Cloudburo registration process).
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -803,19 +805,19 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        The Publishing Bot will create in this new account its set of Notebooks.
+        The Publishing Bot will create in this new account its set of Notebooks, no other Notebooks are required in this Evernote Account.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        Finally share the Pulbishing Bot created Evernote Notebooks with your primary Evernote account, as described below 
+        Finally share the Pulbishing Bot created Evernote Notebooks with your primary Evernote account, as described below.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        On your new create notebooks select the “Share Notebook” feature. In the screenshot below we select the notebook for “felixblog” 
+        On your newly created notebooks select the “Share Notebook” feature. In the screenshot below we select the notebook for “felixblog” 
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -825,7 +827,8 @@
   &lt;/div&gt;
   &lt;a data-toggle="lightbox" href="/images/631ae24b8373aadcc9b1c3106da97e54.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-631ae24b8373aadcc9b1c3106da97e54.png" /&gt;&lt;/a&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
@@ -837,12 +840,19 @@
   &lt;/div&gt;
   &lt;a data-toggle="lightbox" href="/images/b781c5fcfd7135ed0feeac4cb9ffd7d8.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-b781c5fcfd7135ed0feeac4cb9ffd7d8.png" /&gt;&lt;/a&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        Done!, you now can write articles in your primary Evernote Account move them to the corresponding shared notebook, which will trigger the publishing process.
+        Done!, you now can write articles in your primary Evernote Account move them to the corresponding shared notebook, which will trigger the publishing process out of your second Evernote Account.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        After you have gained confidence and trust in our offering, we suggest that you switch the connection to your primary account and close down the Free Evernote account.
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -851,6 +861,9 @@
        &lt;div&gt;
         &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
