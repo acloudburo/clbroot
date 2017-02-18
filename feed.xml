@@ -357,7 +357,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html</id>
     <published>2016-12-03T10:21:23Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-02-18T12:14:06+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -368,6 +368,7 @@
     &lt;p&gt;&lt;div&gt;
         The below listed Themes are part of the
        &lt;a href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-premium-subscription.html"&gt;Publishing Bot Premium Subscription&lt;/a&gt;.
+       &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -380,42 +381,39 @@
        &lt;i&gt;&lt;br&gt;&lt;/i&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        The themes were customized to fit to the features offered by the Cloudburo Publishing Bot. 
+        The themes were customized to fit to the features offered by the Cloudburo Publishing Bot, check them out on our dedicated 
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        Currently the premium offering covers two template themes (more themes will be added over time with no additional subscription pricing).
+       &lt;b&gt;&lt;a href="https://publishingbot-themes.cloudburo.net"&gt;Theme Website&lt;/a&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The detailed description site can be found here:
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
-      &lt;div&gt;
-       &lt;div&gt;
-        &lt;br&gt;
-       &lt;/div&gt;
-      &lt;/div&gt;
+      &lt;div&gt;&lt;/div&gt;
       &lt;div&gt;
        &lt;table style=""&gt;
         &lt;tbody&gt;
          &lt;tr&gt;
           &lt;td style=""&gt;
-           &lt;div&gt;&lt;/div&gt;
-           &lt;div&gt;
-            &lt;div&gt;&lt;/p&gt;
+           &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/f3ee431215e2f9a74f62510007bff870.png" /&gt;
+  &lt;a data-toggle="lightbox" href="/images/27dcc01a6f837edf32f7b0889788c17f.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-27dcc01a6f837edf32f7b0889788c17f.png" /&gt;&lt;/a&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;               &lt;br&gt;
-            &lt;/div&gt;
+    &lt;p&gt;&lt;span/&gt;              &lt;br&gt;
            &lt;/div&gt;&lt;/td&gt;
           &lt;td style=""&gt;
            &lt;div&gt;
-             Template Theme: “Von”  (based on the
-            &lt;a href="https://wrapbootstrap.com/search?q=Von"&gt;wrapbootstrap “Von&amp;quot; template&lt;/a&gt;)
-            &lt;br&gt;
+             Theme Emma
            &lt;/div&gt;&lt;/td&gt;
          &lt;/tr&gt;
          &lt;tr&gt;
@@ -423,14 +421,22 @@
            &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/27dcc01a6f837edf32f7b0889788c17f.png" /&gt;
+  &lt;a data-toggle="lightbox" href="/images/f3ee431215e2f9a74f62510007bff870.png"&gt;&lt;img class="img-responsive img-thumbnail article" src="/images/tb-f3ee431215e2f9a74f62510007bff870.png" /&gt;&lt;/a&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;              &lt;br&gt;
            &lt;/div&gt;&lt;/td&gt;
           &lt;td style=""&gt;
            &lt;div&gt;
-             Template Theme: “Emma”  (based on the 
-            &lt;a href="https://wrapbootstrap.com/theme/emma-beauty-blog-html-template-WB055S9S3"&gt;wrapbootstrap “Emma&amp;quot; template&lt;/a&gt;) 
+             Theme Von
+           &lt;/div&gt;&lt;/td&gt;
+         &lt;/tr&gt;
+         &lt;tr&gt;
+          &lt;td style=""&gt;
+           &lt;div&gt;
+            &lt;br&gt;
+           &lt;/div&gt;&lt;/td&gt;
+          &lt;td style=""&gt;
+           &lt;div&gt;
             &lt;br&gt;
            &lt;/div&gt;&lt;/td&gt;
          &lt;/tr&gt;
@@ -441,15 +447,13 @@
        &lt;i&gt;&lt;br&gt;&lt;/i&gt;
       &lt;/div&gt;
       &lt;div&gt;
-       &lt;b&gt;Video: Theme Von&lt;/b&gt;
+       &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-       &lt;div class="responsive-video"&gt;
-        &lt;iframe src="https://www.youtube.com/embed/KFubRjljbDU?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-       &lt;/div&gt;
+       &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -461,9 +465,6 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-       &lt;div class="responsive-video"&gt;
-        &lt;iframe src="https://www.youtube.com/embed/ILhrZbmbsRs?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-       &lt;/div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
@@ -476,117 +477,28 @@
        &lt;i&gt;&lt;br&gt;&lt;/i&gt;
       &lt;/div&gt;
       &lt;div&gt;
-       &lt;b&gt;&lt;u&gt;Theme Description: Von&lt;/u&gt;&lt;/b&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/div&gt;
-      &lt;div&gt;
-        Von is a minimalist blog theme, designed to optimize your reading experience as much as possible. With support for mobile and tablet devices you can easily reach all your readers (
-       &lt;a href="https://wrapbootstrap.com/theme/von-minimalist-blog-theme-WB022B0X6"&gt;wrapbootstrap theme link&lt;/a&gt;, the template price is included in our subscription package).
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Sample PublishingBot managed site based on this template:
-       &lt;a href="https://dev.cloudburo.net"&gt;&lt;a href="https://dev.cloudburo.net"&gt;https://dev.cloudburo.net&lt;/a&gt;&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/f3ee431215e2f9a74f62510007bff870.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Menu Expanded:
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/77726c88d9688ea57e586817e6ea0115.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Category View:
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;b&gt; &lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/63dc3dbbe428860507fd99623625e892.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; &lt;br&gt;&lt;/b&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;b&gt;&lt;u&gt;Theme Description: Emma&lt;/u&gt;&lt;/b&gt;
       &lt;/div&gt;
-      &lt;div&gt;
-       &lt;b&gt;&lt;br&gt;&lt;/b&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Emma is a clean template ideally for beauty, lifestyle or fashion blogs (
-       &lt;a href="https://wrapbootstrap.com/theme/emma-beauty-blog-html-template-WB055S9S3"&gt;wrapbootstrap theme link&lt;/a&gt;, the template price is included in our subscription package).
-      &lt;/div&gt;
+      &lt;div&gt;&lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        Sample PublishingBot managed site based on this template: 
-       &lt;a href="https://trips.curation.space/"&gt;&lt;a href="https://trips.curation.space/"&gt;https://trips.curation.space/&lt;/a&gt;&lt;/a&gt;
+        Theme Description: Material-Photo
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/27dcc01a6f837edf32f7b0889788c17f.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
       &lt;div&gt;
-        Category Page
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/3bb1c807f7547572126afb2336d6ab9d.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Recent Posts section will render first picture in your Evernote article as an icon:
+       &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/51702284602f8248aad5c35de8c9d0bd.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
