@@ -5,139 +5,10 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-03-05T22:23:21Z</updated>
+  <updated>2017-02-18T13:28:48Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
-  <entry>
-    <title>How To Generate A Nice Elevation Chart Out Of Your Google Trip</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2017/03/05/how-to-generate-a-nice-elevation-chart-out-of-your-google-trip.html"/>
-    <id>https://curation.cloudburo.net/2017/03/05/how-to-generate-a-nice-elevation-chart-out-of-your-google-trip.html</id>
-    <published>2017-03-05T22:23:21Z</published>
-    <updated>2017-03-05T22:23:26+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        The following article will show you how to generate a nice elevation chart out of one of your route which you have a stored as a map in your Google Account (mymaps): 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="color: rgb(0, 102, 33); font-size: 14px; background-color: rgb(255, 255, 255);"&gt;&lt;a href="https://www.google.com/mymaps"&gt;&lt;a href="https://www.google.com/mymaps"&gt;https://www.google.com/mymaps&lt;/a&gt;&lt;/a&gt;&lt;/span&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        In our example we want to generate a Elevation Chart out of our map “Küsnacht Walks”:
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/9f2c7fc071fa5dfd49ff6b50c558d0a5.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Having opened the map in the Editor, select the KML Export feature. 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/f227d97cb9d4f4eb36088182c364dfdf.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Select the route which you want to export and download the KML file.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/a9905c941be6fa6779ff2e6f272ff59e.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        For the Elevation Chart use the GPS Visualizer Website: 
-       &lt;a href="http://www.gpsvisualizer.com/elevation"&gt;&lt;a href="http://www.gpsvisualizer.com/elevation"&gt;http://www.gpsvisualizer.com/elevation&lt;/a&gt;&lt;/a&gt;. Upload your file (1) and Draw the Elevation Profile (2).
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/c8332fe06239dc47534e01ea0562482c.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Which results in a nice Elevation Profile, which you can integrate as Picture into your Blog.
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/dc1074029cb2a8a374aa946f5d96fdfd.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The final blog generated with the
-       &lt;a href="https://publishingbot.cloudburo.net"&gt; Cloudburo Publishing Bot&lt;/a&gt;, may look as follows:
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="img-responsive img-thumbnail article" src="/images/411d525f908467ed3d23137b31842db8.png" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
   <entry>
     <title>Premium Theme: Material-Photo</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2017/02/18/premium-theme-material-photo.html"/>
@@ -4750,6 +4621,52 @@
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>How to verify your Email Address</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"/>
+    <id>https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html</id>
+    <published>2016-02-27T09:00:37Z</published>
+    <updated>2017-03-05T20:13:33+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        When you create a new account the Cloudburo Bots Platform sends you an Email with the request to verify your Email. In case you missed it or didn&amp;rsquo;t click the verify link, you have to repeat the following steps.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; or
+       &lt;a href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"&gt;Sign up&lt;/a&gt; to the memberzone and follow the steps shown in the video tutorial. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ia_L8QXHXBU?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        More
+       &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;

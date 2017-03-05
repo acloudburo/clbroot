@@ -499,12 +499,6 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://curation.cloudburo.net/2017/03/05/how-to-generate-a-nice-elevation-chart-out-of-your-google-trip.html</loc>
-    <lastmod>2017-03-05</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html</loc>
     <lastmod>2017-03-05</lastmod>
     <priority>0.7</priority>
@@ -730,18 +724,6 @@
     <loc>https://curation.cloudburo.net/2017.html</loc>
     <lastmod>2017-03-05</lastmod>
     <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.cloudburo.net/2017/03.html</loc>
-    <lastmod>2017-03-05</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://curation.cloudburo.net/2017/03/05.html</loc>
-    <lastmod>2017-03-05</lastmod>
-    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
