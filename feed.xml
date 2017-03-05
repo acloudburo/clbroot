@@ -5,16 +5,145 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-02-18T13:28:48Z</updated>
+  <updated>2017-03-05T22:23:21Z</updated>
   <author>
     <name>Felix Kuestahler</name>
   </author>
+  <entry>
+    <title>How To Generate A Nice Elevation Chart Out Of Your Google Trip</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2017/03/05/how-to-generate-a-nice-elevation-chart-out-of-your-google-trip.html"/>
+    <id>https://curation.cloudburo.net/2017/03/05/how-to-generate-a-nice-elevation-chart-out-of-your-google-trip.html</id>
+    <published>2017-03-05T22:23:21Z</published>
+    <updated>2017-03-05T22:23:26+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        The following article will show you how to generate a nice elevation chart out of one of your route which you have a stored as a map in your Google Account (mymaps): 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="color: rgb(0, 102, 33); font-size: 14px; background-color: rgb(255, 255, 255);"&gt;&lt;a href="https://www.google.com/mymaps"&gt;&lt;a href="https://www.google.com/mymaps"&gt;https://www.google.com/mymaps&lt;/a&gt;&lt;/a&gt;&lt;/span&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        In our example we want to generate a Elevation Chart out of our map “Küsnacht Walks”:
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/9f2c7fc071fa5dfd49ff6b50c558d0a5.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Having opened the map in the Editor, select the KML Export feature. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/f227d97cb9d4f4eb36088182c364dfdf.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Select the route which you want to export and download the KML file.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/a9905c941be6fa6779ff2e6f272ff59e.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        For the Elevation Chart use the GPS Visualizer Website: 
+       &lt;a href="http://www.gpsvisualizer.com/elevation"&gt;&lt;a href="http://www.gpsvisualizer.com/elevation"&gt;http://www.gpsvisualizer.com/elevation&lt;/a&gt;&lt;/a&gt;. Upload your file (1) and Draw the Elevation Profile (2).
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/c8332fe06239dc47534e01ea0562482c.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Which results in a nice Elevation Profile, which you can integrate as Picture into your Blog.
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/dc1074029cb2a8a374aa946f5d96fdfd.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The final blog generated with the
+       &lt;a href="https://publishingbot.cloudburo.net"&gt; Cloudburo Publishing Bot&lt;/a&gt;, may look as follows:
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/411d525f908467ed3d23137b31842db8.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Premium Theme: Material-Photo</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2017/02/18/premium-theme-material-photo.html"/>
     <id>https://curation.cloudburo.net/2017/02/18/premium-theme-material-photo.html</id>
     <published>2017-02-18T13:28:48Z</published>
-    <updated>2017-02-18T13:28:49+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -106,7 +235,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/02/18/premium-theme-emma.html"/>
     <id>https://curation.cloudburo.net/2017/02/18/premium-theme-emma.html</id>
     <published>2017-02-18T13:28:44Z</published>
-    <updated>2017-02-18T13:28:47+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -218,7 +347,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/02/18/premium-theme-von.html"/>
     <id>https://curation.cloudburo.net/2017/02/18/premium-theme-von.html</id>
     <published>2017-02-18T13:28:40Z</published>
-    <updated>2017-02-18T13:28:42+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -307,7 +436,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/01/17/getting-started-in-curation-1-the-origins.html"/>
     <id>https://curation.cloudburo.net/2017/01/17/getting-started-in-curation-1-the-origins.html</id>
     <published>2017-01-17T20:55:47Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -450,7 +579,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/01/12/showcase-a-trip-blog-based-on-the-premium-emma-theme.html"/>
     <id>https://curation.cloudburo.net/2017/01/12/showcase-a-trip-blog-based-on-the-premium-emma-theme.html</id>
     <published>2017-01-12T21:29:56Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -524,7 +653,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/01/10/basics-of-web-application-security-authorize-actions.html"/>
     <id>https://curation.cloudburo.net/2017/01/10/basics-of-web-application-security-authorize-actions.html</id>
     <published>2017-01-10T06:04:16Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -572,7 +701,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/01/02/my-site-isn-t-visible-yet.html"/>
     <id>https://curation.cloudburo.net/2017/01/02/my-site-isn-t-visible-yet.html</id>
     <published>2017-01-02T14:41:22Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -650,7 +779,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html</id>
     <published>2016-12-03T10:21:23Z</published>
-    <updated>2017-02-18T14:33:35+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -759,7 +888,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-premium-subscription.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-premium-subscription.html</id>
     <published>2016-12-03T10:10:36Z</published>
-    <updated>2017-02-18T11:52:50+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -853,7 +982,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html</id>
     <published>2016-12-03T09:25:36Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -928,7 +1057,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/10/25/is-your-data-safe-in-evernote.html"/>
     <id>https://curation.cloudburo.net/2016/10/25/is-your-data-safe-in-evernote.html</id>
     <published>2016-10-25T22:03:44Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -958,7 +1087,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/23/how-do-i-solve-failures-when-trying-to-link-evernote-or-slack.html"/>
     <id>https://curation.cloudburo.net/2016/09/23/how-do-i-solve-failures-when-trying-to-link-evernote-or-slack.html</id>
     <published>2016-09-23T19:47:57Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1039,7 +1168,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html"/>
     <id>https://curation.cloudburo.net/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html</id>
     <published>2016-09-23T19:37:56Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1106,7 +1235,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html"/>
     <id>https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html</id>
     <published>2016-09-21T19:48:19Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1256,7 +1385,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/18/content-curation-tools.html"/>
     <id>https://curation.cloudburo.net/2016/09/18/content-curation-tools.html</id>
     <published>2016-09-18T11:54:04Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1324,7 +1453,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html"/>
     <id>https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html</id>
     <published>2016-09-06T22:06:02Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1422,7 +1551,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html"/>
     <id>https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html</id>
     <published>2016-09-05T20:44:56Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1554,7 +1683,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html"/>
     <id>https://curation.cloudburo.net/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html</id>
     <published>2016-07-24T12:06:35Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1611,7 +1740,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html"/>
     <id>https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html</id>
     <published>2016-07-24T04:07:57Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1688,7 +1817,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/track-when-you-get-mentioned-in-the-internet.html"/>
     <id>https://curation.cloudburo.net/2016/07/24/track-when-you-get-mentioned-in-the-internet.html</id>
     <published>2016-07-24T03:02:51Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1895,7 +2024,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/23/feature-login-with-your-slack-account.html"/>
     <id>https://curation.cloudburo.net/2016/07/23/feature-login-with-your-slack-account.html</id>
     <published>2016-07-23T07:08:37Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2024,7 +2153,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html"/>
     <id>https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html</id>
     <published>2016-06-21T21:35:47Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2108,7 +2237,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html"/>
     <id>https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html</id>
     <published>2016-06-15T20:13:18Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2178,7 +2307,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html"/>
     <id>https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html</id>
     <published>2016-06-14T20:05:20Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2277,7 +2406,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html"/>
     <id>https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html</id>
     <published>2016-06-09T18:24:05Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2341,7 +2470,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/02/your-first-site-is-live-whats-next.html"/>
     <id>https://curation.cloudburo.net/2016/06/02/your-first-site-is-live-whats-next.html</id>
     <published>2016-06-02T01:07:16Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2532,7 +2661,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/dont-put-unnecessary-carriage-returns-at-end-of-a-line.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/dont-put-unnecessary-carriage-returns-at-end-of-a-line.html</id>
     <published>2016-05-29T11:11:50Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2570,7 +2699,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html</id>
     <published>2016-05-29T10:22:16Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2610,7 +2739,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-create-curate-workflow.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-create-curate-workflow.html</id>
     <published>2016-05-29T10:22:15Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2644,7 +2773,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html</id>
     <published>2016-05-29T10:10:58Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2689,7 +2818,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html</id>
     <published>2016-05-29T08:22:18Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2758,7 +2887,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/feature-google-analytics-tracking-key-integration.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/feature-google-analytics-tracking-key-integration.html</id>
     <published>2016-05-29T01:03:13Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2815,7 +2944,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html</id>
     <published>2016-05-29T01:03:10Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2882,7 +3011,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html</id>
     <published>2016-05-29T01:03:08Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2941,7 +3070,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/how-to-configure-your-first-site.html"/>
     <id>https://curation.cloudburo.net/2016/05/28/how-to-configure-your-first-site.html</id>
     <published>2016-05-28T22:10:38Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3180,7 +3309,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/how-do-i-know-when-the-publishing-of-an-article-happened.html"/>
     <id>https://curation.cloudburo.net/2016/05/28/how-do-i-know-when-the-publishing-of-an-article-happened.html</id>
     <published>2016-05-28T19:41:29Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3200,7 +3329,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html"/>
     <id>https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html</id>
     <published>2016-05-28T17:06:17Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3316,7 +3445,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html"/>
     <id>https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html</id>
     <published>2016-05-28T16:01:57Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3442,7 +3571,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html"/>
     <id>https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html</id>
     <published>2016-05-19T23:10:44Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3498,7 +3627,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html</id>
     <published>2016-05-16T21:16:51Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3545,7 +3674,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html</id>
     <published>2016-05-16T17:10:25Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3585,7 +3714,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html</id>
     <published>2016-05-16T12:11:24Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3644,7 +3773,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html</id>
     <published>2016-05-16T11:28:38Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3700,7 +3829,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html</id>
     <published>2016-05-16T01:02:15Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3916,7 +4045,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"/>
     <id>https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html</id>
     <published>2016-05-15T23:07:35Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4044,7 +4173,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html"/>
     <id>https://curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html</id>
     <published>2016-05-11T22:14:38Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4137,7 +4266,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html"/>
     <id>https://curation.cloudburo.net/2016/02/28/how-to-link-your-evernote-account.html</id>
     <published>2016-02-28T00:10:09Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4306,7 +4435,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html"/>
     <id>https://curation.cloudburo.net/2016/02/27/error-you-didnt-link-your-evernote-account-yet.html</id>
     <published>2016-02-27T23:04:49Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4345,7 +4474,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html"/>
     <id>https://curation.cloudburo.net/2016/02/27/how-to-buy-or-test-a-product.html</id>
     <published>2016-02-27T12:16:20Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4590,7 +4719,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/error-your-email-isnt-verified.html"/>
     <id>https://curation.cloudburo.net/2016/02/27/error-your-email-isnt-verified.html</id>
     <published>2016-02-27T09:13:53Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
+    <updated>2017-03-05T20:13:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4621,52 +4750,6 @@
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>How to verify your Email Address</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html"/>
-    <id>https://curation.cloudburo.net/2016/02/27/how-to-verify-your-email-address.html</id>
-    <published>2016-02-27T09:00:37Z</published>
-    <updated>2017-02-13T17:06:01+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        When you create a new account the Cloudburo Bots Platform sends you an Email with the request to verify your Email. In case you missed it or didn&amp;rsquo;t click the verify link, you have to repeat the following steps.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;a href="https://bots.cloudburo.net/sign-in"&gt;Login to&lt;/a&gt; or
-       &lt;a href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"&gt;Sign up&lt;/a&gt; to the memberzone and follow the steps shown in the video tutorial. 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ia_L8QXHXBU?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        More
-       &lt;a href="https://curation.cloudburo.net/tags/howto.html"&gt;How To’s Articles&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
