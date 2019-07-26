@@ -5,16 +5,771 @@
   <id>https://curation.cloudburo.net</id>
   <link href="https://curation.cloudburo.net"/>
   <link href="https://curation.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-11-16T22:31:32+00:00</updated>
+  <updated>2019-07-26T12:24:32+00:00</updated>
   <author>
     <name>Felix</name>
   </author>
+  <entry>
+    <title>DeFi Token Trading In Java Using The Kyber Network #1 - A KyberDAO Funded Tutorial</title>
+    <link rel="alternate" href="https://curation.cloudburo.net/2019/07/26/defi-token-trading-in-java-using-the-kyber-network-1-a-kyberdao-funded-tutorial.html"/>
+    <id>https://curation.cloudburo.net/2019/07/26/defi-token-trading-in-java-using-the-kyber-network-1-a-kyberdao-funded-tutorial.html</id>
+    <published>2019-07-26T12:24:32+00:00</published>
+    <updated>2019-07-26T16:28:40+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;div&gt;
+         The tutorial will show you how easily you can access the Kyber Network out of a Java Application in order to trade crypto tokens. The tutorial has implemented the primary trading scenarios:
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           Convert Ether to a Token
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           Convert a Token to Ether, as well as
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           Convert a Token to a Token.
+         &lt;/div&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         The tutorial was established as part of the KyberDAO &amp;ldquo;DAOstack&amp;rdquo; experiment. Therefore the first three sections will give an overview of this experiment and the collected experiences.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         If you are just interested in the Java Tutorial, scroll down to the relevant section.&lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 14pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 14pt;"&gt;About DAOStack and Alchemy Earth&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         As part of my research journey into the technology trends of the emerging world of decentralization, I started recently to investigate into Decentralized Autonomous Organizations (DAO&amp;rsquo;s) and their impact on the future working model. My first article to the topic I published on Medium under the title &amp;ldquo;
+        &lt;a href="https://medium.com/coinmonks/the-death-of-the-corporation-3aa6c6207985"&gt;Death of the Corporation&lt;/a&gt;&amp;rdquo;, which exploits the benefit of such a new way of working. 
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         It&amp;rsquo;s a new series which I started after my initial one - published in Q4 2018 - about the emergence of Polkadot (
+        &lt;a href="https://medium.com/coinmonks/tagged/polkadot-hello-world"&gt;Medium Polkadot Hello World series&lt;/a&gt;). In a way, my own bootstrapping into the crypto space.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         My credo when investigating into new technologies is to try it out by myself (&amp;ldquo;eat your own dog-food&amp;rdquo;) and not just looking at it from a top-down angle. I&amp;rsquo;m an avid hobbyists programmer and established in the recent years a
+        &lt;a href="https://publishingbot.cloudburo.net/"&gt;subscription based blogging product based on Evernote&lt;/a&gt;. Moving forward I was now looking out for some tech work in the Ethereum space to kick-start my decentralized programming activities.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         That brings in
+        &lt;a href="https://daostack.io/"&gt;DAOstack&lt;/a&gt; -  the so-called operating-system for collective intelligence - a blockchain platform (
+        &lt;a href="https://daostack.io/alchemy"&gt;Alchemy&lt;/a&gt;)  for running Distributed Autonomous Organization backed by the so-called Holographic consensus.&lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         The protocol helps DAOs prioritize the most value-aligned proposals, even with million members. The goal of the consensus protocol is to incentivize people to correctly predict what DAO&amp;rsquo;s care about, and lets DAOs make good decisions without requiring everyone to vote on everything (
+        &lt;a href="https://daostack.io/deck/DAOstack-Deck-en.pdf" style="font-size: 10pt;"&gt;DAOStack Slide Deck&lt;/a&gt;). 
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         DAOstack was experimenting in 2018 in an Alpha release and went in a public Beta with their product called &amp;ldquo;
+        &lt;a href="https://alchemy.daostack.io/"&gt;Alchemy Earth&lt;/a&gt;&amp;rdquo; on the Ethereum mainnet. 
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 14pt;"&gt;About Kyber Network and the KyberDAO&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         One community which onboarded a DAO (the so-called
+        &lt;a href="https://alchemy.daostack.io/dao/0x6bee9b81e434f7afce72a43a4016719315069539"&gt;KyberDAO&lt;/a&gt;) as an early-mover to Alchemy Earth was the Kyber Network. 
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;a href="https://kyber.network/"&gt;Kyber Network&lt;/a&gt; is an on-chain liquidity protocol that aggregates from a wide range of token reserves and powers instant and secure token exchange in any decentralized application.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         It&amp;rsquo;s a well-known Ethereum based platform in the new world of
+        &lt;a href="https://defi.network/"&gt;Decentralized Finance Applications&lt;/a&gt;. 
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;img class='article  img-thumbnail' src='/images/c1993350c7d203003b11fa24bf4597c7.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+         Source: 
+        &lt;a href="https://kyber.network/"&gt;Kyber Network&lt;/a&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         The Kyber Network will allow you to exchange Ethereum based token(s), similar as a traditional foreign exchange trade trade will allow you to exchange for example USD for CHF currencies. The underlying base currency is Ether (ETH) and not any fiat currency. 
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         As part of &amp;ldquo;
+        &lt;a href="https://blog.kyber.network/kyberdao-experiment-2-on-daostack-d1caca6caf35"&gt;KyberDAO&lt;/a&gt;&amp;rdquo; community experiment, the network launched in June their DAOstack based DAO (after a first experiment on the Aragon platform) and funded it with about 17,000 KNC (around $4500). Anyone from the community can submit a proposal with a fund request for a portion or the full amount of the grant (see
+        &lt;a href="https://blog.kayber.network/kyberdao-experiment-2-on-daostack-d1caca6caf35"&gt;announcement&lt;/a&gt;).
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         An ideal test environment to request for a funded proposal in the context of my programming experience builds up. In a certain way, a win-win situation for me (Knowledge buildup) as well as the Kyber Network to get some code exposure to the Java community with my proposal. 
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;The decision to invest my time into the Kyber Network was easy because the documentation of their platform from any aspect is just excellent  It allows a newcomer to get an understanding of it very quickly. &lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;From the&lt;/span&gt;
+        &lt;a href="https://developer.kyber.network/docs/API_ABI-Intro/" style="font-size: 10pt;"&gt;interface point of view&lt;/a&gt;
+        &lt;span style="font-size: 10pt;"&gt;Kyber Network provides - besides the direct ABI smart contract- a RESTful API which gives users (without much smart contract knowledge) the ability to interact with their contracts. So the ideal starting point to kick start my programming in the Ethereum crypto space.&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 14pt;"&gt;About my KyberDAO proposal&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         On Alchemy Earth in the KyberDAO section, I created a proposal with the goal
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         &amp;ldquo;To develop a Java Kyber Trading tutorial and publish the findings in a Medium article.&amp;rdquo;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         The proposal itself - shows in the below screenshot of the  Alchemy UI, is backed by a detailed document which is located 
+        &lt;a href="https://docs.google.com/document/d/1H-cX3dFJoOfw7rxnUecW8fYUo6ER9GgnUlWZ7bFVngY/edit%3Fusp%3Dsharing"&gt;here&lt;/a&gt;.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;img class='article  img-thumbnail' src='/images/cf584e7b7c244945fac8199075974a73.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         To publish the proposal, you require a Metamask account and a minimal amount of Ether (some cents to pay for the gas fee, when proposal data is written to the blockchain). Refer to the following
+        &lt;a href="https://www.youtube.com/watch%3Fv%3DBucC_e7T2oo"&gt;YoutTube Tutorial&lt;/a&gt; of @eriktrodigues which walks you through all the necessary onboarding steps.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         I was quite excited to see, what happens when a completely new-joiner request  for some funding of its work in a DAO community. 
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         My first proposal (actually my second one, I got funded for some work in the PolkaDAO as well, where I was a community member before) got well accepted by the community. There were some questions about the requested amount of funding, which may be normal in a contract negotiation.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt; 
+       &lt;img class='article  img-thumbnail' src='/images/2a09bb1d4dd09b598ed081b73bc5a04d.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;I decided to re-adjust the price, which required to re-publish a completely new proposal. This process is somewhat clumsy and results that two open proposals (not automatically linked to each other via a versioning number or similar) are in the system. From a UX point of view, it&amp;rsquo;s not immediately clear for a reviewer which proposal should be looked at. That may get confusing in case there are a large numberof proposals in the reviewing phase potentially with multiple version.&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;So I brought the problem up in the&lt;/span&gt;
+        &lt;a href="https://daotalk.org/t/collected-user-insights-needs-and-feature-requests/536/5" style="font-size: 10pt;"&gt;DAOstack community forum&lt;/a&gt;
+        &lt;span style="font-size: 10pt;"&gt;, which took up the feature request and kick-started a discussion around the topic.  That speaks for the DAOstack community, which is open and very responsive to problems, features, and requests by its user. &lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;img class='article  img-thumbnail' src='/images/d44313ce3b1a00137b4866f02e743202.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 14pt;"&gt;About the Kyber Java Client Library&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 14pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;So now let&amp;rsquo;s dig into the Java client library for the Kyber Network, which I developed as part of my funding request. For a start, let&amp;rsquo;s run the Java Tutorial Application. Let&amp;rsquo;s start with the preparation steps.&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;Preparation Step: Get Java, Git and Gradle installed on your machine&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         Well it&amp;rsquo;s obvious to have Java  and Git installed on your machine, additional the
+        &lt;a href="https://gradle.org/"&gt;Gradle&lt;/a&gt; build environment will be used, so that you can easily run the tutorial code from the command line. Install all these three dependencies on your machine.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;Preparation Step: Create a Ropsten Test Wallet using the web3j command line utility&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;A web3j fat jar is distributed with each web3j release providing command line tools. The command line tools allow you to use some of the functionality of web3j from your terminal. &lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;In our case, we have to create a test wallet on the Ropsten test network which is used for our token swapping scenarios.&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           There are various installers available to the command tool
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           in case of Windows use the
+          &lt;a href="https://github.com/web3j/web3j/releases/tag/4.3.0"&gt;ZIP file distribution&lt;/a&gt;
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           extract in a directory and run the web3j.bat file
+         &lt;/div&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         Use the
+        &lt;a href="https://docs.web3j.io/command_line.html%23wallet-tools"&gt;wallet tools&lt;/a&gt; to create a wallet 
+       &lt;/div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+          &lt;span style="font-style: italic;"&gt;&amp;lsquo;wallet create&amp;rsquo;  &lt;/span&gt;will create a wallet.json file
+         &lt;/div&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt; 
+       &lt;img class='article  img-thumbnail' src='/images/042f19dfe2e96d0245ffa25ec2be9b75.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         Check out the created Ethereum Address in the Wallet file and transfer some Ether to the address.
+       &lt;/div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           You can use the ropsten faucet to create ethereum test coins:&lt;br&gt;
+          &lt;a href="https://faucet.ropsten.be/"&gt;&lt;a href="https://faucet.ropsten.be/"&gt;https://faucet.ropsten.be/&lt;/a&gt;&lt;/a&gt;
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           Use the 
+          &lt;a href="https://ropsten.etherscan.io/address/0x25971ca9171d8076f81b6699dc19bad66a0091a3"&gt;&lt;a href="https://ropsten.etherscan.io/"&gt;https://ropsten.etherscan.io/&lt;/a&gt;&lt;/a&gt; frontend to check your address, transactions and any other blockchain information.
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           The password chosen for the Wallet is required in our tutorial application to load the necessary credentials.
+         &lt;/div&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;Preparation Step: Create a Infura Test Node Account&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;For writing the Kyber Swap transactions to the Ethereum blockchain you will require a Infura Test Node Account (obviously there are other possibilities, but that&amp;rsquo;s the most straightforward).&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           Get an account setup on
+          &lt;a href="https://infura.io/project/dbbbc196b84949beae0c7eb321c00421"&gt;Infura&lt;/a&gt;
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           Create a new project. You will use the Infura secret token (Project Secret) to connect to the Ropsten Test network.&lt;br&gt;
+         &lt;/div&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;img class='article  img-thumbnail' src='/images/87febec8c1d83513f1ad4282b6404568.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;Preparation Step: Clone the github directory and create a secret directory&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           Clone the github directory with the tutorial: 
+          &lt;a href="https://github.com/talfco/clb-kyber-java-tutorial"&gt;&lt;a href="https://github.com/talfco/clb-kyber-java-tutorial"&gt;https://github.com/talfco/clb-kyber-java-tutorial&lt;/a&gt;&lt;/a&gt;
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           create a
+          &lt;span style="font-style: italic;"&gt;secret&lt;/span&gt; directory in the
+          &lt;span style="font-style: italic;"&gt;clb-kyber-java-tutorial &lt;/span&gt;and
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;ul&gt;
+         &lt;li&gt;
+          &lt;div&gt;
+            copy the
+           &lt;span style="font-style: italic;"&gt;wallet.json&lt;/span&gt; file over
+          &lt;/div&gt;&lt;/li&gt;
+         &lt;li&gt;
+          &lt;div&gt;
+            create a
+           &lt;span style="font-style: italic;"&gt;secret.properties&lt;/span&gt; file and add an entry for the
+           &lt;span style="font-style: italic;"&gt;wallet-password&lt;/span&gt; as well as your
+           &lt;span style="font-style: italic;"&gt;infura-token&lt;/span&gt;
+          &lt;/div&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;img class='article  img-thumbnail' src='/images/b81c3560aebeba32a26ee2b86a49e0a1.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;Run the Tutorial Application&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;Just type&lt;/span&gt;
+        &lt;span style="font-size: 10pt; font-style: italic;"&gt;gradle run &lt;/span&gt;
+        &lt;span style="font-size: 10pt;"&gt;which will kick off the tutorial application.&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;The application will call three methods:&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           First it converts parts of your test Ether to two DAI tokens (
+          &lt;span style="font-style: italic;"&gt;eth2token&lt;/span&gt;)
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           Second it converts back one DAI token to Ether (
+          &lt;span style="font-style: italic;"&gt;token2eth&lt;/span&gt;)
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           Third it will convert one DAI token to one BAT token (
+          &lt;span style="font-style: italic;"&gt;token2token&lt;/span&gt;
+         &lt;/div&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;img class='article  img-thumbnail' src='/images/f64d2752b6930e717fc692dd463f4107.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+         Github-Gist: 
+        &lt;a href="https://gist.github.com/talfco/a88d094baff1777880192ec8a4a06f6a"&gt;&lt;a href="https://gist.github.com/talfco/a88d094baff1777880192ec8a4a06f6a"&gt;https://gist.github.com/talfco/a88d094baff1777880192ec8a4a06f6a&lt;/a&gt;&lt;/a&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         Check the console output for created Transaction Hashes and other information.
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;Ethereum Transactions Generated by the Tutorial&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;The tutorial application will generate 3 Ethereum Transactions, which you can checkout via the etherscan.io web application&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+          &lt;a href="https://ropsten.etherscan.io/address/"&gt;&lt;a href="https://ropsten.etherscan.io/address/"&gt;https://ropsten.etherscan.io/address/&lt;/a&gt;&lt;/a&gt;&amp;lt;yourTestWalletAddress&amp;gt;
+         &lt;/div&gt;&lt;/li&gt;
+        &lt;li&gt;
+         &lt;div&gt;
+           You will see three transactions, triggered by our three functions
+         &lt;/div&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt; 
+       &lt;img class='article  img-thumbnail' src='/images/38c4d204d881390dba3bfd81f9e1622e.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;You are now also token owner on the Ropsten Network for DAI and BAT&amp;rsquo;s token. In the future you may use this simple Java Application to generate any kind of test token (as long as it is supported on the Kyber test network)&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;img&gt;
+        &lt;img width="733"&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;If you are a newcomer, I highly suggest that you study the detailed transaction information, which will give you a lot of insight son how an Ethereum transaction is built up.&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;As for example the screenshot below is the detailed transaction information from the&lt;/span&gt;
+        &lt;span style="font-size: 10pt; font-style: italic;"&gt;eth2token&lt;/span&gt;
+        &lt;span style="font-size: 10pt;"&gt;conversion (2 DAI tokens bought).  You could now drill down and explore the Kyber Contract which is involved in this transaction.&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;img class='article  img-thumbnail' src='/images/a3bf9a2e4b4de44f4466c47a65b4c289.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;Implementation Aspects - Kyber API Functionality designed as web3j module&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;This tutorial is my frist Java programming exposure to Ethereum, so I was checking for a decent java base library for the Ethereum network. One well-known is&lt;/span&gt;
+        &lt;a href="https://web3j.io/" style="font-size: 10pt;"&gt;web3j&lt;/a&gt;
+        &lt;span style="font-size: 10pt;"&gt;from the Web3 lab. It&amp;rsquo;s mainly focusing on the Smart contracts (which is mainly shielded by the Kyber Restful API) and will have the necessary tool kits to load wallet credentials and sign transactions, which plays a role as well in the Kyber Restful API&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;img class='article  img-thumbnail' src='/images/1b02d66cc527c92e7baa76f7bca6da0c.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         The introduced java classes and interfaces are inheriting from the core classes of web3j and are implemented in a similar way. This allowed me to leverage a lot of code from web3j on the one side; on the other side developers using web3j will find similar patterns. 
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt; 
+       &lt;img class='article  img-thumbnail' src='/images/69d007eb8dc0d3097de1e1ecd32c92d8.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;In order to be web3j compliant (which is built around JSON-RPC interfaces), I introduced a&lt;/span&gt;
+        &lt;span style="font-size: 10pt; font-style: italic;"&gt;JsonRpc2_0Kyber &lt;/span&gt;
+        &lt;span style="font-size: 10pt; font-weight: bold;"&gt; &lt;/span&gt;
+        &lt;span style="font-size: 10pt;"&gt;which acts as a protocol converter and prepares the request for the Kyber REST API.&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;The Kyber Java API interface supports the following functions.&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;img class='article  img-thumbnail' src='/images/e85994130714ad2d5aa7ceb3f4d2a36d.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+         Github-GIST: 
+        &lt;a href="https://gist.github.com/talfco/12c9729681c347d07829f001db43aeb2"&gt;&lt;a href="https://gist.github.com/talfco/12c9729681c347d07829f001db43aeb2"&gt;https://gist.github.com/talfco/12c9729681c347d07829f001db43aeb2&lt;/a&gt;&lt;/a&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;As one can see the major part is Java strong typed. JSON data requests are automatically converted to Java Classes via&lt;/span&gt;
+        &lt;a href="https://github.com/FasterXML/jackson" style="font-size: 10pt;"&gt;Jackson XML&lt;/a&gt;
+        &lt;span style="font-size: 10pt;"&gt;parsing support.  &lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;A second article will deep-dive into the various design aspects to the built client library. &lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 14pt;"&gt;Trading Scenarios Code Excerpts&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;To conclude the tutorial; the code sequence of the tree scenarios is provided. As you can see the code is quite compact, readable and understandable. If you would check out a basic web3j ethereum transaction sample, you would see the similarity of the code.&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;Scenario: ETH2TOKEN&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;Just realize how easy it is to swap tokens on Ethereum using the Kyber API&amp;rsquo;s!&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;img class='article  img-thumbnail' src='/images/ca35270994a3be72874abe3c3fcb5bfa.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 10pt;"&gt;Github-GIST: &lt;/span&gt;
+        &lt;a href="https://gist.github.com/talfco/13ac48bf03a488be16a73f36e2ff181e"&gt;&lt;a href="https://gist.github.com/talfco/13ac48bf03a488be16a73f36e2ff181e"&gt;https://gist.github.com/talfco/13ac48bf03a488be16a73f36e2ff181e&lt;/a&gt;&lt;/a&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt;Scenario: TOKEN2ETH&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;font style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/font&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;span style="font-size: 12pt;"&gt; 
+       &lt;img class='article  img-thumbnail' src='/images/7f01a4cbc99f098400ae1f5cd1adbdfb.png'&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; &lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+         Github-GIST: 
+        &lt;a href="https://gist.github.com/talfco/0aab8034dc503f3c242ef58c43e7b137"&gt;&lt;a href="https://gist.github.com/talfco/0aab8034dc503f3c242ef58c43e7b137"&gt;https://gist.github.com/talfco/0aab8034dc503f3c242ef58c43e7b137&lt;/a&gt;&lt;/a&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;font style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/font&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 12pt;"&gt;Scenario Token2Token&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;font style="font-size: 12pt;"&gt;&lt;br&gt;&lt;/font&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 10pt;"&gt;Refer to the GIST directly: &lt;/span&gt;
+       &lt;a href="https://gist.github.com/talfco/8b1d5829f3961bd86ecd981e5f3fd0c8"&gt;&lt;a href="https://gist.github.com/talfco/8b1d5829f3961bd86ecd981e5f3fd0c8"&gt;https://gist.github.com/talfco/8b1d5829f3961bd86ecd981e5f3fd0c8&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 14pt;"&gt;Final Point&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 10pt;"&gt;I hope this tutorial was useful for you, so get the code loaded into a Java IDE and start playing around with it. You will realize how easy it is to execute and swap token transactions on the Ethereum network.&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;font style="font-size: 10pt;"&gt;&lt;br&gt;&lt;/font&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style="font-size: 10pt;"&gt;As already mentioned, I plan to come up with a second article, which explains the java client library and its implementation strategy in more detail.&lt;/span&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;a href="https://webgate-dashboard.hidora.com/#/client/Mjc4NzcAYwBqZWxhc3RpYy1hdXRoLXByb3ZpZGVy?token=4C59D803A94E4D979C1494C45E4FDC43DFB24678C4D440D123F3C42CA68205F5&amp;amp;session=822xfc58bd05c3e2978ff957e05478ff9cf4&amp;amp;nodeId=27877&amp;amp;targetAppid=347394dd376b8ec045c86c40f944a713"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Showcase: Convert the WiredLive 2017 Evernote Notebook in a Website</title>
     <link rel="alternate" href="https://curation.cloudburo.net/2017/11/16/showcase-convert-the-wiredlive-2017-evernote-notebook-in-a-website.html"/>
     <id>https://curation.cloudburo.net/2017/11/16/showcase-convert-the-wiredlive-2017-evernote-notebook-in-a-website.html</id>
     <published>2017-11-16T22:31:32+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -164,7 +919,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/11/11/setting-a-site-header-image.html"/>
     <id>https://curation.cloudburo.net/2017/11/11/setting-a-site-header-image.html</id>
     <published>2017-11-11T22:21:45+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -219,7 +974,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/04/02/how-to-relink-your-evernote-account.html"/>
     <id>https://curation.cloudburo.net/2017/04/02/how-to-relink-your-evernote-account.html</id>
     <published>2017-04-02T13:30:19+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -413,7 +1168,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/03/28/evernote-the-smart-person-s-guide.html"/>
     <id>https://curation.cloudburo.net/2017/03/28/evernote-the-smart-person-s-guide.html</id>
     <published>2017-03-28T21:01:37+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -464,7 +1219,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/03/05/how-to-generate-a-nice-elevation-chart-out-of-your-google-maps-route.html"/>
     <id>https://curation.cloudburo.net/2017/03/05/how-to-generate-a-nice-elevation-chart-out-of-your-google-maps-route.html</id>
     <published>2017-03-05T22:23:21+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -593,7 +1348,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/02/18/premium-theme-material-photo.html"/>
     <id>https://curation.cloudburo.net/2017/02/18/premium-theme-material-photo.html</id>
     <published>2017-02-18T13:28:48+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -685,7 +1440,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/02/18/premium-theme-emma.html"/>
     <id>https://curation.cloudburo.net/2017/02/18/premium-theme-emma.html</id>
     <published>2017-02-18T13:28:44+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -797,7 +1552,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/02/18/premium-theme-von.html"/>
     <id>https://curation.cloudburo.net/2017/02/18/premium-theme-von.html</id>
     <published>2017-02-18T13:28:40+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -886,7 +1641,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/01/17/getting-started-in-curation-1-the-origins.html"/>
     <id>https://curation.cloudburo.net/2017/01/17/getting-started-in-curation-1-the-origins.html</id>
     <published>2017-01-17T20:55:47+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1029,7 +1784,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/01/12/showcase-a-trip-blog-based-on-the-premium-emma-theme.html"/>
     <id>https://curation.cloudburo.net/2017/01/12/showcase-a-trip-blog-based-on-the-premium-emma-theme.html</id>
     <published>2017-01-12T21:29:56+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1103,7 +1858,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/01/10/basics-of-web-application-security-authorize-actions.html"/>
     <id>https://curation.cloudburo.net/2017/01/10/basics-of-web-application-security-authorize-actions.html</id>
     <published>2017-01-10T06:04:16+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1151,7 +1906,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2017/01/02/my-site-isn-t-visible-yet.html"/>
     <id>https://curation.cloudburo.net/2017/01/02/my-site-isn-t-visible-yet.html</id>
     <published>2017-01-02T14:41:22+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1229,7 +1984,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html</id>
     <published>2016-12-03T10:21:23+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1355,7 +2110,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-premium-subscription.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-premium-subscription.html</id>
     <published>2016-12-03T10:10:36+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1449,7 +2204,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html"/>
     <id>https://curation.cloudburo.net/2016/12/03/subscription-publishing-bot-basic-subscription.html</id>
     <published>2016-12-03T09:25:36+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1524,7 +2279,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/10/25/is-your-data-safe-in-evernote.html"/>
     <id>https://curation.cloudburo.net/2016/10/25/is-your-data-safe-in-evernote.html</id>
     <published>2016-10-25T22:03:44+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1554,7 +2309,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/23/how-do-i-solve-failures-when-trying-to-link-evernote-or-slack.html"/>
     <id>https://curation.cloudburo.net/2016/09/23/how-do-i-solve-failures-when-trying-to-link-evernote-or-slack.html</id>
     <published>2016-09-23T19:47:57+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1635,7 +2390,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html"/>
     <id>https://curation.cloudburo.net/2016/09/23/bots-platform-doesn-t-load-when-using-internet-explorer.html</id>
     <published>2016-09-23T19:37:56+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1702,7 +2457,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html"/>
     <id>https://curation.cloudburo.net/2016/09/21/how-to-connect-the-publishing-bot-by-keeping-notebook-privacy.html</id>
     <published>2016-09-21T19:48:19+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1852,7 +2607,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/18/content-curation-tools.html"/>
     <id>https://curation.cloudburo.net/2016/09/18/content-curation-tools.html</id>
     <published>2016-09-18T11:54:04+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1920,7 +2675,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html"/>
     <id>https://curation.cloudburo.net/2016/09/06/how-to-revoke-cloudburos-permission-to-your-evernote-account.html</id>
     <published>2016-09-06T22:06:02+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2018,7 +2773,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html"/>
     <id>https://curation.cloudburo.net/2016/09/05/how-to-connect-the-cloudburo-slack-bot.html</id>
     <published>2016-09-05T20:44:56+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2150,7 +2905,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html"/>
     <id>https://curation.cloudburo.net/2016/07/24/a-developer-blog-with-nice-code-formatting-published-out-from-evernote.html</id>
     <published>2016-07-24T12:06:35+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2207,7 +2962,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html"/>
     <id>https://curation.cloudburo.net/2016/07/24/how-to-power-social-media-productivity-with-evernote.html</id>
     <published>2016-07-24T04:07:57+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2284,7 +3039,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/24/track-when-you-get-mentioned-in-the-internet.html"/>
     <id>https://curation.cloudburo.net/2016/07/24/track-when-you-get-mentioned-in-the-internet.html</id>
     <published>2016-07-24T03:02:51+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2491,7 +3246,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/07/23/feature-login-with-your-slack-account.html"/>
     <id>https://curation.cloudburo.net/2016/07/23/feature-login-with-your-slack-account.html</id>
     <published>2016-07-23T07:08:37+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2620,7 +3375,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html"/>
     <id>https://curation.cloudburo.net/2016/06/21/the-amazingly-simple-anatomy-of-a-meaningful-marketing-story.html</id>
     <published>2016-06-21T21:35:47+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2704,7 +3459,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html"/>
     <id>https://curation.cloudburo.net/2016/06/15/faq-how-will-i-get-notified-by-the-cloudburo-publishing-bot.html</id>
     <published>2016-06-15T20:13:18+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2774,7 +3529,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html"/>
     <id>https://curation.cloudburo.net/2016/06/14/create-easily-your-own-compelling-infographics-for-your-content.html</id>
     <published>2016-06-14T20:05:20+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2873,7 +3628,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html"/>
     <id>https://curation.cloudburo.net/2016/06/09/the-science-behind-shareable-content.html</id>
     <published>2016-06-09T18:24:05+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -2937,7 +3692,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/06/02/your-first-site-is-live-whats-next.html"/>
     <id>https://curation.cloudburo.net/2016/06/02/your-first-site-is-live-whats-next.html</id>
     <published>2016-06-02T01:07:16+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3128,7 +3883,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/dont-put-unnecessary-carriage-returns-at-end-of-a-line.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/dont-put-unnecessary-carriage-returns-at-end-of-a-line.html</id>
     <published>2016-05-29T11:11:50+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3166,7 +3921,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-news-publishing-workflow.html</id>
     <published>2016-05-29T10:22:16+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3206,7 +3961,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-create-curate-workflow.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-do-i-disable-the-create-curate-workflow.html</id>
     <published>2016-05-29T10:22:15+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3240,7 +3995,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-do-i-switch-my-site-to-offlline.html</id>
     <published>2016-05-29T10:10:58+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3285,7 +4040,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-do-i-set-the-title-of-the-site.html</id>
     <published>2016-05-29T08:22:18+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3354,7 +4109,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/feature-google-analytics-tracking-key-integration.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/feature-google-analytics-tracking-key-integration.html</id>
     <published>2016-05-29T01:03:13+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3411,7 +4166,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/feature-social-icons-in-your-site-header.html</id>
     <published>2016-05-29T01:03:10+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3478,7 +4233,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html"/>
     <id>https://curation.cloudburo.net/2016/05/29/how-is-the-curation-space-domain-protected-and-accelerated-by-cloudflare-cdn.html</id>
     <published>2016-05-29T01:03:08+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3537,7 +4292,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/how-to-configure-your-first-site.html"/>
     <id>https://curation.cloudburo.net/2016/05/28/how-to-configure-your-first-site.html</id>
     <published>2016-05-28T22:10:38+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3776,7 +4531,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/how-do-i-know-when-the-publishing-of-an-article-happened.html"/>
     <id>https://curation.cloudburo.net/2016/05/28/how-do-i-know-when-the-publishing-of-an-article-happened.html</id>
     <published>2016-05-28T19:41:29+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3796,7 +4551,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html"/>
     <id>https://curation.cloudburo.net/2016/05/28/which-evernote-notebooks-are-created-by-the-publishing-bot.html</id>
     <published>2016-05-28T17:06:17+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -3912,7 +4667,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html"/>
     <id>https://curation.cloudburo.net/2016/05/28/customizable-site-header-and-footer-menus.html</id>
     <published>2016-05-28T16:01:57+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4038,7 +4793,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html"/>
     <id>https://curation.cloudburo.net/2016/05/19/showcase-full-product-documentation-website-managed-by-the-evernote-publishing-b.html</id>
     <published>2016-05-19T23:10:44+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4094,7 +4849,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/how-to-buy-a-subscription-product.html</id>
     <published>2016-05-16T21:16:51+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4141,7 +4896,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/how-to-purchase-a-trial-subscription.html</id>
     <published>2016-05-16T17:10:25+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4181,7 +4936,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/how-to-configure-the-website-publishing-bot.html</id>
     <published>2016-05-16T12:11:24+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4240,7 +4995,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/how-to-delete-a-published-article.html</id>
     <published>2016-05-16T11:28:38+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4296,7 +5051,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html"/>
     <id>https://curation.cloudburo.net/2016/05/16/cloudburo-bots-memberzone-overview.html</id>
     <published>2016-05-16T01:02:15+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4512,7 +5267,7 @@
     <link rel="alternate" href="https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html"/>
     <id>https://curation.cloudburo.net/2016/05/15/how-to-sign-up-for-the-cloudburo-bots-member-zone.html</id>
     <published>2016-05-15T23:07:35+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
+    <updated>2019-06-23T21:50:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -4628,99 +5383,6 @@
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Showcase: With the Evernote Publishing Bot in 115 days around the world</title>
-    <link rel="alternate" href="https://curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html"/>
-    <id>https://curation.cloudburo.net/2016/05/11/showcase-with-the-evernote-publishing-bot-in-115-days-around-the-world.html</id>
-    <published>2016-05-11T22:14:38+00:00</published>
-    <updated>2019-01-13T23:30:20+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/77a728725047aae47fc1d96b8a73cbf2.jpeg" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        During the beta phase of the
-       &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt; I had the opportunity to equip one of my good friends Bruno with our Evernote Publishing Bot.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The Publishing Bot accompanied Bruno and his wife during 115 days on a cruising trip (with the famous
-       &lt;a href="http://brunosblog.curation.space/menu1.html"&gt;Silver Whisper&lt;/a&gt;) round the world (
-       &lt;a href="http://brunosblog.curation.space/menu2.html"&gt;28’000 sea miles&lt;/a&gt;). The Publishing Bot allowed him to easily assemble an up-to-date “World Cruise 2016” travel blog.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Having Evernote as his primary tool to collect photos and text - be it on board during cruising time  (using the Mac OSX Version) or during an excursion (using the handy mobile version) - the content creation process was straightforward.  He managed to provide an update on a daily base from any location on land or sea and that during 115 consecutive days!
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The blog can be found here:
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;a href="http://brunosblog.curation.space/"&gt;&lt;/a&gt;
-       &lt;a href="http://brunosblog.curation.space/"&gt;&lt;a href="http://brunosblog.curation.space/"&gt;http://brunosblog.curation.space/&lt;/a&gt;&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The blog was complemented with an automated weekly Mailchimp Newsletter (check out
-       &lt;a href="https://curation.cloudburo.net/2015/11/18/integrate-mailchimp-for-periodic-newsletter-publishing.html"&gt;how-to-guide&lt;/a&gt;) , which kept his friends and family back in cold Switzerland up-to-date (with an over time growing reader community). 
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        The testing under various conditions allowed me to tweak and fine tune the publishing bot. The positive feedback how easy it was to produce content with the tool set was complemented by an amazing reading adventure.
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        More
-       &lt;a href="https://curation.cloudburo.net/tags/showcase.html"&gt;Cloudburo Publishing Bot Showcases&lt;/a&gt; or
-       &lt;a href="https://publishingbot.cloudburo.net"&gt;Subscribe for a Trial&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;span style="font-size: 11px;"&gt;&lt;i&gt;This blog entry was fully produced within Evernote and published using the &lt;a href="https://publishingbot.cloudburo.net"&gt;Cloudburo Publishing Bot&lt;/a&gt;.&lt;/i&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
